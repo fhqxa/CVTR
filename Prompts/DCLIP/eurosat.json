@@ -1,0 +1,96 @@
+{
+    "Annual Crop Land": [
+        "A photo of a types of land use: a Annual Crop Land, which has rows of crops planted in straight lines.",
+        "A photo of a types of land use: a Annual Crop Land, which has varying shades of green or brown depending on the stage of growth.",
+        "A photo of a types of land use: a Annual Crop Land, which has irrigation systems such as sprinklers or drip lines.",
+        "A photo of a types of land use: a Annual Crop Land, which has signs of human intervention such as tractors or farm equipment.",
+        "A photo of a types of land use: a Annual Crop Land, which has fencing or boundaries around the crop land.",
+        "A photo of a types of land use: a Annual Crop Land, which is absence of trees or permanent structures within the field.",
+        "A photo of a types of land use: a Annual Crop Land, which has signs of harvesting or planting activity such as piles of harvested crops or planting equipment."
+    ],
+    "Forest": [
+        "A photo of a types of land use: a Forest, which has dense vegetation with trees, bushes, and undergrowth.",
+        "A photo of a types of land use: a Forest, which has varying shades of green and brown.",
+        "A photo of a types of land use: a Forest, which has wildlife such as birds, insects, and mammals.",
+        "A photo of a types of land use: a Forest, which has sunlight filtering through the tree canopy.",
+        "A photo of a types of land use: a Forest, which has presence of streams, rivers, or ponds.",
+        "A photo of a types of land use: a Forest, which has moss-covered rocks and fallen logs.",
+        "A photo of a types of land use: a Forest, which has sounds of rustling leaves and bird calls."
+    ],
+    "Herbaceous Vegetation Land": [
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has green or brown plants with soft stems.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has no woody tissues.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has diverse plant species.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has grasses, herbs, and wildflowers.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has no trees or shrubs.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which has open and expansive landscape.",
+        "A photo of a types of land use: a Herbaceous Vegetation Land, which often found in meadows, prairies, or grasslands."
+    ],
+    "Highway or Road": [
+        "A photo of a types of land use: a Highway or Road, which has long, straight or curved path.",
+        "A photo of a types of land use: a Highway or Road, which has lanes with markings for traffic.",
+        "A photo of a types of land use: a Highway or Road, which has signs indicating speed limits or directions.",
+        "A photo of a types of land use: a Highway or Road, which has guardrails or barriers along the sides.",
+        "A photo of a types of land use: a Highway or Road, which has vehicles or people traveling on the road.",
+        "A photo of a types of land use: a Highway or Road, which has road signs or markings indicating intersections or exits.",
+        "A photo of a types of land use: a Highway or Road, which has surrounding landscape or buildings indicating location.."
+    ],
+    "Industrial Buildings": [
+        "A photo of a types of land use: a Industrial Buildings, which has large size and scale.",
+        "A photo of a types of land use: a Industrial Buildings, which typically made of concrete or steel.",
+        "A photo of a types of land use: a Industrial Buildings, which has large windows or doors for loading and unloading goods.",
+        "A photo of a types of land use: a Industrial Buildings, which has smokestacks or ventilation systems.",
+        "A photo of a types of land use: a Industrial Buildings, which has industrial equipment such as cranes or conveyor belts.",
+        "A photo of a types of land use: a Industrial Buildings, which has signage indicating the name or purpose of the building.",
+        "A photo of a types of land use: a Industrial Buildings, which has surrounding industrial infrastructure such as warehouses or storage tanks."
+    ],
+    "Pasture Land": [
+        "A photo of a types of land use: a Pasture Land, which has open grassy area.",
+        "A photo of a types of land use: a Pasture Land, which has grazing livestock such as cows, sheep, or horses.",
+        "A photo of a types of land use: a Pasture Land, which has fences or boundaries to contain the livestock.",
+        "A photo of a types of land use: a Pasture Land, which has trees or shrubs scattered throughout the area.",
+        "A photo of a types of land use: a Pasture Land, which has rolling hills or flat terrain.",
+        "A photo of a types of land use: a Pasture Land, which is a barn or farmhouse in the background.",
+        "A photo of a types of land use: a Pasture Land, which has hay bales or feeding troughs for the animals."
+    ],
+    "Permanent Crop Land": [
+        "A photo of a types of land use: a Permanent Crop Land, which has rows of plants or trees that are regularly spaced.",
+        "A photo of a types of land use: a Permanent Crop Land, which has clearly defined boundaries or borders.",
+        "A photo of a types of land use: a Permanent Crop Land, which has irrigation systems such as sprinklers or drip lines.",
+        "A photo of a types of land use: a Permanent Crop Land, which has signs of cultivation or maintenance such as pruning, weeding, or fertilizing.",
+        "A photo of a types of land use: a Permanent Crop Land, which has presence of fruit or nut-bearing trees or plants.",
+        "A photo of a types of land use: a Permanent Crop Land, which has lack of annual tilling or replanting of crops.",
+        "A photo of a types of land use: a Permanent Crop Land, which has permanent structures such as trellises, greenhouses, or storage buildings adjacent to the crop land."
+    ],
+    "Residential Buildings": [
+        "A photo of a types of land use: a Residential Buildings, which has multiple levels or stories.",
+        "A photo of a types of land use: a Residential Buildings, which has windows.",
+        "A photo of a types of land use: a Residential Buildings, which has doors.",
+        "A photo of a types of land use: a Residential Buildings, which has roof.",
+        "A photo of a types of land use: a Residential Buildings, which has chimneys.",
+        "A photo of a types of land use: a Residential Buildings, which has landscaping or yard space.",
+        "A photo of a types of land use: a Residential Buildings, which has garage or carport.",
+        "A photo of a types of land use: a Residential Buildings, which is architectural style (e.g. modern, traditional, Victorian).",
+        "A photo of a types of land use: a Residential Buildings, which has exterior materials (e.g. brick, wood, stucco).",
+        "A photo of a types of land use: a Residential Buildings, which has surrounding environment (e.g. urban, suburban, rural)."
+    ],
+    "River": [
+        "A photo of a types of land use: a River, which has flowing water.",
+        "A photo of a types of land use: a River, which has banks or shores on either side.",
+        "A photo of a types of land use: a River, which has vegetation or trees along the banks.",
+        "A photo of a types of land use: a River, which has rocks or boulders in or along the river.",
+        "A photo of a types of land use: a River, which has reflections of the sky or surrounding landscape on the water.",
+        "A photo of a types of land use: a River, which has wildlife such as birds or fish in or near the water.",
+        "A photo of a types of land use: a River, which has bridges or boats crossing or on the river."
+    ],
+    "Sea or Lake": [
+        "A photo of a types of land use: a Sea or Lake, which has large body of water.",
+        "A photo of a types of land use: a Sea or Lake, which has surrounded by land or coastline.",
+        "A photo of a types of land use: a Sea or Lake, which has waves or ripples on the surface.",
+        "A photo of a types of land use: a Sea or Lake, which has presence of boats, buoys, or other watercraft.",
+        "A photo of a types of land use: a Sea or Lake, which has marine life such as fish or birds.",
+        "A photo of a types of land use: a Sea or Lake, which has varying shades of blue or green water.",
+        "A photo of a types of land use: a Sea or Lake, which has reflection of the sky or surrounding landscape.",
+        "A photo of a types of land use: a Sea or Lake, which has shorelines with sand, rocks, or vegetation."
+    ]
+}

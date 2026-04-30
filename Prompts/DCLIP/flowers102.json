@@ -1,0 +1,904 @@
+{
+    "pink primrose": [
+        "A photo of a types of flower: a pink primrose, which has pink in color.",
+        "A photo of a types of flower: a pink primrose, which has five petals in a star-like shape.",
+        "A photo of a types of flower: a pink primrose, which has green stems and leaves.",
+        "A photo of a types of flower: a pink primrose, which has clustered or solitary flowers.",
+        "A photo of a types of flower: a pink primrose, which has trumpet-shaped flowers.",
+        "A photo of a types of flower: a pink primrose, which may have a yellow center.",
+        "A photo of a types of flower: a pink primrose, which may have a delicate fragrance."
+    ],
+    "hard-leaved pocket orchid": [
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has orchid flower shape and color.",
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has hard, thick leaves.",
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has pocket-like structure or pouch on the flower.",
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has smooth or glossy texture on leaves.",
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has green or purple coloration.",
+        "A photo of a types of flower: a hard-leaved pocket orchid, which has small size compared to other orchid species."
+    ],
+    "canterbury bells": [
+        "A photo of a types of flower: a canterbury bells, which has bell-shaped flowers with five petals.",
+        "A photo of a types of flower: a canterbury bells, which has usually blue, pink, or white in color.",
+        "A photo of a types of flower: a canterbury bells, which has long, tubular stems.",
+        "A photo of a types of flower: a canterbury bells, which has serrated leaves.",
+        "A photo of a types of flower: a canterbury bells, which has blooms in late spring to early summer.",
+        "A photo of a types of flower: a canterbury bells, which can grow up to 3 feet tall.",
+        "A photo of a types of flower: a canterbury bells, which often grown in gardens or pots."
+    ],
+    "sweet pea": [
+        "A photo of a types of flower: a sweet pea, which is a climbing plant with tendrils.",
+        "A photo of a types of flower: a sweet pea, which has delicate, fragrant flowers in shades of pink, purple, white, or red.",
+        "A photo of a types of flower: a sweet pea, which has compound leaves with 2 leaflets.",
+        "A photo of a types of flower: a sweet pea, which has slender, twining stems.",
+        "A photo of a types of flower: a sweet pea, which has pea-shaped seed pods.",
+        "A photo of a types of flower: a sweet pea, which has grows in clusters or rows on a trellis or support.",
+        "A photo of a types of flower: a sweet pea, which has blooms in spring or early summer."
+    ],
+    "english marigold": [
+        "A photo of a types of flower: a english marigold, which has bright yellow or orange flowers with a distinct scent.",
+        "A photo of a types of flower: a english marigold, which has dark green, feathery leaves.",
+        "A photo of a types of flower: a english marigold, which has compact growth habit.",
+        "A photo of a types of flower: a english marigold, which has blooms in summer and fall.",
+        "A photo of a types of flower: a english marigold, which has small, daisy-like flowers with a dark center.",
+        "A photo of a types of flower: a english marigold, which has grows in clusters or individually on long stems.",
+        "A photo of a types of flower: a english marigold, which has drought-tolerant and easy to grow in various soil types."
+    ],
+    "tiger lily": [
+        "A photo of a types of flower: a tiger lily, which has bright orange, red, or yellow petals with dark spots or stripes.",
+        "A photo of a types of flower: a tiger lily, which has long, slender green leaves.",
+        "A photo of a types of flower: a tiger lily, which has trumpet-shaped flowers.",
+        "A photo of a types of flower: a tiger lily, which has tall, upright stems.",
+        "A photo of a types of flower: a tiger lily, which has blooms in late spring or early summer.",
+        "A photo of a types of flower: a tiger lily, which has distinct floral scent.",
+        "A photo of a types of flower: a tiger lily, which has grows in clusters or individually."
+    ],
+    "moon orchid": [
+        "A photo of a types of flower: a moon orchid, which has white or light pink petals.",
+        "A photo of a types of flower: a moon orchid, which has multiple layers of petals.",
+        "A photo of a types of flower: a moon orchid, which has large, showy flowers.",
+        "A photo of a types of flower: a moon orchid, which has long, thin stem.",
+        "A photo of a types of flower: a moon orchid, which has green leaves.",
+        "A photo of a types of flower: a moon orchid, which has delicate appearance.",
+        "A photo of a types of flower: a moon orchid, which has fragrant scent."
+    ],
+    "bird of paradise": [
+        "A photo of a types of flower: a bird of paradise, which has long tail feathers.",
+        "A photo of a types of flower: a bird of paradise, which has elaborate and intricate patterns on feathers.",
+        "A photo of a types of flower: a bird of paradise, which has unique shape and size.",
+        "A photo of a types of flower: a bird of paradise, which has distinct and vibrant colors.",
+        "A photo of a types of flower: a bird of paradise, which has distinctive and elaborate courtship displays.",
+        "A photo of a types of flower: a bird of paradise, which has long bills or beaks.",
+        "A photo of a types of flower: a bird of paradise, which has unique and conspicuous crests or head ornaments."
+    ],
+    "monkshood": [
+        "A photo of a types of flower: a monkshood, which has tall plant with spiky, hooded flowers.",
+        "A photo of a types of flower: a monkshood, which has deep purple or blue color.",
+        "A photo of a types of flower: a monkshood, which has clustered flowers on a spike.",
+        "A photo of a types of flower: a monkshood, which has lobed leaves.",
+        "A photo of a types of flower: a monkshood, which has toxic plant.",
+        "A photo of a types of flower: a monkshood, which has found in mountainous regions or woodlands.",
+        "A photo of a types of flower: a monkshood, which has distinctive shape of the flowers resembling a monk's hood."
+    ],
+    "globe thistle": [
+        "A photo of a types of flower: a globe thistle, which has spiky, spherical flower head.",
+        "A photo of a types of flower: a globe thistle, which has blue or purple flowers.",
+        "A photo of a types of flower: a globe thistle, which has long, thin stems.",
+        "A photo of a types of flower: a globe thistle, which has green, spiky leaves.",
+        "A photo of a types of flower: a globe thistle, which has clustered flower heads.",
+        "A photo of a types of flower: a globe thistle, which can be found in a garden or wild setting."
+    ],
+    "snapdragon": [
+        "A photo of a types of flower: a snapdragon, which has colorful flowers with a bilaterally symmetrical shape.",
+        "A photo of a types of flower: a snapdragon, which has tubular or funnel-shaped blooms with a \"snapdragon\" shape.",
+        "A photo of a types of flower: a snapdragon, which has spiky or spire-like flower spikes.",
+        "A photo of a types of flower: a snapdragon, which has green lance-shaped leaves.",
+        "A photo of a types of flower: a snapdragon, which has multiple flowers on a single stem.",
+        "A photo of a types of flower: a snapdragon, which often found in shades of pink, purple, white, or yellow."
+    ],
+    "colt's foot": [
+        "A photo of a types of flower: a colt's foot, which has yellow flowers with multiple petals.",
+        "A photo of a types of flower: a colt's foot, which has green leaves with a distinctive shape resembling a horse's hoof.",
+        "A photo of a types of flower: a colt's foot, which has grows in clusters or patches.",
+        "A photo of a types of flower: a colt's foot, which has stems that are hairy and slightly sticky.",
+        "A photo of a types of flower: a colt's foot, which typically found in damp, grassy areas.",
+        "A photo of a types of flower: a colt's foot, which can be mistaken for dandelions, but have different leaf shapes and growth habits."
+    ],
+    "king protea": [
+        "A photo of a types of flower: a king protea, which has unique cone-shaped center.",
+        "A photo of a types of flower: a king protea, which has long, sturdy stem.",
+        "A photo of a types of flower: a king protea, which has thick, leathery leaves.",
+        "A photo of a types of flower: a king protea, which typically found in shades of pink, red, or white.",
+        "A photo of a types of flower: a king protea, which has intricate, detailed texture on petals.",
+        "A photo of a types of flower: a king protea, which has distinctive shape and size compared to other flowers."
+    ],
+    "spear thistle": [
+        "A photo of a types of flower: a spear thistle, which has tall, spiky plant.",
+        "A photo of a types of flower: a spear thistle, which has purple or pink flowers.",
+        "A photo of a types of flower: a spear thistle, which has prickly leaves.",
+        "A photo of a types of flower: a spear thistle, which has long, sturdy stem.",
+        "A photo of a types of flower: a spear thistle, which typically found in meadows or grassy areas.",
+        "A photo of a types of flower: a spear thistle, which can grow up to 6 feet tall.",
+        "A photo of a types of flower: a spear thistle, which often attracts bees and butterflies."
+    ],
+    "yellow iris": [
+        "A photo of a types of flower: a yellow iris, which has round shape.",
+        "A photo of a types of flower: a yellow iris, which has distinct dark pupil in the center.",
+        "A photo of a types of flower: a yellow iris, which has delicate, thin petals.",
+        "A photo of a types of flower: a yellow iris, which has green stem or leaves surrounding the flower."
+    ],
+    "globe-flower": [
+        "A photo of a types of flower: a globe-flower, which has bright yellow or orange petals.",
+        "A photo of a types of flower: a globe-flower, which has globe-shaped flower head.",
+        "A photo of a types of flower: a globe-flower, which has green stems and leaves.",
+        "A photo of a types of flower: a globe-flower, which has grows in clusters or individually.",
+        "A photo of a types of flower: a globe-flower, which typically found in mountainous regions.",
+        "A photo of a types of flower: a globe-flower, which has blooms in late spring or early summer.",
+        "A photo of a types of flower: a globe-flower, which is attracts pollinators such as bees and butterflies."
+    ],
+    "purple coneflower": [
+        "A photo of a types of flower: a purple coneflower, which has tall, daisy-like flower with purple petals and a spiky orange-brown center.",
+        "A photo of a types of flower: a purple coneflower, which has long, slender green stem.",
+        "A photo of a types of flower: a purple coneflower, which has lance-shaped leaves with toothed edges.",
+        "A photo of a types of flower: a purple coneflower, which has grows in clusters or individually.",
+        "A photo of a types of flower: a purple coneflower, which typically found in open meadows or prairies.",
+        "A photo of a types of flower: a purple coneflower, which is attracts butterflies and bees.",
+        "A photo of a types of flower: a purple coneflower, which has blooms in the summer months."
+    ],
+    "peruvian lily": [
+        "A photo of a types of flower: a peruvian lily, which has trumpet-shaped flowers.",
+        "A photo of a types of flower: a peruvian lily, which has multiple blooms on a single stem.",
+        "A photo of a types of flower: a peruvian lily, which has vibrant colors such as pink, red, orange, yellow, or white.",
+        "A photo of a types of flower: a peruvian lily, which has long, slender stems.",
+        "A photo of a types of flower: a peruvian lily, which has narrow, lance-shaped leaves.",
+        "A photo of a types of flower: a peruvian lily, which has six petals with distinctive markings and patterns.",
+        "A photo of a types of flower: a peruvian lily, which has delicate and graceful appearance.."
+    ],
+    "balloon flower": [
+        "A photo of a types of flower: a balloon flower, which has trumpet-shaped flower with a bulbous center.",
+        "A photo of a types of flower: a balloon flower, which has bright, vibrant colors such as pink, purple, or blue.",
+        "A photo of a types of flower: a balloon flower, which has long, slender stem.",
+        "A photo of a types of flower: a balloon flower, which has multiple blooms on a single stem.",
+        "A photo of a types of flower: a balloon flower, which has petals that may have a slightly ruffled or frilly edge.",
+        "A photo of a types of flower: a balloon flower, which has green leaves.",
+        "A photo of a types of flower: a balloon flower, which typically found in garden or floral arrangements."
+    ],
+    "giant white arum lily": [
+        "A photo of a types of flower: a giant white arum lily, which has large, white flower with a yellow spadix in the center.",
+        "A photo of a types of flower: a giant white arum lily, which has long, green stem.",
+        "A photo of a types of flower: a giant white arum lily, which has large, heart-shaped leaves.",
+        "A photo of a types of flower: a giant white arum lily, which typically grows in wet or marshy areas.",
+        "A photo of a types of flower: a giant white arum lily, which has fragrant scent.",
+        "A photo of a types of flower: a giant white arum lily, which has size of the flower and plant overall."
+    ],
+    "fire lily": [
+        "A photo of a types of flower: a fire lily, which has bright red or orange petals.",
+        "A photo of a types of flower: a fire lily, which has trumpet-shaped flowers.",
+        "A photo of a types of flower: a fire lily, which has long, thin green leaves.",
+        "A photo of a types of flower: a fire lily, which has grows from a bulb.",
+        "A photo of a types of flower: a fire lily, which has blooms in spring or summer.",
+        "A photo of a types of flower: a fire lily, which typically found in tropical or subtropical regions.",
+        "A photo of a types of flower: a fire lily, which may have a sweet or spicy fragrance."
+    ],
+    "pincushion flower": [
+        "A photo of a types of flower: a pincushion flower, which has round, globe-shaped flower head.",
+        "A photo of a types of flower: a pincushion flower, which has multiple small, densely-packed flowers in the head.",
+        "A photo of a types of flower: a pincushion flower, which has long, slender stems.",
+        "A photo of a types of flower: a pincushion flower, which has green foliage.",
+        "A photo of a types of flower: a pincushion flower, which has bright colors such as pink, purple, red, or white.",
+        "A photo of a types of flower: a pincushion flower, which has spiky appearance.",
+        "A photo of a types of flower: a pincushion flower, which often found in gardens or floral arrangements."
+    ],
+    "fritillary": [
+        "A photo of a types of flower: a fritillary, which has butterfly.",
+        "A photo of a types of flower: a fritillary, which has bright colors, such as orange, brown, and black.",
+        "A photo of a types of flower: a fritillary, which has distinctive wing patterns, often with spots or stripes.",
+        "A photo of a types of flower: a fritillary, which has six legs.",
+        "A photo of a types of flower: a fritillary, which is antennae.",
+        "A photo of a types of flower: a fritillary, which has thin, delicate wings.",
+        "A photo of a types of flower: a fritillary, which has proboscis for feeding on nectar."
+    ],
+    "red ginger": [
+        "A photo of a types of flower: a red ginger, which has long, slender stems.",
+        "A photo of a types of flower: a red ginger, which has bright red flowers.",
+        "A photo of a types of flower: a red ginger, which has green leaves with a reddish tint.",
+        "A photo of a types of flower: a red ginger, which has tuberous roots.",
+        "A photo of a types of flower: a red ginger, which has tropical plant.",
+        "A photo of a types of flower: a red ginger, which typically grown in warm, humid climates.",
+        "A photo of a types of flower: a red ginger, which is used in culinary dishes and herbal medicine."
+    ],
+    "grape hyacinth": [
+        "A photo of a types of flower: a grape hyacinth, which has small, bulbous flower cluster.",
+        "A photo of a types of flower: a grape hyacinth, which has purple or blue petals.",
+        "A photo of a types of flower: a grape hyacinth, which has long, narrow green leaves.",
+        "A photo of a types of flower: a grape hyacinth, which has stem with multiple flower clusters.",
+        "A photo of a types of flower: a grape hyacinth, which has clustered, bell-shaped flowers.",
+        "A photo of a types of flower: a grape hyacinth, which has distinct grape-like appearance.",
+        "A photo of a types of flower: a grape hyacinth, which typically found in spring gardens or landscapes."
+    ],
+    "corn poppy": [
+        "A photo of a types of flower: a corn poppy, which has bright red petals with a black spot at the base.",
+        "A photo of a types of flower: a corn poppy, which has slender stems.",
+        "A photo of a types of flower: a corn poppy, which has hairy leaves.",
+        "A photo of a types of flower: a corn poppy, which has single flower per stem.",
+        "A photo of a types of flower: a corn poppy, which has blooms in late spring to early summer.",
+        "A photo of a types of flower: a corn poppy, which has grows in fields or meadows.",
+        "A photo of a types of flower: a corn poppy, which may have a round, bulbous seed pod after blooming."
+    ],
+    "prince of wales feathers": [
+        "A photo of a types of flower: a prince of wales feathers, which has distinctive pattern of three white ostrich feathers emerging from a gold coronet.",
+        "A photo of a types of flower: a prince of wales feathers, which typically seen on the heraldic badge of the Prince of Wales.",
+        "A photo of a types of flower: a prince of wales feathers, which often depicted on coats of arms or flags.",
+        "A photo of a types of flower: a prince of wales feathers, which has elegant and ornate design.",
+        "A photo of a types of flower: a prince of wales feathers, which is associated with royalty and nobility."
+    ],
+    "stemless gentian": [
+        "A photo of a types of flower: a stemless gentian, which has bright blue or purple flowers.",
+        "A photo of a types of flower: a stemless gentian, which has small, trumpet-shaped flowers.",
+        "A photo of a types of flower: a stemless gentian, which has clustered flowers.",
+        "A photo of a types of flower: a stemless gentian, which has basal leaves (leaves at the base of the plant).",
+        "A photo of a types of flower: a stemless gentian, which has low-growing plant.",
+        "A photo of a types of flower: a stemless gentian, which typically found in alpine or subalpine regions.",
+        "A photo of a types of flower: a stemless gentian, which has no visible stem between the leaves and flowers."
+    ],
+    "artichoke": [
+        "A photo of a types of flower: a artichoke, which has green or purple color.",
+        "A photo of a types of flower: a artichoke, which has round shape.",
+        "A photo of a types of flower: a artichoke, which has thick, leafy exterior.",
+        "A photo of a types of flower: a artichoke, which has pointed tips on leaves.",
+        "A photo of a types of flower: a artichoke, which has stem at the base.",
+        "A photo of a types of flower: a artichoke, which has tightly packed inner leaves.",
+        "A photo of a types of flower: a artichoke, which has edible heart at the center.",
+        "A photo of a types of flower: a artichoke, which has sometimes covered in thorns or spikes."
+    ],
+    "sweet william": [
+        "A photo of a types of flower: a sweet william, which has clustered flowers with fringed petals in various colors such as pink, red, white, or purple.",
+        "A photo of a types of flower: a sweet william, which has opposite leaves that are linear or lance-shaped.",
+        "A photo of a types of flower: a sweet william, which has hairy stems.",
+        "A photo of a types of flower: a sweet william, which has compact, rounded flower clusters.",
+        "A photo of a types of flower: a sweet william, which has sweet, clove-like fragrance."
+    ],
+    "carnation": [
+        "A photo of a types of flower: a carnation, which has flower with a round, ruffled bloom.",
+        "A photo of a types of flower: a carnation, which typically pink, white, red, or purple in color.",
+        "A photo of a types of flower: a carnation, which has long, slender stem.",
+        "A photo of a types of flower: a carnation, which has green leaves.",
+        "A photo of a types of flower: a carnation, which has sweet, spicy fragrance.",
+        "A photo of a types of flower: a carnation, which has petals with fringed edges.",
+        "A photo of a types of flower: a carnation, which typically grown in clusters of blooms on a single stem."
+    ],
+    "garden phlox": [
+        "A photo of a types of flower: a garden phlox, which has clusters of small, fragrant flowers in shades of pink, purple, or white.",
+        "A photo of a types of flower: a garden phlox, which has lance-shaped leaves.",
+        "A photo of a types of flower: a garden phlox, which has tall, upright stems.",
+        "A photo of a types of flower: a garden phlox, which has branching growth habit.",
+        "A photo of a types of flower: a garden phlox, which is attracts butterflies and hummingbirds.",
+        "A photo of a types of flower: a garden phlox, which has grows in sun or partial shade.",
+        "A photo of a types of flower: a garden phlox, which has blooms in summer to early fall."
+    ],
+    "love in the mist": [
+        "A photo of a types of flower: a love in the mist, which has blue, purple, pink, or white petals.",
+        "A photo of a types of flower: a love in the mist, which has fern-like foliage.",
+        "A photo of a types of flower: a love in the mist, which has star-shaped center.",
+        "A photo of a types of flower: a love in the mist, which has commonly found in gardens or wildflower meadows.",
+        "A photo of a types of flower: a love in the mist, which can have a unique, whimsical appearance."
+    ],
+    "mexican aster": [
+        "A photo of a types of flower: a mexican aster, which has bright yellow or orange petals.",
+        "A photo of a types of flower: a mexican aster, which has small, daisy-like flowers.",
+        "A photo of a types of flower: a mexican aster, which has multiple flowers clustered together.",
+        "A photo of a types of flower: a mexican aster, which has green leaves.",
+        "A photo of a types of flower: a mexican aster, which has tall, slender stems.",
+        "A photo of a types of flower: a mexican aster, which may have a central disc in the middle of the flower.",
+        "A photo of a types of flower: a mexican aster, which typically found in gardens or fields in Mexico or other warm climates.."
+    ],
+    "alpine sea holly": [
+        "A photo of a types of flower: a alpine sea holly, which has spiky, blue-green foliage.",
+        "A photo of a types of flower: a alpine sea holly, which has small, globe-shaped, blue or white flowers.",
+        "A photo of a types of flower: a alpine sea holly, which has grows in rocky or sandy alpine environments.",
+        "A photo of a types of flower: a alpine sea holly, which is adapted to cold and windy conditions.",
+        "A photo of a types of flower: a alpine sea holly, which may have a woody stem.",
+        "A photo of a types of flower: a alpine sea holly, which may have thorny leaves or stems.",
+        "A photo of a types of flower: a alpine sea holly, which often found in mountainous regions.",
+        "A photo of a types of flower: a alpine sea holly, which may attract pollinators like bees or butterflies."
+    ],
+    "ruby-lipped cattleya": [
+        "A photo of a types of flower: a ruby-lipped cattleya, which has bright red or pink petals with a contrasting lip.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has large, showy flowers.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has long, slender stems.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has green, lance-shaped leaves.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which typically grown in pots or hanging baskets.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has orchid plant.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has tropical or subtropical climate.",
+        "A photo of a types of flower: a ruby-lipped cattleya, which has delicate, fragrant blooms."
+    ],
+    "cape flower": [
+        "A photo of a types of flower: a cape flower, which has bright and colorful petals.",
+        "A photo of a types of flower: a cape flower, which is a circular or star-shaped flower head.",
+        "A photo of a types of flower: a cape flower, which has green stems and leaves.",
+        "A photo of a types of flower: a cape flower, which is a distinct fragrance.",
+        "A photo of a types of flower: a cape flower, which is a delicate and intricate appearance.",
+        "A photo of a types of flower: a cape flower, which has native to South Africa.",
+        "A photo of a types of flower: a cape flower, which may have unique markings or patterns on the petals."
+    ],
+    "great masterwort": [
+        "A photo of a types of flower: a great masterwort, which is a tall, upright plant with long stems.",
+        "A photo of a types of flower: a great masterwort, which has clusters of small, pink or purple flowers.",
+        "A photo of a types of flower: a great masterwort, which has deeply lobed, serrated leaves.",
+        "A photo of a types of flower: a great masterwort, which has hairy stems and leaves.",
+        "A photo of a types of flower: a great masterwort, which has grows in clusters or patches.",
+        "A photo of a types of flower: a great masterwort, which typically found in meadows or grasslands."
+    ],
+    "siam tulip": [
+        "A photo of a types of flower: a siam tulip, which has plant with green leaves.",
+        "A photo of a types of flower: a siam tulip, which has bright pink or purple flower.",
+        "A photo of a types of flower: a siam tulip, which has trumpet-shaped petals.",
+        "A photo of a types of flower: a siam tulip, which has multiple flowers on a single stem.",
+        "A photo of a types of flower: a siam tulip, which has bulbous underground stem.",
+        "A photo of a types of flower: a siam tulip, which has grows in tropical or subtropical climates.",
+        "A photo of a types of flower: a siam tulip, which may have thin, long stems.",
+        "A photo of a types of flower: a siam tulip, which may have small, pointed leaves around the base of the flower."
+    ],
+    "lenten rose": [
+        "A photo of a types of flower: a lenten rose, which is a flowering plant.",
+        "A photo of a types of flower: a lenten rose, which has dark green, leathery leaves.",
+        "A photo of a types of flower: a lenten rose, which has flowers with five petals in shades of white, pink, purple, or green.",
+        "A photo of a types of flower: a lenten rose, which has blooms in late winter or early spring.",
+        "A photo of a types of flower: a lenten rose, which has grows close to the ground.",
+        "A photo of a types of flower: a lenten rose, which may have speckled or spotted petals.",
+        "A photo of a types of flower: a lenten rose, which may have a slight fragrance."
+    ],
+    "barbeton daisy": [
+        "A photo of a types of flower: a barbeton daisy, which has bright, colorful petals (usually pink, red, or white).",
+        "A photo of a types of flower: a barbeton daisy, which is a yellow center.",
+        "A photo of a types of flower: a barbeton daisy, which has long, slender stems.",
+        "A photo of a types of flower: a barbeton daisy, which has oval-shaped leaves.",
+        "A photo of a types of flower: a barbeton daisy, which is a daisy-like appearance with multiple petals radiating from the center.",
+        "A photo of a types of flower: a barbeton daisy, which is a compact, bushy growth habit.",
+        "A photo of a types of flower: a barbeton daisy, which is a pleasant floral scent."
+    ],
+    "daffodil": [
+        "A photo of a types of flower: a daffodil, which has yellow or white petals.",
+        "A photo of a types of flower: a daffodil, which has trumpet-shaped central corona.",
+        "A photo of a types of flower: a daffodil, which has long, slender green stem.",
+        "A photo of a types of flower: a daffodil, which has narrow, grass-like leaves.",
+        "A photo of a types of flower: a daffodil, which typically blooms in spring.",
+        "A photo of a types of flower: a daffodil, which has distinctive scent.",
+        "A photo of a types of flower: a daffodil, which typically grows in clusters or singly."
+    ],
+    "sword lily": [
+        "A photo of a types of flower: a sword lily, which has long, sword-shaped leaves.",
+        "A photo of a types of flower: a sword lily, which has tall, slender stem.",
+        "A photo of a types of flower: a sword lily, which has colorful, trumpet-shaped flowers.",
+        "A photo of a types of flower: a sword lily, which has clustered blooms at the top of the stem.",
+        "A photo of a types of flower: a sword lily, which typically bright and vibrant colors like red, pink, orange, or purple.",
+        "A photo of a types of flower: a sword lily, which may have multiple blooms on one stem.",
+        "A photo of a types of flower: a sword lily, which may have a slightly sweet or fruity fragrance."
+    ],
+    "poinsettia": [
+        "A photo of a types of flower: a poinsettia, which has red, pink, white, or marbled leaves (bracts).",
+        "A photo of a types of flower: a poinsettia, which has green leaves at the center.",
+        "A photo of a types of flower: a poinsettia, which has small yellow flowers in the center of the bracts.",
+        "A photo of a types of flower: a poinsettia, which has bushy or tree-like appearance.",
+        "A photo of a types of flower: a poinsettia, which typically found in holiday decorations.",
+        "A photo of a types of flower: a poinsettia, which can be potted or in a decorative container."
+    ],
+    "bolero deep blue": [
+        "A photo of a types of flower: a bolero deep blue, which has Cropped length.",
+        "A photo of a types of flower: a bolero deep blue, which has Open front style.",
+        "A photo of a types of flower: a bolero deep blue, which has Fitted silhouette.",
+        "A photo of a types of flower: a bolero deep blue, which has Three-quarter length sleeves.",
+        "A photo of a types of flower: a bolero deep blue, which has Possibly embellishments like sequins or embroidery.",
+        "A photo of a types of flower: a bolero deep blue, which has Made of a lightweight fabric like chiffon or satin."
+    ],
+    "wallflower": [
+        "A photo of a types of flower: a wallflower, which has small, delicate flowers.",
+        "A photo of a types of flower: a wallflower, which typically in shades of pink, purple, or white.",
+        "A photo of a types of flower: a wallflower, which has clustered together on a tall, slender stem.",
+        "A photo of a types of flower: a wallflower, which has narrow, lance-shaped leaves.",
+        "A photo of a types of flower: a wallflower, which has growing close to walls or fences.",
+        "A photo of a types of flower: a wallflower, which often found in gardens or along roadsides."
+    ],
+    "marigold": [
+        "A photo of a types of flower: a marigold, which has bright yellow or orange petals.",
+        "A photo of a types of flower: a marigold, which has small, round flower head.",
+        "A photo of a types of flower: a marigold, which has green stems and leaves.",
+        "A photo of a types of flower: a marigold, which has compact, bushy growth habit.",
+        "A photo of a types of flower: a marigold, which has distinct, pungent smell.",
+        "A photo of a types of flower: a marigold, which has commonly grown in gardens or pots.",
+        "A photo of a types of flower: a marigold, which often used as a companion plant for pest control in gardens."
+    ],
+    "buttercup": [
+        "A photo of a types of flower: a buttercup, which has small yellow flowers with five petals.",
+        "A photo of a types of flower: a buttercup, which has glossy green leaves.",
+        "A photo of a types of flower: a buttercup, which has grows in clusters or on stems.",
+        "A photo of a types of flower: a buttercup, which typically found in fields or meadows.",
+        "A photo of a types of flower: a buttercup, which has a distinct cup-shaped flower.",
+        "A photo of a types of flower: a buttercup, which has blooms in the spring or summer.",
+        "A photo of a types of flower: a buttercup, which may have a slightly sweet smell."
+    ],
+    "oxeye daisy": [
+        "A photo of a types of flower: a oxeye daisy, which has white petals with a yellow center.",
+        "A photo of a types of flower: a oxeye daisy, which has daisy-like flower with multiple petals.",
+        "A photo of a types of flower: a oxeye daisy, which has green stem and leaves.",
+        "A photo of a types of flower: a oxeye daisy, which has grows in clusters or groups.",
+        "A photo of a types of flower: a oxeye daisy, which typically found in meadows or grassy areas.",
+        "A photo of a types of flower: a oxeye daisy, which has round flower head.",
+        "A photo of a types of flower: a oxeye daisy, which has blooms in the spring or summer season."
+    ],
+    "common dandelion": [
+        "A photo of a types of flower: a common dandelion, which has green stem and leaves.",
+        "A photo of a types of flower: a common dandelion, which has distinctive fluffy seed head.",
+        "A photo of a types of flower: a common dandelion, which has grows low to the ground.",
+        "A photo of a types of flower: a common dandelion, which often found in lawns, meadows, and roadsides."
+    ],
+    "petunia": [
+        "A photo of a types of flower: a petunia, which has flowering plant.",
+        "A photo of a types of flower: a petunia, which has trumpet-shaped flowers.",
+        "A photo of a types of flower: a petunia, which has variety of colors such as pink, purple, white, or red.",
+        "A photo of a types of flower: a petunia, which has green leaves.",
+        "A photo of a types of flower: a petunia, which has compact or trailing growth habit.",
+        "A photo of a types of flower: a petunia, which has blooms in clusters.",
+        "A photo of a types of flower: a petunia, which has delicate petals.",
+        "A photo of a types of flower: a petunia, which often used in hanging baskets or garden beds."
+    ],
+    "wild pansy": [
+        "A photo of a types of flower: a wild pansy, which has small, delicate flowers with five petals.",
+        "A photo of a types of flower: a wild pansy, which has heart-shaped leaves.",
+        "A photo of a types of flower: a wild pansy, which has various colors, including purple, yellow, white, and blue.",
+        "A photo of a types of flower: a wild pansy, which has low-growing plant.",
+        "A photo of a types of flower: a wild pansy, which has grows in clusters or alone.",
+        "A photo of a types of flower: a wild pansy, which has distinctive markings on petals, such as lines or dots.",
+        "A photo of a types of flower: a wild pansy, which has blooms in spring and early summer."
+    ],
+    "primula": [
+        "A photo of a types of flower: a primula, which has small, delicate flowers.",
+        "A photo of a types of flower: a primula, which typically have five petals.",
+        "A photo of a types of flower: a primula, which has bright, vibrant colors such as pink, purple, yellow, or white.",
+        "A photo of a types of flower: a primula, which has green, leafy stems.",
+        "A photo of a types of flower: a primula, which has compact, rosette-shaped clusters of leaves.",
+        "A photo of a types of flower: a primula, which may have a slightly sweet scent.",
+        "A photo of a types of flower: a primula, which typically found in cooler climates or high altitudes."
+    ],
+    "sunflower": [
+        "A photo of a types of flower: a sunflower, which has yellow petals surrounding a brown center.",
+        "A photo of a types of flower: a sunflower, which has tall stem with large leaves.",
+        "A photo of a types of flower: a sunflower, which has rough texture on stem and leaves.",
+        "A photo of a types of flower: a sunflower, which has multiple flowers on a single plant.",
+        "A photo of a types of flower: a sunflower, which has distinctive smell.",
+        "A photo of a types of flower: a sunflower, which has seeds visible in the center of the flower.",
+        "A photo of a types of flower: a sunflower, which typically found in sunny locations."
+    ],
+    "pelargonium": [
+        "A photo of a types of flower: a pelargonium, which has flowering plant.",
+        "A photo of a types of flower: a pelargonium, which has thick, fleshy stems and leaves.",
+        "A photo of a types of flower: a pelargonium, which has clusters of colorful flowers (usually pink, red, or white).",
+        "A photo of a types of flower: a pelargonium, which has five-petaled flowers with distinct veining.",
+        "A photo of a types of flower: a pelargonium, which has serrated or lobed leaves.",
+        "A photo of a types of flower: a pelargonium, which often grown in pots or hanging baskets.",
+        "A photo of a types of flower: a pelargonium, which has commonly known as geraniums (though they are not true geraniums)."
+    ],
+    "bishop of llandaff": [
+        "A photo of a types of flower: a bishop of llandaff, which has Wearing traditional bishop attire, such as a long purple robe with white trim and a matching purple mitre.",
+        "A photo of a types of flower: a bishop of llandaff, which has Carrying a shepherd's crook or staff.",
+        "A photo of a types of flower: a bishop of llandaff, which has Wearing a pectoral cross around their neck.",
+        "A photo of a types of flower: a bishop of llandaff, which has Often depicted with a book or Bible in hand.",
+        "A photo of a types of flower: a bishop of llandaff, which has Symbol of the Welsh flag (a red dragon) on their attire or in the background.",
+        "A photo of a types of flower: a bishop of llandaff, which has Surrounded by religious symbols or in a church setting."
+    ],
+    "gaura": [
+        "A photo of a types of flower: a gaura, which has tall, slender stems.",
+        "A photo of a types of flower: a gaura, which has delicate, pink or white flowers.",
+        "A photo of a types of flower: a gaura, which has long, narrow leaves.",
+        "A photo of a types of flower: a gaura, which has bushy or clumping growth habit.",
+        "A photo of a types of flower: a gaura, which has drought-tolerant.",
+        "A photo of a types of flower: a gaura, which has commonly found in prairies or meadows.",
+        "A photo of a types of flower: a gaura, which is attracts pollinators such as bees and butterflies."
+    ],
+    "geranium": [
+        "A photo of a types of flower: a geranium, which has flowering plant.",
+        "A photo of a types of flower: a geranium, which has green, lobed leaves.",
+        "A photo of a types of flower: a geranium, which has clusters of colorful flowers (typically pink, red, or white).",
+        "A photo of a types of flower: a geranium, which has woody stems.",
+        "A photo of a types of flower: a geranium, which can be potted or planted in a garden.",
+        "A photo of a types of flower: a geranium, which has distinctive scent.",
+        "A photo of a types of flower: a geranium, which can attract butterflies and hummingbirds.",
+        "A photo of a types of flower: a geranium, which can be grown indoors or outdoors."
+    ],
+    "orange dahlia": [
+        "A photo of a types of flower: a orange dahlia, which has large, showy flowers with multiple petals.",
+        "A photo of a types of flower: a orange dahlia, which has bright orange color.",
+        "A photo of a types of flower: a orange dahlia, which has green stems and leaves.",
+        "A photo of a types of flower: a orange dahlia, which has round or slightly oval-shaped flower heads.",
+        "A photo of a types of flower: a orange dahlia, which has distinct, spicy fragrance.",
+        "A photo of a types of flower: a orange dahlia, which typically grown in gardens or flower beds.",
+        "A photo of a types of flower: a orange dahlia, which may have a yellow or dark center in the flower head."
+    ],
+    "pink-yellow dahlia": [
+        "A photo of a types of flower: a pink-yellow dahlia, which has flower with multiple layers of petals.",
+        "A photo of a types of flower: a pink-yellow dahlia, which has pink and yellow color combination.",
+        "A photo of a types of flower: a pink-yellow dahlia, which has green stem and leaves.",
+        "A photo of a types of flower: a pink-yellow dahlia, which has round shape with a flat center.",
+        "A photo of a types of flower: a pink-yellow dahlia, which has intricate patterns and textures on the petals.",
+        "A photo of a types of flower: a pink-yellow dahlia, which typically a medium to large size flower.",
+        "A photo of a types of flower: a pink-yellow dahlia, which often found in gardens or floral arrangements."
+    ],
+    "cautleya spicata": [
+        "A photo of a types of flower: a cautleya spicata, which has orchid plant.",
+        "A photo of a types of flower: a cautleya spicata, which has tall, slender stems.",
+        "A photo of a types of flower: a cautleya spicata, which has green, lance-shaped leaves.",
+        "A photo of a types of flower: a cautleya spicata, which has bright red or orange flowers with yellow markings.",
+        "A photo of a types of flower: a cautleya spicata, which has multiple flowers on each stem.",
+        "A photo of a types of flower: a cautleya spicata, which has cylindrical flower shape.",
+        "A photo of a types of flower: a cautleya spicata, which has tropical or subtropical climate habitat."
+    ],
+    "japanese anemone": [
+        "A photo of a types of flower: a japanese anemone, which has delicate, cup-shaped flowers in shades of pink, white, or purple.",
+        "A photo of a types of flower: a japanese anemone, which has long, slender stems.",
+        "A photo of a types of flower: a japanese anemone, which has serrated leaves.",
+        "A photo of a types of flower: a japanese anemone, which has multiple flowers on each stem.",
+        "A photo of a types of flower: a japanese anemone, which has blooms in late summer to early fall.",
+        "A photo of a types of flower: a japanese anemone, which has prefers moist, well-drained soil.",
+        "A photo of a types of flower: a japanese anemone, which is attracts pollinators such as bees and butterflies."
+    ],
+    "black-eyed susan": [
+        "A photo of a types of flower: a black-eyed susan, which has daisy-like flower.",
+        "A photo of a types of flower: a black-eyed susan, which has green stems and leaves.",
+        "A photo of a types of flower: a black-eyed susan, which has grows in clusters.",
+        "A photo of a types of flower: a black-eyed susan, which has blooms in late summer or early fall.",
+        "A photo of a types of flower: a black-eyed susan, which can be found in meadows, fields, and gardens."
+    ],
+    "silverbush": [
+        "A photo of a types of flower: a silverbush, which has small shrub or plant.",
+        "A photo of a types of flower: a silverbush, which has silver or grey-green leaves.",
+        "A photo of a types of flower: a silverbush, which has small white or pink flowers.",
+        "A photo of a types of flower: a silverbush, which has compact, bushy growth habit.",
+        "A photo of a types of flower: a silverbush, which has drought-resistant.",
+        "A photo of a types of flower: a silverbush, which has usually grows in dry or rocky soil.",
+        "A photo of a types of flower: a silverbush, which may have a woody stem or branches."
+    ],
+    "californian poppy": [
+        "A photo of a types of flower: a californian poppy, which has bright orange or yellow petals.",
+        "A photo of a types of flower: a californian poppy, which has four petals.",
+        "A photo of a types of flower: a californian poppy, which has long, slender stems.",
+        "A photo of a types of flower: a californian poppy, which has fern-like leaves.",
+        "A photo of a types of flower: a californian poppy, which has blooms in spring and summer.",
+        "A photo of a types of flower: a californian poppy, which has grows in clusters.",
+        "A photo of a types of flower: a californian poppy, which typically found in dry, sunny locations."
+    ],
+    "osteospermum": [
+        "A photo of a types of flower: a osteospermum, which has daisy-like flowers with colorful petals.",
+        "A photo of a types of flower: a osteospermum, which has long, slender stems.",
+        "A photo of a types of flower: a osteospermum, which has green, lance-shaped leaves.",
+        "A photo of a types of flower: a osteospermum, which has multiple blooms on each stem.",
+        "A photo of a types of flower: a osteospermum, which has variety of colors including white, purple, pink, and orange.",
+        "A photo of a types of flower: a osteospermum, which has compact, bushy growth habit.",
+        "A photo of a types of flower: a osteospermum, which has prefers full sun and well-drained soil."
+    ],
+    "spring crocus": [
+        "A photo of a types of flower: a spring crocus, which has small, colorful flower with six petals.",
+        "A photo of a types of flower: a spring crocus, which has usually purple, white, yellow, or orange in color.",
+        "A photo of a types of flower: a spring crocus, which has slender, grass-like leaves.",
+        "A photo of a types of flower: a spring crocus, which has grows from a corm underground.",
+        "A photo of a types of flower: a spring crocus, which has blooms in early spring.",
+        "A photo of a types of flower: a spring crocus, which often has a yellow or orange stigma in the center.",
+        "A photo of a types of flower: a spring crocus, which has delicate appearance."
+    ],
+    "bearded iris": [
+        "A photo of a types of flower: a bearded iris, which has tall, slender stem.",
+        "A photo of a types of flower: a bearded iris, which has sword-shaped leaves.",
+        "A photo of a types of flower: a bearded iris, which has large, showy flowers with three upright petals (standards) and three drooping petals (falls).",
+        "A photo of a types of flower: a bearded iris, which has fuzzy \"beard\" on the falls.",
+        "A photo of a types of flower: a bearded iris, which has range of colors including purple, blue, white, yellow, and pink.",
+        "A photo of a types of flower: a bearded iris, which has distinctive scent.",
+        "A photo of a types of flower: a bearded iris, which has six stamens and a three-lobed stigma."
+    ],
+    "windflower": [
+        "A photo of a types of flower: a windflower, which has delicate, colorful petals.",
+        "A photo of a types of flower: a windflower, which has slender stems.",
+        "A photo of a types of flower: a windflower, which has multiple blooms on each stem.",
+        "A photo of a types of flower: a windflower, which has usually found in shades of blue, pink, purple, or white.",
+        "A photo of a types of flower: a windflower, which often has a distinctive cup-shaped appearance.",
+        "A photo of a types of flower: a windflower, which may have a light, pleasant fragrance.",
+        "A photo of a types of flower: a windflower, which typically found in open, sunny areas."
+    ],
+    "tree poppy": [
+        "A photo of a types of flower: a tree poppy, which has bright yellow or orange flowers.",
+        "A photo of a types of flower: a tree poppy, which has green leaves with a waxy texture.",
+        "A photo of a types of flower: a tree poppy, which has tall stem or trunk.",
+        "A photo of a types of flower: a tree poppy, which has flower petals with a crinkled appearance.",
+        "A photo of a types of flower: a tree poppy, which has seed pods or capsules.",
+        "A photo of a types of flower: a tree poppy, which has grows in a shrub or tree-like form.",
+        "A photo of a types of flower: a tree poppy, which may have a fragrant scent."
+    ],
+    "gazania": [
+        "A photo of a types of flower: a gazania, which has vibrant colored petals (usually in shades of yellow, orange, red, or pink).",
+        "A photo of a types of flower: a gazania, which has daisy-like flower shape.",
+        "A photo of a types of flower: a gazania, which has green foliage.",
+        "A photo of a types of flower: a gazania, which has thick, fleshy leaves.",
+        "A photo of a types of flower: a gazania, which has low-growing habit.",
+        "A photo of a types of flower: a gazania, which has drought-tolerant.",
+        "A photo of a types of flower: a gazania, which often grown in gardens or landscapes for their colorful blooms."
+    ],
+    "azalea": [
+        "A photo of a types of flower: a azalea, which has small to medium-sized shrub.",
+        "A photo of a types of flower: a azalea, which has evergreen or deciduous leaves.",
+        "A photo of a types of flower: a azalea, which has colorful flowers in shades of pink, red, purple, or white.",
+        "A photo of a types of flower: a azalea, which has clustered flowers at the end of branches.",
+        "A photo of a types of flower: a azalea, which has woody stems.",
+        "A photo of a types of flower: a azalea, which has smooth or rough bark.",
+        "A photo of a types of flower: a azalea, which has lance-shaped or elliptical leaves.",
+        "A photo of a types of flower: a azalea, which has blooms in spring or early summer.."
+    ],
+    "water lily": [
+        "A photo of a types of flower: a water lily, which is aquatic plant.",
+        "A photo of a types of flower: a water lily, which has floating leaves.",
+        "A photo of a types of flower: a water lily, which has round or oval shaped leaves.",
+        "A photo of a types of flower: a water lily, which has flowers with multiple petals.",
+        "A photo of a types of flower: a water lily, which often white or pink in color.",
+        "A photo of a types of flower: a water lily, which has stems attached to the bottom of the body of water.",
+        "A photo of a types of flower: a water lily, which has usually found in ponds or lakes.",
+        "A photo of a types of flower: a water lily, which can have a fragrant scent."
+    ],
+    "rose": [
+        "A photo of a types of flower: a rose, which is a flowering plant.",
+        "A photo of a types of flower: a rose, which has thorny stems.",
+        "A photo of a types of flower: a rose, which has green leaves.",
+        "A photo of a types of flower: a rose, which has colorful petals (typically red, pink, white, or yellow).",
+        "A photo of a types of flower: a rose, which is a fragrant aroma.",
+        "A photo of a types of flower: a rose, which is a symmetrical, five-petal bloom.",
+        "A photo of a types of flower: a rose, which is a woody stem.",
+        "A photo of a types of flower: a rose, which has prickly thorns on the stem."
+    ],
+    "thorn apple": [
+        "A photo of a types of flower: a thorn apple, which has small, round fruit.",
+        "A photo of a types of flower: a thorn apple, which has spiky thorns covering the fruit.",
+        "A photo of a types of flower: a thorn apple, which has green or yellow color.",
+        "A photo of a types of flower: a thorn apple, which is attached to a thorny plant or shrub.",
+        "A photo of a types of flower: a thorn apple, which has leaves with jagged edges.",
+        "A photo of a types of flower: a thorn apple, which has white or purple flowers on the plant.",
+        "A photo of a types of flower: a thorn apple, which has toxic if ingested."
+    ],
+    "morning glory": [
+        "A photo of a types of flower: a morning glory, which has trumpet-shaped flowers in various colors such as purple, blue, pink, or white.",
+        "A photo of a types of flower: a morning glory, which has heart-shaped leaves.",
+        "A photo of a types of flower: a morning glory, which has climbing or trailing vine.",
+        "A photo of a types of flower: a morning glory, which has blooms in the morning and closes in the afternoon.",
+        "A photo of a types of flower: a morning glory, which has slender stems.",
+        "A photo of a types of flower: a morning glory, which may have tendrils for climbing.",
+        "A photo of a types of flower: a morning glory, which can be found in gardens, fields, or along fences."
+    ],
+    "passion flower": [
+        "A photo of a types of flower: a passion flower, which has unique and intricate floral structure with multiple layers of petals and a central structure resembling a crown.",
+        "A photo of a types of flower: a passion flower, which has vibrant and colorful petals in shades of purple, blue, pink, or white.",
+        "A photo of a types of flower: a passion flower, which has long, slender tendrils surrounding the flower.",
+        "A photo of a types of flower: a passion flower, which has large, green leaves with serrated edges.",
+        "A photo of a types of flower: a passion flower, which typically grows on a vine or climbing plant.",
+        "A photo of a types of flower: a passion flower, which may have a fruity fragrance.",
+        "A photo of a types of flower: a passion flower, which may have small, round fruits or seeds present."
+    ],
+    "lotus": [
+        "A photo of a types of flower: a lotus, which is aquatic plant.",
+        "A photo of a types of flower: a lotus, which has large, round leaves.",
+        "A photo of a types of flower: a lotus, which has tall, slender stem.",
+        "A photo of a types of flower: a lotus, which has vibrant colors such as pink, white, or yellow.",
+        "A photo of a types of flower: a lotus, which has multiple layers of petals.",
+        "A photo of a types of flower: a lotus, which has grows in shallow water.",
+        "A photo of a types of flower: a lotus, which often associated with spiritual symbolism in various cultures."
+    ],
+    "toad lily": [
+        "A photo of a types of flower: a toad lily, which has unique spotted or speckled petals.",
+        "A photo of a types of flower: a toad lily, which has star-shaped flowers.",
+        "A photo of a types of flower: a toad lily, which typically purple, pink, or white in color.",
+        "A photo of a types of flower: a toad lily, which has long, thin stems.",
+        "A photo of a types of flower: a toad lily, which has lance-shaped leaves.",
+        "A photo of a types of flower: a toad lily, which typically grown in shady or moist areas.",
+        "A photo of a types of flower: a toad lily, which may have a distinct scent or fragrance."
+    ],
+    "anthurium": [
+        "A photo of a types of flower: a anthurium, which has glossy, heart-shaped leaves.",
+        "A photo of a types of flower: a anthurium, which has bright red, pink, or white spathes (modified leaves that resemble flowers).",
+        "A photo of a types of flower: a anthurium, which has yellow spadix (the central stalk).",
+        "A photo of a types of flower: a anthurium, which has long stems.",
+        "A photo of a types of flower: a anthurium, which has tropical plant.",
+        "A photo of a types of flower: a anthurium, which has sometimes seen in a pot or vase.",
+        "A photo of a types of flower: a anthurium, which may have additional smaller flowers or buds at the base of the plant."
+    ],
+    "frangipani": [
+        "A photo of a types of flower: a frangipani, which has tropical flower.",
+        "A photo of a types of flower: a frangipani, which has white, pink, yellow, or red petals.",
+        "A photo of a types of flower: a frangipani, which has fragrant smell.",
+        "A photo of a types of flower: a frangipani, which has waxy texture.",
+        "A photo of a types of flower: a frangipani, which has five petals arranged in a star shape.",
+        "A photo of a types of flower: a frangipani, which has green leaves.",
+        "A photo of a types of flower: a frangipani, which has grown on a tree or shrub.",
+        "A photo of a types of flower: a frangipani, which often used in leis or for decoration in tropical regions."
+    ],
+    "clematis": [
+        "A photo of a types of flower: a clematis, which has climbing vine with woody stems.",
+        "A photo of a types of flower: a clematis, which has large, showy flowers in various colors such as purple, blue, pink, or white.",
+        "A photo of a types of flower: a clematis, which has opposite, compound leaves.",
+        "A photo of a types of flower: a clematis, which has tendrils for climbing.",
+        "A photo of a types of flower: a clematis, which has blooming in late spring to early summer.",
+        "A photo of a types of flower: a clematis, which can grow up to 20 feet tall.",
+        "A photo of a types of flower: a clematis, which has prefers full sun to part shade.",
+        "A photo of a types of flower: a clematis, which can be found in gardens, arboretums, or natural habitats."
+    ],
+    "hibiscus": [
+        "A photo of a types of flower: a hibiscus, which has colorful, trumpet-shaped flowers.",
+        "A photo of a types of flower: a hibiscus, which has five petals.",
+        "A photo of a types of flower: a hibiscus, which has long stamen protruding from the center of the flower.",
+        "A photo of a types of flower: a hibiscus, which has green, serrated leaves.",
+        "A photo of a types of flower: a hibiscus, which has woody stems.",
+        "A photo of a types of flower: a hibiscus, which typically found in tropical or subtropical regions.",
+        "A photo of a types of flower: a hibiscus, which can come in a variety of colors including red, pink, yellow, and orange."
+    ],
+    "columbine": [
+        "A photo of a types of flower: a columbine, which has delicate, bell-shaped flowers with unique spurs.",
+        "A photo of a types of flower: a columbine, which has colorful petals in shades of blue, purple, pink, red, or yellow.",
+        "A photo of a types of flower: a columbine, which has long, slender stems.",
+        "A photo of a types of flower: a columbine, which has lobed or divided leaves.",
+        "A photo of a types of flower: a columbine, which typically found in woodland or meadow habitats.",
+        "A photo of a types of flower: a columbine, which can have a distinct fragrance.",
+        "A photo of a types of flower: a columbine, which may attract birds or butterflies as pollinators."
+    ],
+    "desert-rose": [
+        "A photo of a types of flower: a desert-rose, which has succulent plant with thick, fleshy leaves.",
+        "A photo of a types of flower: a desert-rose, which has pink or white flowers with multiple layers of petals.",
+        "A photo of a types of flower: a desert-rose, which often found in arid, desert-like environments.",
+        "A photo of a types of flower: a desert-rose, which may have a woody stem.",
+        "A photo of a types of flower: a desert-rose, which has spiky or thorny appearance.",
+        "A photo of a types of flower: a desert-rose, which may have a swollen, bulbous base.",
+        "A photo of a types of flower: a desert-rose, which may have a distinctive, rosette-like shape."
+    ],
+    "tree mallow": [
+        "A photo of a types of flower: a tree mallow, which has small shrub or small tree.",
+        "A photo of a types of flower: a tree mallow, which has heart-shaped leaves.",
+        "A photo of a types of flower: a tree mallow, which has pink or purple flowers with five petals.",
+        "A photo of a types of flower: a tree mallow, which has grows in sandy or coastal areas.",
+        "A photo of a types of flower: a tree mallow, which can grow up to 10 feet tall.",
+        "A photo of a types of flower: a tree mallow, which has fuzzy or hairy leaves and stems.",
+        "A photo of a types of flower: a tree mallow, which has blooms in late spring to early summer.",
+        "A photo of a types of flower: a tree mallow, which is attracts bees, butterflies, and hummingbirds."
+    ],
+    "magnolia": [
+        "A photo of a types of flower: a magnolia, which has large, fragrant flowers with white, pink, or purple petals.",
+        "A photo of a types of flower: a magnolia, which has glossy green leaves.",
+        "A photo of a types of flower: a magnolia, which has tall, woody tree or shrub.",
+        "A photo of a types of flower: a magnolia, which has smooth bark.",
+        "A photo of a types of flower: a magnolia, which has cone-shaped flower buds.",
+        "A photo of a types of flower: a magnolia, which has blooming in spring or early summer.",
+        "A photo of a types of flower: a magnolia, which has sometimes with a citrus-like scent."
+    ],
+    "cyclamen": [
+        "A photo of a types of flower: a cyclamen, which has heart-shaped leaves with distinct veining.",
+        "A photo of a types of flower: a cyclamen, which has delicate, colorful flowers with upswept petals.",
+        "A photo of a types of flower: a cyclamen, which has tuberous roots.",
+        "A photo of a types of flower: a cyclamen, which has compact, low-growing habit.",
+        "A photo of a types of flower: a cyclamen, which often variegated foliage.",
+        "A photo of a types of flower: a cyclamen, which has grows well in cool, shaded areas."
+    ],
+    "watercress": [
+        "A photo of a types of flower: a watercress, which has small, round, green leaves.",
+        "A photo of a types of flower: a watercress, which has thin stems.",
+        "A photo of a types of flower: a watercress, which has grows in water or damp environments.",
+        "A photo of a types of flower: a watercress, which has delicate appearance.",
+        "A photo of a types of flower: a watercress, which has peppery taste.",
+        "A photo of a types of flower: a watercress, which often used in salads and garnishes.",
+        "A photo of a types of flower: a watercress, which has sometimes has small white flowers."
+    ],
+    "canna lily": [
+        "A photo of a types of flower: a canna lily, which has large, vibrant flowers in shades of red, orange, yellow, or pink.",
+        "A photo of a types of flower: a canna lily, which has long, narrow leaves.",
+        "A photo of a types of flower: a canna lily, which has tall, upright stems.",
+        "A photo of a types of flower: a canna lily, which has clusters of flowers at the top of the stem.",
+        "A photo of a types of flower: a canna lily, which has sometimes have variegated leaves with stripes or spots.",
+        "A photo of a types of flower: a canna lily, which has tuberous root system.",
+        "A photo of a types of flower: a canna lily, which has tropical or subtropical plant."
+    ],
+    "hippeastrum": [
+        "A photo of a types of flower: a hippeastrum, which has large, showy flowers with trumpet-like shape.",
+        "A photo of a types of flower: a hippeastrum, which has multiple blooms on a single stalk.",
+        "A photo of a types of flower: a hippeastrum, which has long, strap-like leaves.",
+        "A photo of a types of flower: a hippeastrum, which has bulbs at the base of the plant.",
+        "A photo of a types of flower: a hippeastrum, which has bright, vibrant colors such as red, pink, white, or orange.",
+        "A photo of a types of flower: a hippeastrum, which typically blooms in the spring or summer.",
+        "A photo of a types of flower: a hippeastrum, which can be grown indoors or outdoors."
+    ],
+    "bee balm": [
+        "A photo of a types of flower: a bee balm, which has vibrant, colorful flowers in shades of red, pink, purple, or white.",
+        "A photo of a types of flower: a bee balm, which has tubular-shaped flowers with a cluster of petals at the top.",
+        "A photo of a types of flower: a bee balm, which has long, slender stems.",
+        "A photo of a types of flower: a bee balm, which has green, lance-shaped leaves.",
+        "A photo of a types of flower: a bee balm, which is a strong, sweet fragrance.",
+        "A photo of a types of flower: a bee balm, which is attracts bees, butterflies, and hummingbirds.",
+        "A photo of a types of flower: a bee balm, which has grows in clusters or spikes of flowers."
+    ],
+    "ball moss": [
+        "A photo of a types of flower: a ball moss, which has small, round, green plants.",
+        "A photo of a types of flower: a ball moss, which has grow in clumps or balls.",
+        "A photo of a types of flower: a ball moss, which often found on tree branches or wires.",
+        "A photo of a types of flower: a ball moss, which has tiny leaves that are tightly packed together.",
+        "A photo of a types of flower: a ball moss, which can turn brown or grey when dry.",
+        "A photo of a types of flower: a ball moss, which may have small white or yellow flowers.",
+        "A photo of a types of flower: a ball moss, which has no visible roots or stems."
+    ],
+    "foxglove": [
+        "A photo of a types of flower: a foxglove, which has tall plant with tubular flowers.",
+        "A photo of a types of flower: a foxglove, which has bell-shaped flowers in shades of pink, purple, white, or yellow.",
+        "A photo of a types of flower: a foxglove, which has long, narrow leaves with a toothed edge.",
+        "A photo of a types of flower: a foxglove, which has grows in clusters or spikes.",
+        "A photo of a types of flower: a foxglove, which can have spots or speckles inside the flowers.",
+        "A photo of a types of flower: a foxglove, which can be toxic if ingested."
+    ],
+    "bougainvillea": [
+        "A photo of a types of flower: a bougainvillea, which has vibrant colored flowers (pink, purple, red, orange, white).",
+        "A photo of a types of flower: a bougainvillea, which has thorny vines.",
+        "A photo of a types of flower: a bougainvillea, which has heart-shaped leaves.",
+        "A photo of a types of flower: a bougainvillea, which has clustered flowers in groups of three.",
+        "A photo of a types of flower: a bougainvillea, which has woody stems.",
+        "A photo of a types of flower: a bougainvillea, which has climbing or trailing growth habit.",
+        "A photo of a types of flower: a bougainvillea, which has drought-tolerant.",
+        "A photo of a types of flower: a bougainvillea, which has popular in tropical and subtropical regions."
+    ],
+    "camellia": [
+        "A photo of a types of flower: a camellia, which has glossy, dark green leaves.",
+        "A photo of a types of flower: a camellia, which has large, showy flowers with delicate petals.",
+        "A photo of a types of flower: a camellia, which typically pink, red, or white in color.",
+        "A photo of a types of flower: a camellia, which has waxy texture.",
+        "A photo of a types of flower: a camellia, which has compact, bushy growth habit.",
+        "A photo of a types of flower: a camellia, which has blooms in the fall or winter.",
+        "A photo of a types of flower: a camellia, which often found in gardens or landscapes."
+    ],
+    "mallow": [
+        "A photo of a types of flower: a mallow, which has small to medium-sized flowering plant.",
+        "A photo of a types of flower: a mallow, which has round or oval-shaped leaves.",
+        "A photo of a types of flower: a mallow, which has pink, purple, white, or red flowers.",
+        "A photo of a types of flower: a mallow, which has five petals.",
+        "A photo of a types of flower: a mallow, which has green stem.",
+        "A photo of a types of flower: a mallow, which has grows in clusters or alone.",
+        "A photo of a types of flower: a mallow, which may have fuzzy or hairy leaves or stems."
+    ],
+    "mexican petunia": [
+        "A photo of a types of flower: a mexican petunia, which has trumpet-shaped flowers in shades of purple, pink, or white.",
+        "A photo of a types of flower: a mexican petunia, which has long, slender leaves.",
+        "A photo of a types of flower: a mexican petunia, which has bushy or trailing growth habit.",
+        "A photo of a types of flower: a mexican petunia, which has grows in clusters or bunches.",
+        "A photo of a types of flower: a mexican petunia, which can have multiple flowers on a single stem.",
+        "A photo of a types of flower: a mexican petunia, which typically found in garden or outdoor settings."
+    ],
+    "bromelia": [
+        "A photo of a types of flower: a bromelia, which has tropical plant.",
+        "A photo of a types of flower: a bromelia, which typically has colorful, showy flowers.",
+        "A photo of a types of flower: a bromelia, which has long, narrow leaves with sharp edges.",
+        "A photo of a types of flower: a bromelia, which has grows in a rosette shape.",
+        "A photo of a types of flower: a bromelia, which often found growing on trees or rocks.",
+        "A photo of a types of flower: a bromelia, which may have a central flower spike.",
+        "A photo of a types of flower: a bromelia, which may have a cup-like structure in the center of the rosette that holds water."
+    ],
+    "blanket flower": [
+        "A photo of a types of flower: a blanket flower, which has bright orange or red petals with yellow tips.",
+        "A photo of a types of flower: a blanket flower, which has daisy-like flower shape.",
+        "A photo of a types of flower: a blanket flower, which has long, slender stem.",
+        "A photo of a types of flower: a blanket flower, which has green leaves.",
+        "A photo of a types of flower: a blanket flower, which has grows in clusters.",
+        "A photo of a types of flower: a blanket flower, which typically found in dry, sandy or rocky areas.",
+        "A photo of a types of flower: a blanket flower, which is attracts butterflies and bees."
+    ],
+    "trumpet creeper": [
+        "A photo of a types of flower: a trumpet creeper, which has vine-like plant with woody stems.",
+        "A photo of a types of flower: a trumpet creeper, which has bright orange or red trumpet-shaped flowers.",
+        "A photo of a types of flower: a trumpet creeper, which has opposite compound leaves.",
+        "A photo of a types of flower: a trumpet creeper, which has climbing or trailing growth habit.",
+        "A photo of a types of flower: a trumpet creeper, which is attracts hummingbirds and bees.",
+        "A photo of a types of flower: a trumpet creeper, which can grow up to 30 feet in length.",
+        "A photo of a types of flower: a trumpet creeper, which may have tendrils for climbing support."
+    ],
+    "blackberry lily": [
+        "A photo of a types of flower: a blackberry lily, which has orange, red, or yellow flowers with dark spots or streaks.",
+        "A photo of a types of flower: a blackberry lily, which has long, slender leaves.",
+        "A photo of a types of flower: a blackberry lily, which has tall, slender stems.",
+        "A photo of a types of flower: a blackberry lily, which has clusters of flowers at the top of the stem.",
+        "A photo of a types of flower: a blackberry lily, which has bulbous seed pods that resemble blackberries.",
+        "A photo of a types of flower: a blackberry lily, which has overall appearance similar to an iris or lily plant."
+    ]
+}

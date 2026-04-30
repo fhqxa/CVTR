@@ -1,0 +1,967 @@
+{
+    "face": [
+        "A photo of a objects or animal: a face, which has two eyes.",
+        "A photo of a objects or animal: a face, which is a nose.",
+        "A photo of a objects or animal: a face, which is a mouth.",
+        "A photo of a objects or animal: a face, which has eyebrows.",
+        "A photo of a objects or animal: a face, which has hair on the head.",
+        "A photo of a objects or animal: a face, which has ears.",
+        "A photo of a objects or animal: a face, which has facial expressions.",
+        "A photo of a objects or animal: a face, which has skin texture and color.",
+        "A photo of a objects or animal: a face, which has facial hair (if present).",
+        "A photo of a objects or animal: a face, which has facial symmetry."
+    ],
+    "leopard": [
+        "A photo of a objects or animal: a leopard, which has large cat with a distinctive yellow or golden coat with black spots.",
+        "A photo of a objects or animal: a leopard, which has muscular build.",
+        "A photo of a objects or animal: a leopard, which has short fur.",
+        "A photo of a objects or animal: a leopard, which has long tail with spots.",
+        "A photo of a objects or animal: a leopard, which has pointed ears.",
+        "A photo of a objects or animal: a leopard, which has sharp teeth and claws.",
+        "A photo of a objects or animal: a leopard, which has intense gaze.",
+        "A photo of a objects or animal: a leopard, which has powerful and agile appearance."
+    ],
+    "motorbike": [
+        "A photo of a objects or animal: a motorbike, which has two-wheeled vehicle.",
+        "A photo of a objects or animal: a motorbike, which has engine visible.",
+        "A photo of a objects or animal: a motorbike, which has handlebars.",
+        "A photo of a objects or animal: a motorbike, which has seat for rider.",
+        "A photo of a objects or animal: a motorbike, which has wheels with spokes.",
+        "A photo of a objects or animal: a motorbike, which has exhaust pipe.",
+        "A photo of a objects or animal: a motorbike, which has gas tank.",
+        "A photo of a objects or animal: a motorbike, which has headlights and taillights.",
+        "A photo of a objects or animal: a motorbike, which has kickstand or center stand.",
+        "A photo of a objects or animal: a motorbike, which has visible branding or logo on the body."
+    ],
+    "accordion": [
+        "A photo of a objects or animal: a accordion, which has bellows (expandable part between the two ends).",
+        "A photo of a objects or animal: a accordion, which has multiple rows of buttons or keys on both sides.",
+        "A photo of a objects or animal: a accordion, which is a strap to wear around the player's shoulders.",
+        "A photo of a objects or animal: a accordion, which is a grille or vents for sound projection.",
+        "A photo of a objects or animal: a accordion, which is a keyboard on one side for playing melody.",
+        "A photo of a objects or animal: a accordion, which has buttons or switches for changing octaves or tones.",
+        "A photo of a objects or animal: a accordion, which is a bass button board on the other side for accompaniment."
+    ],
+    "airplane": [
+        "A photo of a objects or animal: a airplane, which has fuselage with windows.",
+        "A photo of a objects or animal: a airplane, which has landing gear.",
+        "A photo of a objects or animal: a airplane, which has engines on wings or fuselage.",
+        "A photo of a objects or animal: a airplane, which has tail fin with rudder.",
+        "A photo of a objects or animal: a airplane, which has cockpit windows.",
+        "A photo of a objects or animal: a airplane, which is airline livery or markings.",
+        "A photo of a objects or animal: a airplane, which has visible wingspan.",
+        "A photo of a objects or animal: a airplane, which has noise from engines.",
+        "A photo of a objects or animal: a airplane, which has contrails or exhaust trails."
+    ],
+    "anchor": [
+        "A photo of a objects or animal: a anchor, which has heavy and metallic.",
+        "A photo of a objects or animal: a anchor, which has large, curved shape with pointed ends.",
+        "A photo of a objects or animal: a anchor, which typically painted in a bright color like red or yellow.",
+        "A photo of a objects or animal: a anchor, which is attached to a chain or rope.",
+        "A photo of a objects or animal: a anchor, which is used on boats or ships to keep them in place.",
+        "A photo of a objects or animal: a anchor, which may have rust or barnacles on it if it has been in the water for a long time."
+    ],
+    "ant": [
+        "A photo of a objects or animal: a ant, which has six legs.",
+        "A photo of a objects or animal: a ant, which has small size.",
+        "A photo of a objects or animal: a ant, which has segmented body.",
+        "A photo of a objects or animal: a ant, which is antennae.",
+        "A photo of a objects or animal: a ant, which typically black, brown, or red in color.",
+        "A photo of a objects or animal: a ant, which typically found in groups or colonies.",
+        "A photo of a objects or animal: a ant, which has mandibles for chewing and carrying food.",
+        "A photo of a objects or animal: a ant, which often seen in or around soil or on plants."
+    ],
+    "barrel": [
+        "A photo of a objects or animal: a barrel, which has cylindrical shape.",
+        "A photo of a objects or animal: a barrel, which has made of wood, metal, or plastic.",
+        "A photo of a objects or animal: a barrel, which typically has metal bands around it.",
+        "A photo of a objects or animal: a barrel, which has open or closed top.",
+        "A photo of a objects or animal: a barrel, which is used for storing or transporting liquids or other materials.",
+        "A photo of a objects or animal: a barrel, which may have handles for carrying.",
+        "A photo of a objects or animal: a barrel, which may have markings or labels indicating its contents or origin."
+    ],
+    "bass": [
+        "A photo of a objects or animal: a bass, which has freshwater fish.",
+        "A photo of a objects or animal: a bass, which has elongated body.",
+        "A photo of a objects or animal: a bass, which has large mouth.",
+        "A photo of a objects or animal: a bass, which has dorsal fin.",
+        "A photo of a objects or animal: a bass, which has scales covering the body.",
+        "A photo of a objects or animal: a bass, which typically green or brown in color.",
+        "A photo of a objects or animal: a bass, which has fins on the underside of the body.",
+        "A photo of a objects or animal: a bass, which has tail fin that is forked or slightly rounded."
+    ],
+    "beaver": [
+        "A photo of a objects or animal: a beaver, which has large, flat tail.",
+        "A photo of a objects or animal: a beaver, which has brown fur.",
+        "A photo of a objects or animal: a beaver, which has webbed hind feet.",
+        "A photo of a objects or animal: a beaver, which has large incisors for gnawing wood.",
+        "A photo of a objects or animal: a beaver, which has thick, stocky body.",
+        "A photo of a objects or animal: a beaver, which has semi-aquatic habitat.",
+        "A photo of a objects or animal: a beaver, which has dam-building behavior.",
+        "A photo of a objects or animal: a beaver, which has distinctive scent glands near the base of the tail."
+    ],
+    "binocular": [
+        "A photo of a objects or animal: a binocular, which has two circular lenses.",
+        "A photo of a objects or animal: a binocular, which is a central hinge connecting the two lenses.",
+        "A photo of a objects or animal: a binocular, which is a focusing wheel or knob.",
+        "A photo of a objects or animal: a binocular, which is a bridge connecting the two eyepieces.",
+        "A photo of a objects or animal: a binocular, which is a strap or carrying case.",
+        "A photo of a objects or animal: a binocular, which has magnification and aperture specifications on the body.",
+        "A photo of a objects or animal: a binocular, which has rubber or plastic coating for grip."
+    ],
+    "bonsai": [
+        "A photo of a objects or animal: a bonsai, which has miniature size.",
+        "A photo of a objects or animal: a bonsai, which is artistically pruned and shaped branches and leaves.",
+        "A photo of a objects or animal: a bonsai, which has planted in a shallow container or tray.",
+        "A photo of a objects or animal: a bonsai, which often with moss or small rocks as decoration.",
+        "A photo of a objects or animal: a bonsai, which has intricate root system visible above the soil.",
+        "A photo of a objects or animal: a bonsai, which has delicate and intricate design.",
+        "A photo of a objects or animal: a bonsai, which has traditional Japanese or Chinese aesthetic."
+    ],
+    "brain": [
+        "A photo of a objects or animal: a brain, which has pinkish-gray in color.",
+        "A photo of a objects or animal: a brain, which has wrinkled texture.",
+        "A photo of a objects or animal: a brain, which has divided into two hemispheres.",
+        "A photo of a objects or animal: a brain, which has connected to the spinal cord.",
+        "A photo of a objects or animal: a brain, which has surrounded by the skull.",
+        "A photo of a objects or animal: a brain, which has contains various lobes responsible for different functions such as memory, movement, and sensory perception.."
+    ],
+    "brontosaurus": [
+        "A photo of a objects or animal: a brontosaurus, which has large, long-necked dinosaur.",
+        "A photo of a objects or animal: a brontosaurus, which has herbivorous.",
+        "A photo of a objects or animal: a brontosaurus, which has quadrupedal.",
+        "A photo of a objects or animal: a brontosaurus, which has long tail.",
+        "A photo of a objects or animal: a brontosaurus, which has small head compared to body size.",
+        "A photo of a objects or animal: a brontosaurus, which has large, bulky body.",
+        "A photo of a objects or animal: a brontosaurus, which has long neck with small head.",
+        "A photo of a objects or animal: a brontosaurus, which has plant-eating teeth.",
+        "A photo of a objects or animal: a brontosaurus, which has distinctive vertebrae structure."
+    ],
+    "buddha": [
+        "A photo of a objects or animal: a buddha, which is a figure seated in a meditative posture.",
+        "A photo of a objects or animal: a buddha, which often depicted with a serene expression.",
+        "A photo of a objects or animal: a buddha, which has wearing robes or traditional clothing.",
+        "A photo of a objects or animal: a buddha, which typically with elongated earlobes.",
+        "A photo of a objects or animal: a buddha, which may have a halo or aura around their head.",
+        "A photo of a objects or animal: a buddha, which may be holding symbolic objects such as a lotus flower or a begging bowl.",
+        "A photo of a objects or animal: a buddha, which may have a hand gesture known as a mudra, which symbolizes different aspects of enlightenment."
+    ],
+    "butterfly": [
+        "A photo of a objects or animal: a butterfly, which has colorful wings with intricate patterns.",
+        "A photo of a objects or animal: a butterfly, which has six legs.",
+        "A photo of a objects or animal: a butterfly, which is antennae.",
+        "A photo of a objects or animal: a butterfly, which has proboscis for feeding on nectar.",
+        "A photo of a objects or animal: a butterfly, which has delicate, thin body.",
+        "A photo of a objects or animal: a butterfly, which has wings that are held vertically when at rest.",
+        "A photo of a objects or animal: a butterfly, which has compound eyes.",
+        "A photo of a objects or animal: a butterfly, which is ability to fly."
+    ],
+    "camera": [
+        "A photo of a objects or animal: a camera, which has lens or lenses.",
+        "A photo of a objects or animal: a camera, which has viewfinder or LCD screen.",
+        "A photo of a objects or animal: a camera, which has flash.",
+        "A photo of a objects or animal: a camera, which has buttons or dials for settings.",
+        "A photo of a objects or animal: a camera, which has strap or handle for holding.",
+        "A photo of a objects or animal: a camera, which has memory card slot.",
+        "A photo of a objects or animal: a camera, which has shutter button.",
+        "A photo of a objects or animal: a camera, which has brand logo or name.",
+        "A photo of a objects or animal: a camera, which has camera strap or bag."
+    ],
+    "cannon": [
+        "A photo of a objects or animal: a cannon, which has long barrel.",
+        "A photo of a objects or animal: a cannon, which has round or cylindrical shape.",
+        "A photo of a objects or animal: a cannon, which has wheels or mount for mobility.",
+        "A photo of a objects or animal: a cannon, which cannonballs or ammunition nearby.",
+        "A photo of a objects or animal: a cannon, which has historical or military setting.",
+        "A photo of a objects or animal: a cannon, which has smoke or fire coming from the barrel.",
+        "A photo of a objects or animal: a cannon, which has size and scale compared to surrounding objects."
+    ],
+    "car side": [
+        "A photo of a objects or animal: a car side, which has four wheels.",
+        "A photo of a objects or animal: a car side, which has doors on the side of the vehicle.",
+        "A photo of a objects or animal: a car side, which has windows.",
+        "A photo of a objects or animal: a car side, which has side mirrors.",
+        "A photo of a objects or animal: a car side, which has door handles.",
+        "A photo of a objects or animal: a car side, which has wheel arches.",
+        "A photo of a objects or animal: a car side, which has side panels.",
+        "A photo of a objects or animal: a car side, which has headlights and taillights visible.",
+        "A photo of a objects or animal: a car side, which has logo or brand badge on the side of the car."
+    ],
+    "ceiling fan": [
+        "A photo of a objects or animal: a ceiling fan, which has circular or blade-like shape.",
+        "A photo of a objects or animal: a ceiling fan, which is attached to the ceiling.",
+        "A photo of a objects or animal: a ceiling fan, which has multiple blades.",
+        "A photo of a objects or animal: a ceiling fan, which has motor housing.",
+        "A photo of a objects or animal: a ceiling fan, which has pull chains or remote control for adjusting speed and direction.",
+        "A photo of a objects or animal: a ceiling fan, which has light fixture attached to the fan.",
+        "A photo of a objects or animal: a ceiling fan, which has mounting bracket for installation.",
+        "A photo of a objects or animal: a ceiling fan, which typically seen in indoor spaces such as bedrooms or living rooms."
+    ],
+    "cellphone": [
+        "A photo of a objects or animal: a cellphone, which has small, handheld electronic device.",
+        "A photo of a objects or animal: a cellphone, which has touchscreen display.",
+        "A photo of a objects or animal: a cellphone, which has camera lens.",
+        "A photo of a objects or animal: a cellphone, which has volume buttons.",
+        "A photo of a objects or animal: a cellphone, which has power button.",
+        "A photo of a objects or animal: a cellphone, which has headphone jack.",
+        "A photo of a objects or animal: a cellphone, which has charging port.",
+        "A photo of a objects or animal: a cellphone, which has various apps and icons on the screen.",
+        "A photo of a objects or animal: a cellphone, which has cellular signal bars or Wi-Fi symbol.",
+        "A photo of a objects or animal: a cellphone, which has brand logo (e.g. Apple, Samsung, etc.)."
+    ],
+    "chair": [
+        "A photo of a objects or animal: a chair, which is a seat for sitting.",
+        "A photo of a objects or animal: a chair, which is a backrest for support.",
+        "A photo of a objects or animal: a chair, which has four legs or a base for stability.",
+        "A photo of a objects or animal: a chair, which may have armrests.",
+        "A photo of a objects or animal: a chair, which may have upholstery or cushioning.",
+        "A photo of a objects or animal: a chair, which has made of wood, metal, plastic, or other materials.",
+        "A photo of a objects or animal: a chair, which may have a specific design or style .",
+        "A photo of a objects or animal: a chair, which may be part of a set or match a table."
+    ],
+    "chandelier": [
+        "A photo of a objects or animal: a chandelier, which has hanging light fixture.",
+        "A photo of a objects or animal: a chandelier, which has multiple arms or branches for holding light bulbs.",
+        "A photo of a objects or animal: a chandelier, which has crystals or glass pieces for decoration.",
+        "A photo of a objects or animal: a chandelier, which often hangs from a ceiling.",
+        "A photo of a objects or animal: a chandelier, which can be ornate or simple in design.",
+        "A photo of a objects or animal: a chandelier, which may have a chain or rod for support.",
+        "A photo of a objects or animal: a chandelier, which has provides overhead lighting in a room."
+    ],
+    "cougar body": [
+        "A photo of a objects or animal: a cougar body, which has large, muscular body.",
+        "A photo of a objects or animal: a cougar body, which has tan or brown fur.",
+        "A photo of a objects or animal: a cougar body, which has short, rounded ears.",
+        "A photo of a objects or animal: a cougar body, which has long tail with a black tip.",
+        "A photo of a objects or animal: a cougar body, which has powerful legs.",
+        "A photo of a objects or animal: a cougar body, which has sharp, retractable claws.",
+        "A photo of a objects or animal: a cougar body, which has prominent whiskers.",
+        "A photo of a objects or animal: a cougar body, which has distinctive black markings on the face, including around the eyes and on the muzzle."
+    ],
+    "cougar face": [
+        "A photo of a objects or animal: a cougar face, which has tan or reddish-brown fur.",
+        "A photo of a objects or animal: a cougar face, which has black markings on the face, including around the eyes and on the muzzle.",
+        "A photo of a objects or animal: a cougar face, which has round face with small, rounded ears.",
+        "A photo of a objects or animal: a cougar face, which has whiskers around the mouth and on the cheeks.",
+        "A photo of a objects or animal: a cougar face, which has sharp, pointed teeth.",
+        "A photo of a objects or animal: a cougar face, which has intense gaze.",
+        "A photo of a objects or animal: a cougar face, which has muscular build.",
+        "A photo of a objects or animal: a cougar face, which has prominent nose and jawline."
+    ],
+    "crab": [
+        "A photo of a objects or animal: a crab, which has hard exoskeleton.",
+        "A photo of a objects or animal: a crab, which has ten limbs, including two pincers.",
+        "A photo of a objects or animal: a crab, which has sideways walking motion.",
+        "A photo of a objects or animal: a crab, which has segmented body.",
+        "A photo of a objects or animal: a crab, which has eyes on stalks.",
+        "A photo of a objects or animal: a crab, which typically found near water.",
+        "A photo of a objects or animal: a crab, which has varying colors such as red, brown, or blue.",
+        "A photo of a objects or animal: a crab, which has shell covering the body.",
+        "A photo of a objects or animal: a crab, which has claws for grabbing and crushing prey."
+    ],
+    "crayfish": [
+        "A photo of a objects or animal: a crayfish, which has crustacean with a hard exoskeleton.",
+        "A photo of a objects or animal: a crayfish, which has segmented body.",
+        "A photo of a objects or animal: a crayfish, which has two pairs of antennae.",
+        "A photo of a objects or animal: a crayfish, which has pincers or claws.",
+        "A photo of a objects or animal: a crayfish, which typically a reddish-brown color.",
+        "A photo of a objects or animal: a crayfish, which has multiple pairs of legs.",
+        "A photo of a objects or animal: a crayfish, which has segmented tail.",
+        "A photo of a objects or animal: a crayfish, which typically found in freshwater habitats."
+    ],
+    "crocodile": [
+        "A photo of a objects or animal: a crocodile, which has large, elongated body with scales.",
+        "A photo of a objects or animal: a crocodile, which has long, powerful tail.",
+        "A photo of a objects or animal: a crocodile, which has sharp teeth visible when mouth is open.",
+        "A photo of a objects or animal: a crocodile, which is armored skin.",
+        "A photo of a objects or animal: a crocodile, which has nostrils and eyes located on top of the head.",
+        "A photo of a objects or animal: a crocodile, which has four short legs with webbed feet.",
+        "A photo of a objects or animal: a crocodile, which typically green or brown in color.",
+        "A photo of a objects or animal: a crocodile, which has visible claws on feet."
+    ],
+    "crocodile head": [
+        "A photo of a objects or animal: a crocodile head, which has long, pointed snout with visible teeth.",
+        "A photo of a objects or animal: a crocodile head, which has nostrils on the top of the snout.",
+        "A photo of a objects or animal: a crocodile head, which has eyes located on the top of the head.",
+        "A photo of a objects or animal: a crocodile head, which has scaly skin.",
+        "A photo of a objects or animal: a crocodile head, which has ridges or bumps on the head.",
+        "A photo of a objects or animal: a crocodile head, which has sharp, pointed ears.",
+        "A photo of a objects or animal: a crocodile head, which has jawline that extends past the eyes.",
+        "A photo of a objects or animal: a crocodile head, which has overall triangular shape of the head."
+    ],
+    "cup": [
+        "A photo of a objects or animal: a cup, which has cylindrical shape.",
+        "A photo of a objects or animal: a cup, which has handle for holding.",
+        "A photo of a objects or animal: a cup, which typically made of ceramic, glass, or plastic.",
+        "A photo of a objects or animal: a cup, which may have designs or patterns on the surface.",
+        "A photo of a objects or animal: a cup, which may have a lid or cover.",
+        "A photo of a objects or animal: a cup, which is used for holding and drinking liquids.",
+        "A photo of a objects or animal: a cup, which may have a base for stability."
+    ],
+    "dalmatian": [
+        "A photo of a objects or animal: a dalmatian, which has medium to large size dog.",
+        "A photo of a objects or animal: a dalmatian, which has white coat with black or liver-colored spots.",
+        "A photo of a objects or animal: a dalmatian, which has muscular build.",
+        "A photo of a objects or animal: a dalmatian, which has floppy ears.",
+        "A photo of a objects or animal: a dalmatian, which has distinctive round spots.",
+        "A photo of a objects or animal: a dalmatian, which has elegant and athletic appearance.",
+        "A photo of a objects or animal: a dalmatian, which has friendly and energetic demeanor."
+    ],
+    "dollar bill": [
+        "A photo of a objects or animal: a dollar bill, which has green and white color scheme.",
+        "A photo of a objects or animal: a dollar bill, which has portrait of a historical figure (such as George Washington).",
+        "A photo of a objects or animal: a dollar bill, which has serial number.",
+        "A photo of a objects or animal: a dollar bill, which has denomination (e.g. \"One Dollar\").",
+        "A photo of a objects or animal: a dollar bill, which has intricate patterns and designs.",
+        "A photo of a objects or animal: a dollar bill, which has security features (such as watermarks, security thread, and color-shifting ink).",
+        "A photo of a objects or animal: a dollar bill, which has Federal Reserve seal.",
+        "A photo of a objects or animal: a dollar bill, which has Treasury seal."
+    ],
+    "dolphin": [
+        "A photo of a objects or animal: a dolphin, which is aquatic mammal.",
+        "A photo of a objects or animal: a dolphin, which has grey, black, or white in color.",
+        "A photo of a objects or animal: a dolphin, which has streamlined body shape.",
+        "A photo of a objects or animal: a dolphin, which has dorsal fin on its back.",
+        "A photo of a objects or animal: a dolphin, which has flippers on the sides.",
+        "A photo of a objects or animal: a dolphin, which has blowhole on top of the head.",
+        "A photo of a objects or animal: a dolphin, which has smiling appearance.",
+        "A photo of a objects or animal: a dolphin, which has playful behavior.",
+        "A photo of a objects or animal: a dolphin, which often seen in water or jumping out of the water."
+    ],
+    "dragonfly": [
+        "A photo of a objects or animal: a dragonfly, which is an insect with two pairs of transparent wings.",
+        "A photo of a objects or animal: a dragonfly, which has long, slender body.",
+        "A photo of a objects or animal: a dragonfly, which has large compound eyes.",
+        "A photo of a objects or animal: a dragonfly, which has elongated abdomen.",
+        "A photo of a objects or animal: a dragonfly, which has brightly colored or patterned wings.",
+        "A photo of a objects or animal: a dragonfly, which has six legs.",
+        "A photo of a objects or animal: a dragonfly, which is ability to hover and fly quickly.",
+        "A photo of a objects or animal: a dragonfly, which has distinct head with a pair of antennae."
+    ],
+    "electric guitar": [
+        "A photo of a objects or animal: a electric guitar, which has solid body design.",
+        "A photo of a objects or animal: a electric guitar, which typically has a cutaway for easier access to higher frets.",
+        "A photo of a objects or animal: a electric guitar, which has pickups (magnetic devices that capture string vibrations).",
+        "A photo of a objects or animal: a electric guitar, which has volume and tone controls.",
+        "A photo of a objects or animal: a electric guitar, which has output jack for connecting to an amplifier.",
+        "A photo of a objects or animal: a electric guitar, which typically has a whammy bar or tremolo system.",
+        "A photo of a objects or animal: a electric guitar, which typically has a headstock with tuning pegs.",
+        "A photo of a objects or animal: a electric guitar, which typically has a neck with frets for changing pitch."
+    ],
+    "elephant": [
+        "A photo of a objects or animal: a elephant, which has large, grey, wrinkled skin.",
+        "A photo of a objects or animal: a elephant, which has long trunk.",
+        "A photo of a objects or animal: a elephant, which has tusks (in some species).",
+        "A photo of a objects or animal: a elephant, which has large ears.",
+        "A photo of a objects or animal: a elephant, which has thick, sturdy legs.",
+        "A photo of a objects or animal: a elephant, which has large, round body.",
+        "A photo of a objects or animal: a elephant, which has tail with a tuft of hair at the end.",
+        "A photo of a objects or animal: a elephant, which has tusks (in some species)."
+    ],
+    "emu": [
+        "A photo of a objects or animal: a emu, which has large, flightless bird.",
+        "A photo of a objects or animal: a emu, which has long neck and legs.",
+        "A photo of a objects or animal: a emu, which has brown feathers.",
+        "A photo of a objects or animal: a emu, which has small, vestigial wings.",
+        "A photo of a objects or animal: a emu, which has distinctively shaped beak.",
+        "A photo of a objects or animal: a emu, which has strong, powerful legs and feet.",
+        "A photo of a objects or animal: a emu, which has prominent eyes."
+    ],
+    "euphonium": [
+        "A photo of a objects or animal: a euphonium, which has brass instrument.",
+        "A photo of a objects or animal: a euphonium, which has conical bore.",
+        "A photo of a objects or animal: a euphonium, which has upright bell.",
+        "A photo of a objects or animal: a euphonium, which has three or four valves.",
+        "A photo of a objects or animal: a euphonium, which has curved shape.",
+        "A photo of a objects or animal: a euphonium, which has tubing wrapped in a coil.",
+        "A photo of a objects or animal: a euphonium, which has mouthpiece.",
+        "A photo of a objects or animal: a euphonium, which has finger buttons for playing different notes."
+    ],
+    "ewer": [
+        "A photo of a objects or animal: a ewer, which is a vessel used for holding and pouring liquids.",
+        "A photo of a objects or animal: a ewer, which typically made of metal, ceramic, or glass.",
+        "A photo of a objects or animal: a ewer, which is a narrow neck and wide body.",
+        "A photo of a objects or animal: a ewer, which is a handle for pouring.",
+        "A photo of a objects or animal: a ewer, which has decorative elements such as patterns, engravings, or designs.",
+        "A photo of a objects or animal: a ewer, which may have a lid or spout.",
+        "A photo of a objects or animal: a ewer, which may be used for serving water, wine, or other beverages."
+    ],
+    "ferry": [
+        "A photo of a objects or animal: a ferry, which has large watercraft.",
+        "A photo of a objects or animal: a ferry, which typically white or another bright color.",
+        "A photo of a objects or animal: a ferry, which has multiple decks for passengers and vehicles.",
+        "A photo of a objects or animal: a ferry, which has visible lifeboats and life rafts.",
+        "A photo of a objects or animal: a ferry, which has smokestacks or exhaust pipes.",
+        "A photo of a objects or animal: a ferry, which has ramp or doors for loading and unloading vehicles.",
+        "A photo of a objects or animal: a ferry, which has navigation lights and radar equipment.",
+        "A photo of a objects or animal: a ferry, which has ferry name or logo displayed prominently."
+    ],
+    "flamingo": [
+        "A photo of a objects or animal: a flamingo, which has long, thin legs.",
+        "A photo of a objects or animal: a flamingo, which has pink or reddish feathers.",
+        "A photo of a objects or animal: a flamingo, which has long, curved neck.",
+        "A photo of a objects or animal: a flamingo, which has distinctive beak shape.",
+        "A photo of a objects or animal: a flamingo, which has webbed feet.",
+        "A photo of a objects or animal: a flamingo, which often seen standing on one leg.",
+        "A photo of a objects or animal: a flamingo, which typically found in wetland habitats.",
+        "A photo of a objects or animal: a flamingo, which has large wingspan."
+    ],
+    "flamingo head": [
+        "A photo of a objects or animal: a flamingo head, which has long, slender neck.",
+        "A photo of a objects or animal: a flamingo head, which has pink or reddish feathers.",
+        "A photo of a objects or animal: a flamingo head, which has curved beak.",
+        "A photo of a objects or animal: a flamingo head, which has distinctive downward curve in the neck.",
+        "A photo of a objects or animal: a flamingo head, which has distinctive black markings on the face.",
+        "A photo of a objects or animal: a flamingo head, which has small, round eyes.",
+        "A photo of a objects or animal: a flamingo head, which has distinctive shape of the head with a slight curve at the top."
+    ],
+    "garfield": [
+        "A photo of a objects or animal: a garfield, which has overweight.",
+        "A photo of a objects or animal: a garfield, which has lazy demeanor.",
+        "A photo of a objects or animal: a garfield, which has black stripes on back and tail.",
+        "A photo of a objects or animal: a garfield, which has round, expressive eyes.",
+        "A photo of a objects or animal: a garfield, which has whiskers.",
+        "A photo of a objects or animal: a garfield, which has large, pink nose.",
+        "A photo of a objects or animal: a garfield, which often seen eating lasagna."
+    ],
+    "gerenuk": [
+        "A photo of a objects or animal: a gerenuk, which has small, narrow head.",
+        "A photo of a objects or animal: a gerenuk, which has large, round ears.",
+        "A photo of a objects or animal: a gerenuk, which has light brown or reddish-brown coat.",
+        "A photo of a objects or animal: a gerenuk, which has white underbelly.",
+        "A photo of a objects or animal: a gerenuk, which has long, slender legs.",
+        "A photo of a objects or animal: a gerenuk, which has distinctive black markings on the face.",
+        "A photo of a objects or animal: a gerenuk, which has distinctively shaped horns on males."
+    ],
+    "gramophone": [
+        "A photo of a objects or animal: a gramophone, which has vintage or retro design.",
+        "A photo of a objects or animal: a gramophone, which is a turntable for playing records.",
+        "A photo of a objects or animal: a gramophone, which is a tonearm with a stylus for reading the grooves on a record.",
+        "A photo of a objects or animal: a gramophone, which is a horn or speaker for amplifying sound.",
+        "A photo of a objects or animal: a gramophone, which is a crank or motor for spinning the turntable.",
+        "A photo of a objects or animal: a gramophone, which has knobs or levers for adjusting volume or speed.",
+        "A photo of a objects or animal: a gramophone, which is a wooden or metal construction.",
+        "A photo of a objects or animal: a gramophone, which has visible record on the turntable."
+    ],
+    "grand piano": [
+        "A photo of a objects or animal: a grand piano, which has large, long, horizontal body.",
+        "A photo of a objects or animal: a grand piano, which has black or white keys.",
+        "A photo of a objects or animal: a grand piano, which has multiple pedals at the base.",
+        "A photo of a objects or animal: a grand piano, which has lid that can be opened or closed.",
+        "A photo of a objects or animal: a grand piano, which has intricate design on the body and legs.",
+        "A photo of a objects or animal: a grand piano, which has strings visible inside the body.",
+        "A photo of a objects or animal: a grand piano, which is a music stand attached to the top.",
+        "A photo of a objects or animal: a grand piano, which has bench or stool for seating."
+    ],
+    "hawksbill": [
+        "A photo of a objects or animal: a hawksbill, which has marine turtle.",
+        "A photo of a objects or animal: a hawksbill, which has distinctive beak with a sharp, pointed tip.",
+        "A photo of a objects or animal: a hawksbill, which has overlapping scales on their shells.",
+        "A photo of a objects or animal: a hawksbill, which typically have shades of brown, green, or yellow on their shells.",
+        "A photo of a objects or animal: a hawksbill, which has flippers with two claws on each front flipper.",
+        "A photo of a objects or animal: a hawksbill, which has relatively small size compared to other sea turtle species.",
+        "A photo of a objects or animal: a hawksbill, which has live in tropical and subtropical waters."
+    ],
+    "headphone": [
+        "A photo of a objects or animal: a headphone, which has over-ear or on-ear design.",
+        "A photo of a objects or animal: a headphone, which has headband.",
+        "A photo of a objects or animal: a headphone, which has ear cups.",
+        "A photo of a objects or animal: a headphone, which is adjustable size.",
+        "A photo of a objects or animal: a headphone, which has padding on ear cups and headband.",
+        "A photo of a objects or animal: a headphone, which has connecting wire or Bluetooth capability.",
+        "A photo of a objects or animal: a headphone, which has volume control or other buttons on the wire or ear cups.",
+        "A photo of a objects or animal: a headphone, which has brand logo or design elements.",
+        "A photo of a objects or animal: a headphone, which has microphone for hands-free calling or voice control."
+    ],
+    "hedgehog": [
+        "A photo of a objects or animal: a hedgehog, which has spiny coat covering their body.",
+        "A photo of a objects or animal: a hedgehog, which has small eyes and nose.",
+        "A photo of a objects or animal: a hedgehog, which has rounded body shape.",
+        "A photo of a objects or animal: a hedgehog, which has short legs.",
+        "A photo of a objects or animal: a hedgehog, which has nocturnal behavior.",
+        "A photo of a objects or animal: a hedgehog, which has primarily active at night.",
+        "A photo of a objects or animal: a hedgehog, which has omnivorous diet, including insects and plants."
+    ],
+    "helicopter": [
+        "A photo of a objects or animal: a helicopter, which is a cockpit for the pilot.",
+        "A photo of a objects or animal: a helicopter, which has landing skids or wheels.",
+        "A photo of a objects or animal: a helicopter, which is a tail rotor.",
+        "A photo of a objects or animal: a helicopter, which is a tail boom.",
+        "A photo of a objects or animal: a helicopter, which has windows for the cockpit.",
+        "A photo of a objects or animal: a helicopter, which is a main body or fuselage.",
+        "A photo of a objects or animal: a helicopter, which has distinct shape and size compared to other aircraft.",
+        "A photo of a objects or animal: a helicopter, which often painted in bright colors for visibility."
+    ],
+    "ibis": [
+        "A photo of a objects or animal: a ibis, which has long, curved bill.",
+        "A photo of a objects or animal: a ibis, which has long neck.",
+        "A photo of a objects or animal: a ibis, which has long legs.",
+        "A photo of a objects or animal: a ibis, which has white or black plumage.",
+        "A photo of a objects or animal: a ibis, which has curved beak.",
+        "A photo of a objects or animal: a ibis, which has distinctive facial skin.",
+        "A photo of a objects or animal: a ibis, which often seen wading in water or marshy areas.",
+        "A photo of a objects or animal: a ibis, which may have a crest or plumes on head."
+    ],
+    "inline skate": [
+        "A photo of a objects or animal: a inline skate, which is a boot or shoe with wheels attached in a row.",
+        "A photo of a objects or animal: a inline skate, which is a brake at the back of the skate.",
+        "A photo of a objects or animal: a inline skate, which has straps or laces to secure the foot.",
+        "A photo of a objects or animal: a inline skate, which is a hard shell or soft boot design.",
+        "A photo of a objects or animal: a inline skate, which has wheels with bearings for smooth movement.",
+        "A photo of a objects or animal: a inline skate, which is a frame to hold the wheels in place.",
+        "A photo of a objects or animal: a inline skate, which often brightly colored or patterned designs.",
+        "A photo of a objects or animal: a inline skate, which may have adjustable sizing for different foot sizes."
+    ],
+    "joshua tree": [
+        "A photo of a objects or animal: a joshua tree, which has tall, spiky tree with multiple branches.",
+        "A photo of a objects or animal: a joshua tree, which has greenish-blue leaves.",
+        "A photo of a objects or animal: a joshua tree, which has white flowers that bloom in clusters.",
+        "A photo of a objects or animal: a joshua tree, which has rough, shaggy bark.",
+        "A photo of a objects or animal: a joshua tree, which typically found in desert regions, particularly the Mojave Desert.",
+        "A photo of a objects or animal: a joshua tree, which may have dead or fallen branches.",
+        "A photo of a objects or animal: a joshua tree, which can grow up to 40 feet tall."
+    ],
+    "kangaroo": [
+        "A photo of a objects or animal: a kangaroo, which has large hind legs for hopping.",
+        "A photo of a objects or animal: a kangaroo, which has smaller front legs for balance.",
+        "A photo of a objects or animal: a kangaroo, which has long tail for balance.",
+        "A photo of a objects or animal: a kangaroo, which has fur ranging from grey to red to brown.",
+        "A photo of a objects or animal: a kangaroo, which has large ears.",
+        "A photo of a objects or animal: a kangaroo, which has strong, muscular build.",
+        "A photo of a objects or animal: a kangaroo, which has pouch for carrying young (in females).",
+        "A photo of a objects or animal: a kangaroo, which has distinctive bounding motion when moving."
+    ],
+    "ketch": [
+        "A photo of a objects or animal: a ketch, which has two masts, with the forward mast (the mainmast) being taller than the aft mast (the mizzenmast).",
+        "A photo of a objects or animal: a ketch, which is a fore-and-aft rigged sail plan, with the mainsail on the mainmast and a smaller sail on the mizzenmast.",
+        "A photo of a objects or animal: a ketch, which is a bow sprit extending forward from the bow.",
+        "A photo of a objects or animal: a ketch, which is a relatively flat bottom hull shape.",
+        "A photo of a objects or animal: a ketch, which is a cockpit or deckhouse for sheltering the crew.",
+        "A photo of a objects or animal: a ketch, which typically made of wood or fiberglass materials."
+    ],
+    "lamp": [
+        "A photo of a objects or animal: a lamp, which is a light source, such as a bulb or LED.",
+        "A photo of a objects or animal: a lamp, which is a lampshade or cover to diffuse the light.",
+        "A photo of a objects or animal: a lamp, which is a base or stand to support the lamp.",
+        "A photo of a objects or animal: a lamp, which is an on/off switch or control mechanism.",
+        "A photo of a objects or animal: a lamp, which is a power cord.",
+        "A photo of a objects or animal: a lamp, which is a plug to connect to an electrical outlet.",
+        "A photo of a objects or animal: a lamp, which is a design or style that can vary widely from modern to traditional."
+    ],
+    "laptop": [
+        "A photo of a objects or animal: a laptop, which has screen attached to a keyboard.",
+        "A photo of a objects or animal: a laptop, which typically silver, black, or grey in color.",
+        "A photo of a objects or animal: a laptop, which has trackpad or mouse buttons below the keyboard.",
+        "A photo of a objects or animal: a laptop, which has USB ports, headphone jack, and other input/output ports on the sides.",
+        "A photo of a objects or animal: a laptop, which has power button.",
+        "A photo of a objects or animal: a laptop, which has webcam at the top of the screen.",
+        "A photo of a objects or animal: a laptop, which has hinge that allows the screen to open and close."
+    ],
+    "llama": [
+        "A photo of a objects or animal: a llama, which has fluffy coat ranging in color from white to brown to black.",
+        "A photo of a objects or animal: a llama, which has long, curved ears.",
+        "A photo of a objects or animal: a llama, which has large, expressive eyes.",
+        "A photo of a objects or animal: a llama, which is a distinctive \"banana-shaped\" tail.",
+        "A photo of a objects or animal: a llama, which is a calm and gentle demeanor.",
+        "A photo of a objects or animal: a llama, which often seen in herds.",
+        "A photo of a objects or animal: a llama, which can have a thick woolly coat or a shorter, smoother coat, depending on the breed.."
+    ],
+    "lobster": [
+        "A photo of a objects or animal: a lobster, which has crustacean with a hard exoskeleton.",
+        "A photo of a objects or animal: a lobster, which has red or brown in color.",
+        "A photo of a objects or animal: a lobster, which has long antennae.",
+        "A photo of a objects or animal: a lobster, which has large claws.",
+        "A photo of a objects or animal: a lobster, which has segmented body with tail.",
+        "A photo of a objects or animal: a lobster, which has multiple legs.",
+        "A photo of a objects or animal: a lobster, which has small eyes on stalks.",
+        "A photo of a objects or animal: a lobster, which has pincers on front limbs."
+    ],
+    "lotus": [
+        "A photo of a objects or animal: a lotus, which is aquatic plant.",
+        "A photo of a objects or animal: a lotus, which has large, round leaves that float on the surface of the water.",
+        "A photo of a objects or animal: a lotus, which has tall, slender stems.",
+        "A photo of a objects or animal: a lotus, which has vibrant colored flowers (usually pink, white, or yellow).",
+        "A photo of a objects or animal: a lotus, which has multiple layers of petals.",
+        "A photo of a objects or animal: a lotus, which often found in ponds or other bodies of water.",
+        "A photo of a objects or animal: a lotus, which has some species have thorns or spikes on the stems or leaves."
+    ],
+    "mandolin": [
+        "A photo of a objects or animal: a mandolin, which has stringed musical instrument.",
+        "A photo of a objects or animal: a mandolin, which has pear-shaped body.",
+        "A photo of a objects or animal: a mandolin, which has curved top and flat back.",
+        "A photo of a objects or animal: a mandolin, which has two sets of double strings.",
+        "A photo of a objects or animal: a mandolin, which has fretted neck.",
+        "A photo of a objects or animal: a mandolin, which has tuning pegs.",
+        "A photo of a objects or animal: a mandolin, which has bridge.",
+        "A photo of a objects or animal: a mandolin, which has sound hole.",
+        "A photo of a objects or animal: a mandolin, which has pickguard.",
+        "A photo of a objects or animal: a mandolin, which has looped strap for hanging or holding the instrument."
+    ],
+    "mayfly": [
+        "A photo of a objects or animal: a mayfly, which has small, delicate insect.",
+        "A photo of a objects or animal: a mayfly, which has transparent wings with intricate veining.",
+        "A photo of a objects or animal: a mayfly, which has long, slender body.",
+        "A photo of a objects or animal: a mayfly, which has three long tail filaments.",
+        "A photo of a objects or animal: a mayfly, which has large, compound eyes.",
+        "A photo of a objects or animal: a mayfly, which has short lifespan of only a few hours to a few days.",
+        "A photo of a objects or animal: a mayfly, which is aquatic larval stage before emerging as an adult fly."
+    ],
+    "menorah": [
+        "A photo of a objects or animal: a menorah, which is a candelabra with nine branches.",
+        "A photo of a objects or animal: a menorah, which typically made of metal, silver, or gold.",
+        "A photo of a objects or animal: a menorah, which has each branch is of equal height except for the central branch, which is higher.",
+        "A photo of a objects or animal: a menorah, which has traditionally used during the Jewish holiday of Hanukkah.",
+        "A photo of a objects or animal: a menorah, which may be adorned with decorative elements such as engravings or symbols.",
+        "A photo of a objects or animal: a menorah, which has each branch holds a candle, with the central branch holding the shamash (helper) candle.",
+        "A photo of a objects or animal: a menorah, which often displayed in homes or synagogues during Hanukkah celebrations."
+    ],
+    "metronome": [
+        "A photo of a objects or animal: a metronome, which is a small, mechanical device.",
+        "A photo of a objects or animal: a metronome, which typically made of wood or plastic.",
+        "A photo of a objects or animal: a metronome, which is a pendulum or digital display to indicate the tempo.",
+        "A photo of a objects or animal: a metronome, which is a dial or buttons to adjust the tempo.",
+        "A photo of a objects or animal: a metronome, which is a ticking sound.",
+        "A photo of a objects or animal: a metronome, which often used by musicians to keep time.",
+        "A photo of a objects or animal: a metronome, which may have a bell or chime feature to indicate different intervals."
+    ],
+    "minaret": [
+        "A photo of a objects or animal: a minaret, which has tall, slender tower typically part of a mosque.",
+        "A photo of a objects or animal: a minaret, which has usually made of brick, stone, or marble.",
+        "A photo of a objects or animal: a minaret, which often adorned with intricate architectural details such as geometric patterns or calligraphy.",
+        "A photo of a objects or animal: a minaret, which may have a balcony or observation deck near the top.",
+        "A photo of a objects or animal: a minaret, which has topped with a spire or dome.",
+        "A photo of a objects or animal: a minaret, which has located near or attached to a mosque or religious building.",
+        "A photo of a objects or animal: a minaret, which may have one or more windows or openings for light and ventilation."
+    ],
+    "nautilus": [
+        "A photo of a objects or animal: a nautilus, which has spiral shell with chambers.",
+        "A photo of a objects or animal: a nautilus, which has tentacles and eyes on the head.",
+        "A photo of a objects or animal: a nautilus, which has tentacles used for feeding and sensing.",
+        "A photo of a objects or animal: a nautilus, which has pale, iridescent shell color.",
+        "A photo of a objects or animal: a nautilus, which has symmetrical shell shape.",
+        "A photo of a objects or animal: a nautilus, which has shell with ridges or spirals.",
+        "A photo of a objects or animal: a nautilus, which has marine creature living in deep ocean waters."
+    ],
+    "octopus": [
+        "A photo of a objects or animal: a octopus, which has eight long tentacles.",
+        "A photo of a objects or animal: a octopus, which has bulbous head.",
+        "A photo of a objects or animal: a octopus, which has soft body with no skeleton.",
+        "A photo of a objects or animal: a octopus, which has suction cups on tentacles.",
+        "A photo of a objects or animal: a octopus, which is ability to change color and texture.",
+        "A photo of a objects or animal: a octopus, which has large, round eyes.",
+        "A photo of a objects or animal: a octopus, which has beak-like mouth.",
+        "A photo of a objects or animal: a octopus, which is ability to squirt ink as defense.",
+        "A photo of a objects or animal: a octopus, which is ability to squeeze through small spaces."
+    ],
+    "okapi": [
+        "A photo of a objects or animal: a okapi, which has giraffe-like body with a dark brown coat and white stripes on the legs and hindquarters.",
+        "A photo of a objects or animal: a okapi, which has long neck.",
+        "A photo of a objects or animal: a okapi, which has short, hair-covered horns on the head.",
+        "A photo of a objects or animal: a okapi, which has large, rounded ears.",
+        "A photo of a objects or animal: a okapi, which has white face with dark eyes and muzzle.",
+        "A photo of a objects or animal: a okapi, which has long, black tongue.",
+        "A photo of a objects or animal: a okapi, which has relatively short tail.",
+        "A photo of a objects or animal: a okapi, which has hoofed feet."
+    ],
+    "pagoda": [
+        "A photo of a objects or animal: a pagoda, which has traditional Asian architectural style.",
+        "A photo of a objects or animal: a pagoda, which has multiple tiers or levels.",
+        "A photo of a objects or animal: a pagoda, which has curved or sloping roofs.",
+        "A photo of a objects or animal: a pagoda, which has intricate carvings or decorations.",
+        "A photo of a objects or animal: a pagoda, which often painted in bright colors.",
+        "A photo of a objects or animal: a pagoda, which has usually located in a temple or religious setting.",
+        "A photo of a objects or animal: a pagoda, which has surrounded by gardens or other decorative elements."
+    ],
+    "panda": [
+        "A photo of a objects or animal: a panda, which has large, black patches around the eyes, ears, and shoulders.",
+        "A photo of a objects or animal: a panda, which has white fur on the rest of the body.",
+        "A photo of a objects or animal: a panda, which has round face with black ears.",
+        "A photo of a objects or animal: a panda, which has chubby body.",
+        "A photo of a objects or animal: a panda, which has black fur on the legs and arms.",
+        "A photo of a objects or animal: a panda, which has bamboo in the background, as pandas primarily eat bamboo.",
+        "A photo of a objects or animal: a panda, which has distinctive black and white coloration."
+    ],
+    "pigeon": [
+        "A photo of a objects or animal: a pigeon, which has medium-sized bird.",
+        "A photo of a objects or animal: a pigeon, which has grey, blue, black, white, or brown feathers.",
+        "A photo of a objects or animal: a pigeon, which has small head with a distinctive beak.",
+        "A photo of a objects or animal: a pigeon, which has small, round body.",
+        "A photo of a objects or animal: a pigeon, which has short legs.",
+        "A photo of a objects or animal: a pigeon, which has wings with distinctive patterns.",
+        "A photo of a objects or animal: a pigeon, which has cooing sound.",
+        "A photo of a objects or animal: a pigeon, which often seen in urban areas.",
+        "A photo of a objects or animal: a pigeon, which has known for scavenging for food in public spaces."
+    ],
+    "pizza": [
+        "A photo of a objects or animal: a pizza, which has flat, circular dough base.",
+        "A photo of a objects or animal: a pizza, which has tomato sauce.",
+        "A photo of a objects or animal: a pizza, which has cheese.",
+        "A photo of a objects or animal: a pizza, which has toppings such as pepperoni, vegetables, or meat.",
+        "A photo of a objects or animal: a pizza, which has melted and bubbly cheese.",
+        "A photo of a objects or animal: a pizza, which has crust around the edges."
+    ],
+    "platypus": [
+        "A photo of a objects or animal: a platypus, which has egg-laying mammal.",
+        "A photo of a objects or animal: a platypus, which has brown fur.",
+        "A photo of a objects or animal: a platypus, which has duck-like bill.",
+        "A photo of a objects or animal: a platypus, which has webbed feet.",
+        "A photo of a objects or animal: a platypus, which has beaver-like tail.",
+        "A photo of a objects or animal: a platypus, which has venomous spurs on hind legs.",
+        "A photo of a objects or animal: a platypus, which has small eyes and ears.",
+        "A photo of a objects or animal: a platypus, which has unique combination of mammalian, avian, and reptilian features."
+    ],
+    "pyramid": [
+        "A photo of a objects or animal: a pyramid, which has triangular shape with four triangular sides.",
+        "A photo of a objects or animal: a pyramid, which has made of stone or brick.",
+        "A photo of a objects or animal: a pyramid, which has located in a desert or arid region.",
+        "A photo of a objects or animal: a pyramid, which may have hieroglyphics or carvings on the surface.",
+        "A photo of a objects or animal: a pyramid, which may have steps or a flat top.",
+        "A photo of a objects or animal: a pyramid, which may have a burial chamber or tomb inside.",
+        "A photo of a objects or animal: a pyramid, which may be part of a larger complex or archaeological site."
+    ],
+    "revolver": [
+        "A photo of a objects or animal: a revolver, which has handgun with a revolving cylinder that holds multiple rounds.",
+        "A photo of a objects or animal: a revolver, which typically has a short barrel.",
+        "A photo of a objects or animal: a revolver, which is a hammer that can be cocked back.",
+        "A photo of a objects or animal: a revolver, which is a trigger for firing the gun.",
+        "A photo of a objects or animal: a revolver, which is a grip for holding the gun.",
+        "A photo of a objects or animal: a revolver, which often made of metal.",
+        "A photo of a objects or animal: a revolver, which often has a distinct shape and design that sets it apart from other types of handguns.."
+    ],
+    "rhino": [
+        "A photo of a objects or animal: a rhino, which has thick, folded skin.",
+        "A photo of a objects or animal: a rhino, which has two prominent horns on the snout.",
+        "A photo of a objects or animal: a rhino, which has short, stocky legs.",
+        "A photo of a objects or animal: a rhino, which has wide, flat head.",
+        "A photo of a objects or animal: a rhino, which has triangular ears.",
+        "A photo of a objects or animal: a rhino, which has herbivorous diet .",
+        "A photo of a objects or animal: a rhino, which typically grey or brown in color."
+    ],
+    "rooster": [
+        "A photo of a objects or animal: a rooster, which is a brightly colored plumage, often with vibrant red, orange, green, or blue feathers.",
+        "A photo of a objects or animal: a rooster, which is a large, fleshy comb on top of its head.",
+        "A photo of a objects or animal: a rooster, which has long, pointed tail feathers.",
+        "A photo of a objects or animal: a rooster, which has spurs on its legs.",
+        "A photo of a objects or animal: a rooster, which has distinctive crowing sound.",
+        "A photo of a objects or animal: a rooster, which is a crest of feathers on its head.",
+        "A photo of a objects or animal: a rooster, which is a bony ridge on its back called a saddle.",
+        "A photo of a objects or animal: a rooster, which is a more vibrant and elaborate appearance compared to hens."
+    ],
+    "saxophone": [
+        "A photo of a objects or animal: a saxophone, which has musical instrument.",
+        "A photo of a objects or animal: a saxophone, which has brass or woodwind instrument.",
+        "A photo of a objects or animal: a saxophone, which has curved body with keys and buttons.",
+        "A photo of a objects or animal: a saxophone, which has bell-shaped end.",
+        "A photo of a objects or animal: a saxophone, which has mouthpiece.",
+        "A photo of a objects or animal: a saxophone, which has neck strap or harness.",
+        "A photo of a objects or animal: a saxophone, which has reed attached to the mouthpiece.",
+        "A photo of a objects or animal: a saxophone, which has shiny metallic finish."
+    ],
+    "schooner": [
+        "A photo of a objects or animal: a schooner, which has two or more masts with sails.",
+        "A photo of a objects or animal: a schooner, which is a hull with a distinct shape, often with a pronounced bow and stern.",
+        "A photo of a objects or animal: a schooner, which has rigging and ropes to control the sails.",
+        "A photo of a objects or animal: a schooner, which is a deck with visible crew members or passengers.",
+        "A photo of a objects or animal: a schooner, which is a wheel or tiller for steering.",
+        "A photo of a objects or animal: a schooner, which has possibly a figurehead at the front of the ship.",
+        "A photo of a objects or animal: a schooner, which has possibly a flag or pennant flying from the mast."
+    ],
+    "scissors": [
+        "A photo of a objects or animal: a scissors, which has two blades, usually made of metal.",
+        "A photo of a objects or animal: a scissors, which has handles for gripping and opening/closing the blades.",
+        "A photo of a objects or animal: a scissors, which is a pivot point where the blades connect.",
+        "A photo of a objects or animal: a scissors, which is a sharp cutting edge on each blade.",
+        "A photo of a objects or animal: a scissors, which often have a small finger hole for more precise cutting.",
+        "A photo of a objects or animal: a scissors, which typically have a symmetrical design.",
+        "A photo of a objects or animal: a scissors, which has come in various sizes and colors, but usually have a silver or black color.."
+    ],
+    "scorpion": [
+        "A photo of a objects or animal: a scorpion, which has eight legs.",
+        "A photo of a objects or animal: a scorpion, which has two large pincers.",
+        "A photo of a objects or animal: a scorpion, which is a segmented body with a stinger at the end.",
+        "A photo of a objects or animal: a scorpion, which is a pair of eyes located on the top of the cephalothorax.",
+        "A photo of a objects or animal: a scorpion, which is a pair of sensory organs called pectines.",
+        "A photo of a objects or animal: a scorpion, which is a hard exoskeleton.",
+        "A photo of a objects or animal: a scorpion, which typically dark brown or black in color."
+    ],
+    "sea horse": [
+        "A photo of a objects or animal: a sea horse, which has elongated body with a curled tail.",
+        "A photo of a objects or animal: a sea horse, which has bony plates covering the body.",
+        "A photo of a objects or animal: a sea horse, which has small fins on the back.",
+        "A photo of a objects or animal: a sea horse, which has long snout with a small mouth at the end.",
+        "A photo of a objects or animal: a sea horse, which is ability to change color to blend in with surroundings.",
+        "A photo of a objects or animal: a sea horse, which has swims upright.",
+        "A photo of a objects or animal: a sea horse, which has small eyes on either side of the head.",
+        "A photo of a objects or animal: a sea horse, which has gills for breathing underwater."
+    ],
+    "snoopy": [
+        "A photo of a objects or animal: a snoopy, which is a white beagle with black ears and spots.",
+        "A photo of a objects or animal: a snoopy, which is a red doghouse with a curved roof.",
+        "A photo of a objects or animal: a snoopy, which is a yellow bird named Woodstock.",
+        "A photo of a objects or animal: a snoopy, which is a typewriter and a typewriter stand.",
+        "A photo of a objects or animal: a snoopy, which is a red and white striped shirt.",
+        "A photo of a objects or animal: a snoopy, which is a black collar with a red dog tag.",
+        "A photo of a objects or animal: a snoopy, which is a love for adventure and imagination."
+    ],
+    "soccer ball": [
+        "A photo of a objects or animal: a soccer ball, which has spherical shape.",
+        "A photo of a objects or animal: a soccer ball, which has black and white pattern.",
+        "A photo of a objects or animal: a soccer ball, which has made of leather or synthetic material.",
+        "A photo of a objects or animal: a soccer ball, which is around 8.65 to 9.1 inches in diameter.",
+        "A photo of a objects or animal: a soccer ball, which has inflated with air.",
+        "A photo of a objects or animal: a soccer ball, which is used for playing soccer or football.",
+        "A photo of a objects or animal: a soccer ball, which typically has a logo or brand name printed on it."
+    ],
+    "stapler": [
+        "A photo of a objects or animal: a stapler, which has metal or plastic construction.",
+        "A photo of a objects or animal: a stapler, which typically a rectangular shape.",
+        "A photo of a objects or animal: a stapler, which is a base for stability.",
+        "A photo of a objects or animal: a stapler, which is a handle for pressing down to staple.",
+        "A photo of a objects or animal: a stapler, which is a staple magazine for holding staples.",
+        "A photo of a objects or animal: a stapler, which is a staple release mechanism.",
+        "A photo of a objects or animal: a stapler, which is a spring mechanism for pushing out staples.",
+        "A photo of a objects or animal: a stapler, which is a staple remover on the back end."
+    ],
+    "starfish": [
+        "A photo of a objects or animal: a starfish, which has five arms radiating from a central disc.",
+        "A photo of a objects or animal: a starfish, which typically a spiny or bumpy texture.",
+        "A photo of a objects or animal: a starfish, which has usually a bright color, such as orange, red, or yellow.",
+        "A photo of a objects or animal: a starfish, which is a flat body shape.",
+        "A photo of a objects or animal: a starfish, which has tube feet on the underside of each arm.",
+        "A photo of a objects or animal: a starfish, which is a mouth in the center of the underside of the disc.",
+        "A photo of a objects or animal: a starfish, which typically found in marine environments."
+    ],
+    "stegosaurus": [
+        "A photo of a objects or animal: a stegosaurus, which has dinosaur species.",
+        "A photo of a objects or animal: a stegosaurus, which has herbivorous.",
+        "A photo of a objects or animal: a stegosaurus, which has large, plated body.",
+        "A photo of a objects or animal: a stegosaurus, which has double row of bony plates along its back.",
+        "A photo of a objects or animal: a stegosaurus, which has spikes on its tail.",
+        "A photo of a objects or animal: a stegosaurus, which has small head with a beak-like mouth.",
+        "A photo of a objects or animal: a stegosaurus, which has four sturdy legs.",
+        "A photo of a objects or animal: a stegosaurus, which has tail held high in the air."
+    ],
+    "stop sign": [
+        "A photo of a objects or animal: a stop sign, which has octagonal shape.",
+        "A photo of a objects or animal: a stop sign, which has red color.",
+        "A photo of a objects or animal: a stop sign, which has white letters spelling out \"STOP\".",
+        "A photo of a objects or animal: a stop sign, which has reflective coating for visibility at night.",
+        "A photo of a objects or animal: a stop sign, which has mounted on a pole or post.",
+        "A photo of a objects or animal: a stop sign, which typically located at intersections.",
+        "A photo of a objects or animal: a stop sign, which may have graffiti or damage.",
+        "A photo of a objects or animal: a stop sign, which may have a border or trim in white or yellow color."
+    ],
+    "strawberry": [
+        "A photo of a objects or animal: a strawberry, which has small, red fruit.",
+        "A photo of a objects or animal: a strawberry, which has green leaves attached to the stem.",
+        "A photo of a objects or animal: a strawberry, which has seeds on the outside of the fruit.",
+        "A photo of a objects or animal: a strawberry, which has round or slightly heart-shaped.",
+        "A photo of a objects or animal: a strawberry, which has juicy and sweet when ripe.",
+        "A photo of a objects or animal: a strawberry, which typically small in size.",
+        "A photo of a objects or animal: a strawberry, which has red flesh inside when cut open."
+    ],
+    "sunflower": [
+        "A photo of a objects or animal: a sunflower, which has large, yellow flower head with numerous petals.",
+        "A photo of a objects or animal: a sunflower, which has dark brown center disk.",
+        "A photo of a objects or animal: a sunflower, which has tall stem with leaves.",
+        "A photo of a objects or animal: a sunflower, which has rough, hairy texture on stems and leaves.",
+        "A photo of a objects or animal: a sunflower, which typically found in fields or gardens.",
+        "A photo of a objects or animal: a sunflower, which has bright, vibrant colors."
+    ],
+    "tick": [
+        "A photo of a objects or animal: a tick, which has dark brown or black in color.",
+        "A photo of a objects or animal: a tick, which has oval-shaped body.",
+        "A photo of a objects or animal: a tick, which has eight legs.",
+        "A photo of a objects or animal: a tick, which can be flat or swollen after feeding.",
+        "A photo of a objects or animal: a tick, which has mouthparts visible when attached to a host.",
+        "A photo of a objects or animal: a tick, which often found in grassy or wooded areas.",
+        "A photo of a objects or animal: a tick, which may be attached to a host's skin."
+    ],
+    "trilobite": [
+        "A photo of a objects or animal: a trilobite, which has segmented body with a distinct head, thorax, and tail.",
+        "A photo of a objects or animal: a trilobite, which has exoskeleton made of hard, calcified plates.",
+        "A photo of a objects or animal: a trilobite, which has multiple pairs of legs (usually 3 pairs).",
+        "A photo of a objects or animal: a trilobite, which has compound eyes.",
+        "A photo of a objects or animal: a trilobite, which has distinctive ridges or spines on the exoskeleton.",
+        "A photo of a objects or animal: a trilobite, which has size can vary from a few millimeters to several inches long.",
+        "A photo of a objects or animal: a trilobite, which has lived in the Paleozoic era.",
+        "A photo of a objects or animal: a trilobite, which often found in fossil form."
+    ],
+    "umbrella": [
+        "A photo of a objects or animal: a umbrella, which canopy made of waterproof material.",
+        "A photo of a objects or animal: a umbrella, which has metal or plastic ribs supporting the canopy.",
+        "A photo of a objects or animal: a umbrella, which is a handle for holding.",
+        "A photo of a objects or animal: a umbrella, which typically a curved or hooked shape.",
+        "A photo of a objects or animal: a umbrella, which has collapsible or foldable design.",
+        "A photo of a objects or animal: a umbrella, which often in a solid color or pattern.",
+        "A photo of a objects or animal: a umbrella, which is used for protection from rain or sun.."
+    ],
+    "watch": [
+        "A photo of a objects or animal: a watch, which has small, wearable timekeeping device.",
+        "A photo of a objects or animal: a watch, which has circular or square face.",
+        "A photo of a objects or animal: a watch, which has metal or leather band.",
+        "A photo of a objects or animal: a watch, which has hands or digital display to indicate time.",
+        "A photo of a objects or animal: a watch, which has numbers or markers to indicate hours.",
+        "A photo of a objects or animal: a watch, which has buttons or knobs for adjusting time.",
+        "A photo of a objects or animal: a watch, which has brand logo or name visible on the watch.",
+        "A photo of a objects or animal: a watch, which has clasp or buckle for fastening the band around the wrist."
+    ],
+    "water lilly": [
+        "A photo of a objects or animal: a water lilly, which is aquatic plant.",
+        "A photo of a objects or animal: a water lilly, which has floating leaves with round or oval shapes.",
+        "A photo of a objects or animal: a water lilly, which has colorful flowers with multiple petals.",
+        "A photo of a objects or animal: a water lilly, which has long stems connecting the leaves and flowers.",
+        "A photo of a objects or animal: a water lilly, which often found in ponds, lakes, or slow-moving streams.",
+        "A photo of a objects or animal: a water lilly, which may have roots extending into the water or soil at the bottom."
+    ],
+    "wheelchair": [
+        "A photo of a objects or animal: a wheelchair, which has metal frame.",
+        "A photo of a objects or animal: a wheelchair, which has cushioned seat.",
+        "A photo of a objects or animal: a wheelchair, which has large wheels.",
+        "A photo of a objects or animal: a wheelchair, which has footrests.",
+        "A photo of a objects or animal: a wheelchair, which has push handles.",
+        "A photo of a objects or animal: a wheelchair, which has brakes.",
+        "A photo of a objects or animal: a wheelchair, which is adjustable armrests.",
+        "A photo of a objects or animal: a wheelchair, which has folding mechanism.",
+        "A photo of a objects or animal: a wheelchair, which has wheelchair ramp or accessible features nearby."
+    ],
+    "wild cat": [
+        "A photo of a objects or animal: a wild cat, which has carnivorous mammal.",
+        "A photo of a objects or animal: a wild cat, which has pointed ears.",
+        "A photo of a objects or animal: a wild cat, which has sharp teeth.",
+        "A photo of a objects or animal: a wild cat, which has retractable claws.",
+        "A photo of a objects or animal: a wild cat, which has whiskers.",
+        "A photo of a objects or animal: a wild cat, which has muscular body.",
+        "A photo of a objects or animal: a wild cat, which is agile and quick movements.",
+        "A photo of a objects or animal: a wild cat, which has camouflage fur pattern.",
+        "A photo of a objects or animal: a wild cat, which has nocturnal behavior.",
+        "A photo of a objects or animal: a wild cat, which has hunting behavior."
+    ],
+    "windsor chair": [
+        "A photo of a objects or animal: a windsor chair, which has wooden chair.",
+        "A photo of a objects or animal: a windsor chair, which has spindles or dowels for the backrest.",
+        "A photo of a objects or animal: a windsor chair, which has curved or straight backrest.",
+        "A photo of a objects or animal: a windsor chair, which has flat seat.",
+        "A photo of a objects or animal: a windsor chair, which has splayed legs.",
+        "A photo of a objects or animal: a windsor chair, which often painted or stained.",
+        "A photo of a objects or animal: a windsor chair, which has traditional design.",
+        "A photo of a objects or animal: a windsor chair, which has sturdy and well-built."
+    ],
+    "wrench": [
+        "A photo of a objects or animal: a wrench, which has metal tool.",
+        "A photo of a objects or animal: a wrench, which has long handle with a grip for turning.",
+        "A photo of a objects or animal: a wrench, which is adjustable jaw or fixed opening for gripping nuts or bolts.",
+        "A photo of a objects or animal: a wrench, which typically silver or metallic in color.",
+        "A photo of a objects or animal: a wrench, which may have measurement markings on the handle.",
+        "A photo of a objects or animal: a wrench, which may have a hanging hole for storage.",
+        "A photo of a objects or animal: a wrench, which may have a ratcheting mechanism for easier use."
+    ],
+    "yin yang": [
+        "A photo of a objects or animal: a yin yang, which has circular shape.",
+        "A photo of a objects or animal: a yin yang, which has divided into black and white halves.",
+        "A photo of a objects or animal: a yin yang, which has black half has a white dot.",
+        "A photo of a objects or animal: a yin yang, which has white half has a black dot.",
+        "A photo of a objects or animal: a yin yang, which has represents the concept of balance and harmony.",
+        "A photo of a objects or animal: a yin yang, which often associated with Taoism and Chinese philosophy."
+    ]
+}

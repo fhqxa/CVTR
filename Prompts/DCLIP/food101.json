@@ -1,0 +1,881 @@
+{
+    "apple pie": [
+        "A photo of a delicious food option: a apple pie, which has round or oval shape.",
+        "A photo of a delicious food option: a apple pie, which has golden brown crust.",
+        "A photo of a delicious food option: a apple pie, which has visible slices of apple filling.",
+        "A photo of a delicious food option: a apple pie, which has cinnamon or sugar sprinkled on top.",
+        "A photo of a delicious food option: a apple pie, which has possibly topped with a lattice crust or streusel topping.",
+        "A photo of a delicious food option: a apple pie, which may be served with a scoop of ice cream on top or on the side."
+    ],
+    "baby back ribs": [
+        "A photo of a delicious food option: a baby back ribs, which has meaty and bone-in.",
+        "A photo of a delicious food option: a baby back ribs, which has small, curved bones along the length of the rack.",
+        "A photo of a delicious food option: a baby back ribs, which has pink or reddish color from the meat.",
+        "A photo of a delicious food option: a baby back ribs, which has charred or caramelized edges from grilling or smoking.",
+        "A photo of a delicious food option: a baby back ribs, which has possibly coated in a BBQ sauce or dry rub.",
+        "A photo of a delicious food option: a baby back ribs, which has served on a plate or tray with sides such as coleslaw or cornbread."
+    ],
+    "baklava": [
+        "A photo of a delicious food option: a baklava, which has layers of flaky pastry.",
+        "A photo of a delicious food option: a baklava, which has nuts (usually pistachios or walnuts) sprinkled on top.",
+        "A photo of a delicious food option: a baklava, which has sweet syrup or honey drizzled over the pastry.",
+        "A photo of a delicious food option: a baklava, which has diamond or square-shaped pieces.",
+        "A photo of a delicious food option: a baklava, which has golden brown color.",
+        "A photo of a delicious food option: a baklava, which has sometimes garnished with additional nuts or powdered sugar on top."
+    ],
+    "beef carpaccio": [
+        "A photo of a delicious food option: a beef carpaccio, which has thinly sliced raw beef.",
+        "A photo of a delicious food option: a beef carpaccio, which typically served with a drizzle of olive oil, lemon juice, and Parmesan cheese.",
+        "A photo of a delicious food option: a beef carpaccio, which often garnished with arugula or other greens.",
+        "A photo of a delicious food option: a beef carpaccio, which typically served on a plate or platter.",
+        "A photo of a delicious food option: a beef carpaccio, which can be accompanied by bread or crackers.",
+        "A photo of a delicious food option: a beef carpaccio, which can have a red or pink color due to the raw beef.",
+        "A photo of a delicious food option: a beef carpaccio, which may have visible marbling or fat on the slices."
+    ],
+    "beef tartare": [
+        "A photo of a delicious food option: a beef tartare, which has raw ground beef.",
+        "A photo of a delicious food option: a beef tartare, which has mixed with ingredients like onions, capers, mustard, Worcestershire sauce, and spices.",
+        "A photo of a delicious food option: a beef tartare, which typically served with bread or crackers.",
+        "A photo of a delicious food option: a beef tartare, which often garnished with herbs or a raw egg yolk on top.",
+        "A photo of a delicious food option: a beef tartare, which has plated elegantly with attention to presentation.",
+        "A photo of a delicious food option: a beef tartare, which typically served as an appetizer or starter dish."
+    ],
+    "beet salad": [
+        "A photo of a delicious food option: a beet salad, which has vibrant red or purple color from the beets.",
+        "A photo of a delicious food option: a beet salad, which has leafy greens such as arugula or spinach.",
+        "A photo of a delicious food option: a beet salad, which has crumbled cheese such as goat cheese or feta.",
+        "A photo of a delicious food option: a beet salad, which has nuts or seeds for added texture.",
+        "A photo of a delicious food option: a beet salad, which has dressing such as vinaigrette or balsamic glaze.",
+        "A photo of a delicious food option: a beet salad, which has sliced or cubed beets.",
+        "A photo of a delicious food option: a beet salad, which has other vegetables such as carrots or radishes.",
+        "A photo of a delicious food option: a beet salad, which has garnishes such as fresh herbs or edible flowers."
+    ],
+    "beignets": [
+        "A photo of a delicious food option: a beignets, which has circular or square shape.",
+        "A photo of a delicious food option: a beignets, which has deep-fried pastry.",
+        "A photo of a delicious food option: a beignets, which has powdered sugar sprinkled on top.",
+        "A photo of a delicious food option: a beignets, which has light and fluffy texture.",
+        "A photo of a delicious food option: a beignets, which has golden brown color.",
+        "A photo of a delicious food option: a beignets, which often served in batches or on a plate.",
+        "A photo of a delicious food option: a beignets, which typically eaten as a sweet treat or dessert."
+    ],
+    "bibimbap": [
+        "A photo of a delicious food option: a bibimbap, which is a bowl of mixed ingredients, including rice, vegetables, meat, and egg.",
+        "A photo of a delicious food option: a bibimbap, which has colorful and visually appealing presentation.",
+        "A photo of a delicious food option: a bibimbap, which has distinct layers of different ingredients.",
+        "A photo of a delicious food option: a bibimbap, which has toppings such as sesame seeds, gochujang (red chili pepper paste), and sliced nori (seaweed).",
+        "A photo of a delicious food option: a bibimbap, which is a side of kimchi or other pickled vegetables.",
+        "A photo of a delicious food option: a bibimbap, which is a stone bowl or serving dish traditionally used for bibimbap."
+    ],
+    "bread pudding": [
+        "A photo of a delicious food option: a bread pudding, which is a baked dessert dish.",
+        "A photo of a delicious food option: a bread pudding, which is a soft and moist texture.",
+        "A photo of a delicious food option: a bread pudding, which typically made with bread, milk, eggs, sugar, and spices.",
+        "A photo of a delicious food option: a bread pudding, which may have toppings such as nuts, fruits, or sauces.",
+        "A photo of a delicious food option: a bread pudding, which may have a golden brown crust on top.",
+        "A photo of a delicious food option: a bread pudding, which may be served in a baking dish or individual serving dishes.",
+        "A photo of a delicious food option: a bread pudding, which may be garnished with powdered sugar or whipped cream."
+    ],
+    "breakfast burrito": [
+        "A photo of a delicious food option: a breakfast burrito, which has tortilla wrapped around filling.",
+        "A photo of a delicious food option: a breakfast burrito, which has eggs.",
+        "A photo of a delicious food option: a breakfast burrito, which has potatoes.",
+        "A photo of a delicious food option: a breakfast burrito, which has cheese.",
+        "A photo of a delicious food option: a breakfast burrito, which has meat (such as bacon or sausage).",
+        "A photo of a delicious food option: a breakfast burrito, which has salsa or hot sauce.",
+        "A photo of a delicious food option: a breakfast burrito, which has vegetables (such as peppers or onions).",
+        "A photo of a delicious food option: a breakfast burrito, which has melted cheese on top.",
+        "A photo of a delicious food option: a breakfast burrito, which has size and shape of a burrito, typically long and cylindrical."
+    ],
+    "bruschetta": [
+        "A photo of a delicious food option: a bruschetta, which has toasted or grilled bread.",
+        "A photo of a delicious food option: a bruschetta, which has topped with diced tomatoes, basil, garlic, and olive oil.",
+        "A photo of a delicious food option: a bruschetta, which may also include ingredients such as mozzarella cheese, balsamic vinegar, or prosciutto.",
+        "A photo of a delicious food option: a bruschetta, which typically served as an appetizer or snack.",
+        "A photo of a delicious food option: a bruschetta, which can be served on a plate or platter."
+    ],
+    "caesar salad": [
+        "A photo of a delicious food option: a caesar salad, which has lettuce (typically romaine).",
+        "A photo of a delicious food option: a caesar salad, which has croutons.",
+        "A photo of a delicious food option: a caesar salad, which has parmesan cheese.",
+        "A photo of a delicious food option: a caesar salad, which has Caesar dressing.",
+        "A photo of a delicious food option: a caesar salad, which is anchovies (optional).",
+        "A photo of a delicious food option: a caesar salad, which has lemon juice.",
+        "A photo of a delicious food option: a caesar salad, which has black pepper.",
+        "A photo of a delicious food option: a caesar salad, which has sometimes grilled chicken or shrimp.",
+        "A photo of a delicious food option: a caesar salad, which has sometimes hard-boiled eggs."
+    ],
+    "cannoli": [
+        "A photo of a delicious food option: a cannoli, which has tube-shaped pastry.",
+        "A photo of a delicious food option: a cannoli, which has crispy shell.",
+        "A photo of a delicious food option: a cannoli, which has filled with sweet ricotta cheese or cream.",
+        "A photo of a delicious food option: a cannoli, which has sometimes topped with powdered sugar or chocolate chips.",
+        "A photo of a delicious food option: a cannoli, which may have pistachios or candied fruit on the ends.",
+        "A photo of a delicious food option: a cannoli, which typically served on a plate or in a bakery box."
+    ],
+    "caprese salad": [
+        "A photo of a delicious food option: a caprese salad, which has red and green colors from tomatoes and basil.",
+        "A photo of a delicious food option: a caprese salad, which has white color from mozzarella cheese.",
+        "A photo of a delicious food option: a caprese salad, which has layered arrangement of tomato, mozzarella, and basil leaves.",
+        "A photo of a delicious food option: a caprese salad, which has drizzle of balsamic vinegar or olive oil.",
+        "A photo of a delicious food option: a caprese salad, which has round slices of tomato and mozzarella.",
+        "A photo of a delicious food option: a caprese salad, which has fresh basil leaves on top.",
+        "A photo of a delicious food option: a caprese salad, which typically served on a white plate or platter."
+    ],
+    "carrot cake": [
+        "A photo of a delicious food option: a carrot cake, which is a round or rectangular cake shape.",
+        "A photo of a delicious food option: a carrot cake, which has orange or brown color from the carrots.",
+        "A photo of a delicious food option: a carrot cake, which has visible shreds of carrots.",
+        "A photo of a delicious food option: a carrot cake, which has cream cheese frosting.",
+        "A photo of a delicious food option: a carrot cake, which has possibly topped with walnuts or pecans.",
+        "A photo of a delicious food option: a carrot cake, which has moist texture.",
+        "A photo of a delicious food option: a carrot cake, which has possibly garnished with carrot curls or orange zest."
+    ],
+    "ceviche": [
+        "A photo of a delicious food option: a ceviche, which is a dish of seafood marinated in citrus juices.",
+        "A photo of a delicious food option: a ceviche, which typically served in a shallow bowl or plate.",
+        "A photo of a delicious food option: a ceviche, which has seafood such as fish, shrimp, or scallops.",
+        "A photo of a delicious food option: a ceviche, which has diced vegetables such as onions, tomatoes, and peppers.",
+        "A photo of a delicious food option: a ceviche, which has garnished with herbs like cilantro or parsley.",
+        "A photo of a delicious food option: a ceviche, which may be served with avocado slices or plantain chips.",
+        "A photo of a delicious food option: a ceviche, which has bright and colorful appearance."
+    ],
+    "cheese plate": [
+        "A photo of a delicious food option: a cheese plate, which is a variety of cheeses displayed on a plate or board.",
+        "A photo of a delicious food option: a cheese plate, which has crackers or bread.",
+        "A photo of a delicious food option: a cheese plate, which has fruits or nuts.",
+        "A photo of a delicious food option: a cheese plate, which has possibly some spreads or condiments.",
+        "A photo of a delicious food option: a cheese plate, which has knives or utensils for serving.",
+        "A photo of a delicious food option: a cheese plate, which has decorative garnishes or decorations.",
+        "A photo of a delicious food option: a cheese plate, which is a cheese dome or cover.",
+        "A photo of a delicious food option: a cheese plate, which has wine or other beverages as accompaniments."
+    ],
+    "cheesecake": [
+        "A photo of a delicious food option: a cheesecake, which has round or square shape.",
+        "A photo of a delicious food option: a cheesecake, which has creamy texture.",
+        "A photo of a delicious food option: a cheesecake, which has graham cracker or cookie crust.",
+        "A photo of a delicious food option: a cheesecake, which has topped with fruit, nuts, chocolate, or whipped cream.",
+        "A photo of a delicious food option: a cheesecake, which has layered appearance.",
+        "A photo of a delicious food option: a cheesecake, which has rich and indulgent appearance.",
+        "A photo of a delicious food option: a cheesecake, which may be baked or no-bake.",
+        "A photo of a delicious food option: a cheesecake, which can be served chilled or at room temperature."
+    ],
+    "chicken curry": [
+        "A photo of a delicious food option: a chicken curry, which is a dish of food.",
+        "A photo of a delicious food option: a chicken curry, which is a creamy or spicy sauce.",
+        "A photo of a delicious food option: a chicken curry, which has pieces of chicken.",
+        "A photo of a delicious food option: a chicken curry, which has vegetables such as onions, tomatoes, and peppers.",
+        "A photo of a delicious food option: a chicken curry, which has spices such as curry powder, turmeric, and cumin.",
+        "A photo of a delicious food option: a chicken curry, which has served with rice or naan bread.",
+        "A photo of a delicious food option: a chicken curry, which is a garnish of cilantro or parsley."
+    ],
+    "chicken quesadilla": [
+        "A photo of a delicious food option: a chicken quesadilla, which is a flat, round or square shape.",
+        "A photo of a delicious food option: a chicken quesadilla, which has tortilla filled with chicken, cheese, and possibly other ingredients.",
+        "A photo of a delicious food option: a chicken quesadilla, which has melted cheese visible on top.",
+        "A photo of a delicious food option: a chicken quesadilla, which has grill marks on the tortilla.",
+        "A photo of a delicious food option: a chicken quesadilla, which has possibly garnished with salsa, sour cream, guacamole, or lettuce.",
+        "A photo of a delicious food option: a chicken quesadilla, which may be cut into wedges or squares for serving."
+    ],
+    "chicken wings": [
+        "A photo of a delicious food option: a chicken wings, which has small, meaty portions with bones.",
+        "A photo of a delicious food option: a chicken wings, which has crispy or saucy exterior.",
+        "A photo of a delicious food option: a chicken wings, which has wing shape with a drumette and flat.",
+        "A photo of a delicious food option: a chicken wings, which typically golden brown in color.",
+        "A photo of a delicious food option: a chicken wings, which may be served with celery and blue cheese dressing.",
+        "A photo of a delicious food option: a chicken wings, which may have grill marks or charred spots."
+    ],
+    "chocolate cake": [
+        "A photo of a delicious food option: a chocolate cake, which has round or rectangular shape.",
+        "A photo of a delicious food option: a chocolate cake, which has dark brown color.",
+        "A photo of a delicious food option: a chocolate cake, which has rich, moist texture.",
+        "A photo of a delicious food option: a chocolate cake, which has possibly topped with chocolate frosting or ganache.",
+        "A photo of a delicious food option: a chocolate cake, which has possibly decorated with chocolate shavings or sprinkles.",
+        "A photo of a delicious food option: a chocolate cake, which may have layers of cake and frosting.",
+        "A photo of a delicious food option: a chocolate cake, which may have a slice missing indicating it has been eaten."
+    ],
+    "chocolate mousse": [
+        "A photo of a delicious food option: a chocolate mousse, which has creamy and smooth texture.",
+        "A photo of a delicious food option: a chocolate mousse, which has dark brown color.",
+        "A photo of a delicious food option: a chocolate mousse, which has light and fluffy consistency.",
+        "A photo of a delicious food option: a chocolate mousse, which often served in a glass or bowl.",
+        "A photo of a delicious food option: a chocolate mousse, which may be garnished with whipped cream, chocolate shavings, or fruit.",
+        "A photo of a delicious food option: a chocolate mousse, which has rich chocolate flavor.",
+        "A photo of a delicious food option: a chocolate mousse, which may have layers or swirls of different textures or flavors."
+    ],
+    "churros": [
+        "A photo of a delicious food option: a churros, which has long, thin fried dough pastry.",
+        "A photo of a delicious food option: a churros, which typically ridged or twisted in appearance.",
+        "A photo of a delicious food option: a churros, which has golden brown in color.",
+        "A photo of a delicious food option: a churros, which often coated in cinnamon sugar.",
+        "A photo of a delicious food option: a churros, which may be sprinkled with powdered sugar.",
+        "A photo of a delicious food option: a churros, which has served with a dipping sauce such as chocolate or caramel."
+    ],
+    "clam chowder": [
+        "A photo of a delicious food option: a clam chowder, which has creamy, white or light beige color.",
+        "A photo of a delicious food option: a clam chowder, which has chunks of clams or pieces of potatoes.",
+        "A photo of a delicious food option: a clam chowder, which is a thick, stew-like consistency.",
+        "A photo of a delicious food option: a clam chowder, which often garnished with parsley or crackers.",
+        "A photo of a delicious food option: a clam chowder, which has served in a bowl or cup.",
+        "A photo of a delicious food option: a clam chowder, which may have a seafood aroma."
+    ],
+    "club sandwich": [
+        "A photo of a delicious food option: a club sandwich, which has three layers of bread with fillings in between.",
+        "A photo of a delicious food option: a club sandwich, which has lettuce, tomato, bacon, and sliced deli meats such as turkey or ham.",
+        "A photo of a delicious food option: a club sandwich, which has toothpicks holding the sandwich together.",
+        "A photo of a delicious food option: a club sandwich, which mayonnaise or other condiments spread on the bread.",
+        "A photo of a delicious food option: a club sandwich, which has served on a plate or cutting board.",
+        "A photo of a delicious food option: a club sandwich, which typically cut into quarters for serving.",
+        "A photo of a delicious food option: a club sandwich, which can include cheese and avocado as additional toppings."
+    ],
+    "crab cakes": [
+        "A photo of a delicious food option: a crab cakes, which has round or oval shape.",
+        "A photo of a delicious food option: a crab cakes, which has golden brown crust.",
+        "A photo of a delicious food option: a crab cakes, which has flakes of crab meat visible.",
+        "A photo of a delicious food option: a crab cakes, which has possibly garnished with parsley or lemon wedges.",
+        "A photo of a delicious food option: a crab cakes, which has served on a plate or platter.",
+        "A photo of a delicious food option: a crab cakes, which may be accompanied by a dipping sauce such as tartar sauce or aioli."
+    ],
+    "creme brulee": [
+        "A photo of a delicious food option: a creme brulee, which is a small, round or oval dish.",
+        "A photo of a delicious food option: a creme brulee, which is a smooth, creamy custard base.",
+        "A photo of a delicious food option: a creme brulee, which is a layer of caramelized sugar on top.",
+        "A photo of a delicious food option: a creme brulee, which is a golden brown color on the sugar layer.",
+        "A photo of a delicious food option: a creme brulee, which has possibly garnished with fresh fruit or mint.",
+        "A photo of a delicious food option: a creme brulee, which is a spoon or torch nearby for cracking the sugar layer."
+    ],
+    "croque madame": [
+        "A photo of a delicious food option: a croque madame, which is a sandwich made with ham, cheese, and bread.",
+        "A photo of a delicious food option: a croque madame, which has topped with a fried or poached egg.",
+        "A photo of a delicious food option: a croque madame, which typically served with a side of salad or fries.",
+        "A photo of a delicious food option: a croque madame, which may have a bechamel sauce drizzled on top.",
+        "A photo of a delicious food option: a croque madame, which has usually served on a plate or a wooden board.",
+        "A photo of a delicious food option: a croque madame, which may have grill marks on the bread.",
+        "A photo of a delicious food option: a croque madame, which may be garnished with herbs or spices."
+    ],
+    "cup cakes": [
+        "A photo of a delicious food option: a cup cakes, which typically baked in a paper or foil cup.",
+        "A photo of a delicious food option: a cup cakes, which has topped with frosting or icing.",
+        "A photo of a delicious food option: a cup cakes, which often decorated with sprinkles, fruit, or other toppings.",
+        "A photo of a delicious food option: a cup cakes, which has round or cylindrical shape.",
+        "A photo of a delicious food option: a cup cakes, which can have multiple layers or flavors.",
+        "A photo of a delicious food option: a cup cakes, which can be sweet or savory."
+    ],
+    "deviled eggs": [
+        "A photo of a delicious food option: a deviled eggs, which has half a hard-boiled egg.",
+        "A photo of a delicious food option: a deviled eggs, which has yolk mixture piped or spooned back into the egg white.",
+        "A photo of a delicious food option: a deviled eggs, which has garnished with paprika, chives, or other toppings.",
+        "A photo of a delicious food option: a deviled eggs, which typically served on a platter or plate.",
+        "A photo of a delicious food option: a deviled eggs, which typically served as an appetizer or side dish.",
+        "A photo of a delicious food option: a deviled eggs, which has creamy and tangy filling."
+    ],
+    "donuts": [
+        "A photo of a delicious food option: a donuts, which has round shape with a hole in the center.",
+        "A photo of a delicious food option: a donuts, which has sweet glaze or frosting on top.",
+        "A photo of a delicious food option: a donuts, which has sprinkles or other toppings.",
+        "A photo of a delicious food option: a donuts, which has soft, fluffy texture.",
+        "A photo of a delicious food option: a donuts, which often fried and coated in sugar.",
+        "A photo of a delicious food option: a donuts, which typically served in a paper bakery bag or box."
+    ],
+    "dumplings": [
+        "A photo of a delicious food option: a dumplings, which has small, round or crescent-shaped dough.",
+        "A photo of a delicious food option: a dumplings, which has filled with meat, vegetables, or other ingredients.",
+        "A photo of a delicious food option: a dumplings, which typically boiled, steamed, or fried.",
+        "A photo of a delicious food option: a dumplings, which often served with a dipping sauce.",
+        "A photo of a delicious food option: a dumplings, which can have a crimped or pleated edge.",
+        "A photo of a delicious food option: a dumplings, which may have a shiny or matte appearance.",
+        "A photo of a delicious food option: a dumplings, which can be served individually or in a group on a plate or in a steamer basket."
+    ],
+    "edamame": [
+        "A photo of a delicious food option: a edamame, which has fuzzy outer shell.",
+        "A photo of a delicious food option: a edamame, which has beans inside the pod.",
+        "A photo of a delicious food option: a edamame, which typically served with salt.",
+        "A photo of a delicious food option: a edamame, which often seen in a bowl or on a plate.",
+        "A photo of a delicious food option: a edamame, which can be eaten as a snack or appetizer."
+    ],
+    "eggs benedict": [
+        "A photo of a delicious food option: a eggs benedict, which has English muffin.",
+        "A photo of a delicious food option: a eggs benedict, which has poached egg.",
+        "A photo of a delicious food option: a eggs benedict, which has Canadian bacon or ham.",
+        "A photo of a delicious food option: a eggs benedict, which has hollandaise sauce.",
+        "A photo of a delicious food option: a eggs benedict, which has garnished with herbs or spices.",
+        "A photo of a delicious food option: a eggs benedict, which has served on a plate or dish.",
+        "A photo of a delicious food option: a eggs benedict, which typically served for breakfast or brunch."
+    ],
+    "escargots": [
+        "A photo of a delicious food option: a escargots, which has small, slimy, spiral-shaped shell.",
+        "A photo of a delicious food option: a escargots, which has soft body covered in slimy mucus.",
+        "A photo of a delicious food option: a escargots, which has two pairs of tentacles, with the longer pair having eyes.",
+        "A photo of a delicious food option: a escargots, which has mouth with a radula for feeding.",
+        "A photo of a delicious food option: a escargots, which has slow, deliberate movement.",
+        "A photo of a delicious food option: a escargots, which typically found in moist environments such as gardens or forests."
+    ],
+    "falafel": [
+        "A photo of a delicious food option: a falafel, which has golden brown color.",
+        "A photo of a delicious food option: a falafel, which has crispy exterior.",
+        "A photo of a delicious food option: a falafel, which has fluffy interior.",
+        "A photo of a delicious food option: a falafel, which has made from ground chickpeas or fava beans.",
+        "A photo of a delicious food option: a falafel, which often served with tahini sauce or in a pita bread.",
+        "A photo of a delicious food option: a falafel, which may be garnished with parsley or sesame seeds."
+    ],
+    "filet mignon": [
+        "A photo of a delicious food option: a filet mignon, which has small, thick cut of meat.",
+        "A photo of a delicious food option: a filet mignon, which has tender texture.",
+        "A photo of a delicious food option: a filet mignon, which typically round or oval in shape.",
+        "A photo of a delicious food option: a filet mignon, which has pink or red in color.",
+        "A photo of a delicious food option: a filet mignon, which has minimal fat or marbling.",
+        "A photo of a delicious food option: a filet mignon, which often served with a sauce or garnish.",
+        "A photo of a delicious food option: a filet mignon, which may be grilled, roasted, or pan-seared."
+    ],
+    "fish and chips": [
+        "A photo of a delicious food option: a fish and chips, which has battered and fried fish fillets.",
+        "A photo of a delicious food option: a fish and chips, which has crispy, golden-brown chips (french fries).",
+        "A photo of a delicious food option: a fish and chips, which is a side of tartar sauce or malt vinegar.",
+        "A photo of a delicious food option: a fish and chips, which has served on a plate or in a paper wrapper.",
+        "A photo of a delicious food option: a fish and chips, which typically served with a lemon wedge.",
+        "A photo of a delicious food option: a fish and chips, which often accompanied by peas or coleslaw on the side."
+    ],
+    "foie gras": [
+        "A photo of a delicious food option: a foie gras, which is a dish made from the liver of a duck or goose.",
+        "A photo of a delicious food option: a foie gras, which is a rich, creamy texture.",
+        "A photo of a delicious food option: a foie gras, which often served in slices or p\u00e2t\u00e9 form.",
+        "A photo of a delicious food option: a foie gras, which is a pale pink or beige color.",
+        "A photo of a delicious food option: a foie gras, which may be garnished with fruits or herbs.",
+        "A photo of a delicious food option: a foie gras, which typically served on a plate or dish with bread or crackers.",
+        "A photo of a delicious food option: a foie gras, which may be accompanied by a sweet or savory sauce."
+    ],
+    "french fries": [
+        "A photo of a delicious food option: a french fries, which has thin, elongated shape.",
+        "A photo of a delicious food option: a french fries, which has golden-brown color.",
+        "A photo of a delicious food option: a french fries, which has crispy texture.",
+        "A photo of a delicious food option: a french fries, which often served in a pile or in a container.",
+        "A photo of a delicious food option: a french fries, which has salt or seasoning visible on the surface.",
+        "A photo of a delicious food option: a french fries, which typically made from potatoes.",
+        "A photo of a delicious food option: a french fries, which may be accompanied by condiments such as ketchup or mayonnaise."
+    ],
+    "french onion soup": [
+        "A photo of a delicious food option: a french onion soup, which is a bowl or crock filled with a rich, brown broth.",
+        "A photo of a delicious food option: a french onion soup, which has topped with melted cheese.",
+        "A photo of a delicious food option: a french onion soup, which has slices of toasted bread or croutons floating on top.",
+        "A photo of a delicious food option: a french onion soup, which has caramelized onions visible in the broth.",
+        "A photo of a delicious food option: a french onion soup, which has steam rising from the soup.",
+        "A photo of a delicious food option: a french onion soup, which has garnished with parsley or chives.",
+        "A photo of a delicious food option: a french onion soup, which has served with a spoon for eating."
+    ],
+    "french toast": [
+        "A photo of a delicious food option: a french toast, which is a slice of bread that has been dipped in a mixture of eggs, milk, and cinnamon.",
+        "A photo of a delicious food option: a french toast, which has golden brown color on the outside.",
+        "A photo of a delicious food option: a french toast, which may have visible grill marks from cooking.",
+        "A photo of a delicious food option: a french toast, which may be topped with powdered sugar, syrup, fruit, or other toppings.",
+        "A photo of a delicious food option: a french toast, which may be served on a plate or tray.",
+        "A photo of a delicious food option: a french toast, which may be accompanied by other breakfast items such as bacon or fruit."
+    ],
+    "fried calamari": [
+        "A photo of a delicious food option: a fried calamari, which has rings or tentacles of squid.",
+        "A photo of a delicious food option: a fried calamari, which has served with lemon wedges.",
+        "A photo of a delicious food option: a fried calamari, which often accompanied by marinara or aioli sauce.",
+        "A photo of a delicious food option: a fried calamari, which may be garnished with parsley or grated cheese."
+    ],
+    "fried rice": [
+        "A photo of a delicious food option: a fried rice, which is a mixture of rice, vegetables, and protein (such as chicken, shrimp, or tofu).",
+        "A photo of a delicious food option: a fried rice, which has grains of rice that are separated and not clumped together.",
+        "A photo of a delicious food option: a fried rice, which has visible pieces of vegetables (such as carrots, peas, bell peppers).",
+        "A photo of a delicious food option: a fried rice, which has protein cooked and mixed evenly throughout the dish.",
+        "A photo of a delicious food option: a fried rice, which is a shiny appearance from the oil used in cooking.",
+        "A photo of a delicious food option: a fried rice, which has garnishes such as green onions, sesame seeds, or cilantro.",
+        "A photo of a delicious food option: a fried rice, which is a variety of colors from the different ingredients used."
+    ],
+    "frozen yogurt": [
+        "A photo of a delicious food option: a frozen yogurt, which has creamy texture.",
+        "A photo of a delicious food option: a frozen yogurt, which has cold temperature.",
+        "A photo of a delicious food option: a frozen yogurt, which has various flavors and toppings.",
+        "A photo of a delicious food option: a frozen yogurt, which has served in a cup or cone.",
+        "A photo of a delicious food option: a frozen yogurt, which has colorful and visually appealing presentation.",
+        "A photo of a delicious food option: a frozen yogurt, which has possibly with a spoon or other utensil.",
+        "A photo of a delicious food option: a frozen yogurt, which may show signs of melting or condensation if not eaten quickly."
+    ],
+    "garlic bread": [
+        "A photo of a delicious food option: a garlic bread, which has bread product.",
+        "A photo of a delicious food option: a garlic bread, which typically golden brown in color.",
+        "A photo of a delicious food option: a garlic bread, which has garlic seasoning visible on the surface.",
+        "A photo of a delicious food option: a garlic bread, which has possibly have cheese or herbs sprinkled on top.",
+        "A photo of a delicious food option: a garlic bread, which has sliced or whole loaf shape.",
+        "A photo of a delicious food option: a garlic bread, which may have visible garlic cloves or pieces embedded in the bread."
+    ],
+    "gnocchi": [
+        "A photo of a delicious food option: a gnocchi, which typically made from potato, flour, and egg.",
+        "A photo of a delicious food option: a gnocchi, which has ridges or indentations on the surface.",
+        "A photo of a delicious food option: a gnocchi, which often served with sauce or toppings.",
+        "A photo of a delicious food option: a gnocchi, which has soft and pillowy texture.",
+        "A photo of a delicious food option: a gnocchi, which has white or pale yellow color."
+    ],
+    "greek salad": [
+        "A photo of a delicious food option: a greek salad, which is a mixture of vegetables such as cucumbers, tomatoes, red onions, and olives.",
+        "A photo of a delicious food option: a greek salad, which has feta cheese.",
+        "A photo of a delicious food option: a greek salad, which has olive oil dressing.",
+        "A photo of a delicious food option: a greek salad, which has oregano or other herbs.",
+        "A photo of a delicious food option: a greek salad, which has sometimes includes lettuce or other greens.",
+        "A photo of a delicious food option: a greek salad, which has served in a bowl or on a plate.",
+        "A photo of a delicious food option: a greek salad, which may also include ingredients like bell peppers, capers, or anchovies."
+    ],
+    "grilled cheese sandwich": [
+        "A photo of a delicious food option: a grilled cheese sandwich, which has two slices of bread.",
+        "A photo of a delicious food option: a grilled cheese sandwich, which has melted cheese between the slices.",
+        "A photo of a delicious food option: a grilled cheese sandwich, which has golden brown crust on the bread.",
+        "A photo of a delicious food option: a grilled cheese sandwich, which has possibly visible grill marks.",
+        "A photo of a delicious food option: a grilled cheese sandwich, which has possibly oozing melted cheese.",
+        "A photo of a delicious food option: a grilled cheese sandwich, which has possibly other ingredients like tomato or bacon inside."
+    ],
+    "grilled salmon": [
+        "A photo of a delicious food option: a grilled salmon, which has pink or orange flesh.",
+        "A photo of a delicious food option: a grilled salmon, which has browned or charred grill marks.",
+        "A photo of a delicious food option: a grilled salmon, which has flaky texture.",
+        "A photo of a delicious food option: a grilled salmon, which has skin on one side.",
+        "A photo of a delicious food option: a grilled salmon, which has served with lemon wedges or garnished with herbs.",
+        "A photo of a delicious food option: a grilled salmon, which may be accompanied by vegetables or grains.",
+        "A photo of a delicious food option: a grilled salmon, which often served on a plate or platter."
+    ],
+    "guacamole": [
+        "A photo of a delicious food option: a guacamole, which has green color.",
+        "A photo of a delicious food option: a guacamole, which has creamy texture.",
+        "A photo of a delicious food option: a guacamole, which has made from mashed avocados.",
+        "A photo of a delicious food option: a guacamole, which has ingredients like onions, tomatoes, cilantro, and lime juice.",
+        "A photo of a delicious food option: a guacamole, which often served in a bowl or on a plate.",
+        "A photo of a delicious food option: a guacamole, which may be garnished with additional toppings like cheese or salsa.",
+        "A photo of a delicious food option: a guacamole, which typically served with tortilla chips or as a topping for dishes like tacos or nachos."
+    ],
+    "gyoza": [
+        "A photo of a delicious food option: a gyoza, which has small, round or crescent-shaped dumpling.",
+        "A photo of a delicious food option: a gyoza, which has thin, delicate dough wrapper.",
+        "A photo of a delicious food option: a gyoza, which has filling of ground meat (usually pork or chicken) and vegetables.",
+        "A photo of a delicious food option: a gyoza, which has crispy bottom from pan-frying.",
+        "A photo of a delicious food option: a gyoza, which has served with a dipping sauce, such as soy sauce or vinegar.",
+        "A photo of a delicious food option: a gyoza, which often garnished with sesame seeds or chopped green onions."
+    ],
+    "hamburger": [
+        "A photo of a delicious food option: a hamburger, which is a round bun with sesame seeds.",
+        "A photo of a delicious food option: a hamburger, which is a beef, chicken, or veggie patty.",
+        "A photo of a delicious food option: a hamburger, which has lettuce, tomato, and onion.",
+        "A photo of a delicious food option: a hamburger, which has cheese.",
+        "A photo of a delicious food option: a hamburger, which has condiments such as ketchup, mustard, or mayonnaise.",
+        "A photo of a delicious food option: a hamburger, which has pickles.",
+        "A photo of a delicious food option: a hamburger, which has possibly bacon or other toppings.",
+        "A photo of a delicious food option: a hamburger, which has served on a plate or in a wrapper."
+    ],
+    "hot and sour soup": [
+        "A photo of a delicious food option: a hot and sour soup, which is a clear or slightly cloudy broth.",
+        "A photo of a delicious food option: a hot and sour soup, which has visible ingredients such as tofu, mushrooms, bamboo shoots, and/or pork.",
+        "A photo of a delicious food option: a hot and sour soup, which is a spicy aroma.",
+        "A photo of a delicious food option: a hot and sour soup, which is a tangy flavor.",
+        "A photo of a delicious food option: a hot and sour soup, which has garnishes such as green onions or cilantro.",
+        "A photo of a delicious food option: a hot and sour soup, which is a red or brown color from the addition of vinegar and chili paste.",
+        "A photo of a delicious food option: a hot and sour soup, which is a steam rising from the soup indicating it is hot.."
+    ],
+    "hot dog": [
+        "A photo of a delicious food option: a hot dog, which has elongated shape.",
+        "A photo of a delicious food option: a hot dog, which has bun.",
+        "A photo of a delicious food option: a hot dog, which has sausage or frankfurter.",
+        "A photo of a delicious food option: a hot dog, which has condiments such as ketchup, mustard, relish.",
+        "A photo of a delicious food option: a hot dog, which has visible grill marks on the sausage.",
+        "A photo of a delicious food option: a hot dog, which has possible toppings like onions, sauerkraut, chili.",
+        "A photo of a delicious food option: a hot dog, which has handheld size, easy to eat on the go."
+    ],
+    "huevos rancheros": [
+        "A photo of a delicious food option: a huevos rancheros, which has fried eggs.",
+        "A photo of a delicious food option: a huevos rancheros, which has corn tortillas.",
+        "A photo of a delicious food option: a huevos rancheros, which has salsa or tomato sauce.",
+        "A photo of a delicious food option: a huevos rancheros, which has beans.",
+        "A photo of a delicious food option: a huevos rancheros, which is avocado or guacamole.",
+        "A photo of a delicious food option: a huevos rancheros, which has cheese.",
+        "A photo of a delicious food option: a huevos rancheros, which has cilantro.",
+        "A photo of a delicious food option: a huevos rancheros, which has chopped onions.",
+        "A photo of a delicious food option: a huevos rancheros, which has jalape\u00f1os or other peppers.",
+        "A photo of a delicious food option: a huevos rancheros, which has possibly a side of rice or potatoes."
+    ],
+    "hummus": [
+        "A photo of a delicious food option: a hummus, which is a creamy texture.",
+        "A photo of a delicious food option: a hummus, which is a beige or tan color.",
+        "A photo of a delicious food option: a hummus, which is a smooth surface with a slight sheen.",
+        "A photo of a delicious food option: a hummus, which has garnishes such as olive oil, paprika, or parsley on top.",
+        "A photo of a delicious food option: a hummus, which is a bowl or plate as a serving vessel.",
+        "A photo of a delicious food option: a hummus, which is a spoon or other utensil for dipping.",
+        "A photo of a delicious food option: a hummus, which has visible ingredients such as chickpeas or tahini.",
+        "A photo of a delicious food option: a hummus, which is a spreadable consistency.."
+    ],
+    "ice cream": [
+        "A photo of a delicious food option: a ice cream, which has creamy texture.",
+        "A photo of a delicious food option: a ice cream, which has various flavors such as chocolate, vanilla, strawberry, etc..",
+        "A photo of a delicious food option: a ice cream, which has served in a cone or cup.",
+        "A photo of a delicious food option: a ice cream, which has toppings such as sprinkles, nuts, whipped cream, etc..",
+        "A photo of a delicious food option: a ice cream, which has cold and refreshing appearance.",
+        "A photo of a delicious food option: a ice cream, which has melting or dripping in warm conditions."
+    ],
+    "lasagna": [
+        "A photo of a delicious food option: a lasagna, which has rectangular shape.",
+        "A photo of a delicious food option: a lasagna, which has bubbling and melted cheese on top.",
+        "A photo of a delicious food option: a lasagna, which has visible layers of pasta and filling.",
+        "A photo of a delicious food option: a lasagna, which has tomato sauce visible on the top layer.",
+        "A photo of a delicious food option: a lasagna, which has possibly garnished with parsley or basil.",
+        "A photo of a delicious food option: a lasagna, which has baked and crispy edges."
+    ],
+    "lobster bisque": [
+        "A photo of a delicious food option: a lobster bisque, which has creamy, orange-colored soup.",
+        "A photo of a delicious food option: a lobster bisque, which has chunks of lobster meat.",
+        "A photo of a delicious food option: a lobster bisque, which has possibly garnished with parsley or chives.",
+        "A photo of a delicious food option: a lobster bisque, which has served in a bowl or cup.",
+        "A photo of a delicious food option: a lobster bisque, which may have a side of bread or crackers.",
+        "A photo of a delicious food option: a lobster bisque, which may have a drizzle of cream or butter on top."
+    ],
+    "lobster roll sandwich": [
+        "A photo of a delicious food option: a lobster roll sandwich, which is a sandwich with a split-top roll.",
+        "A photo of a delicious food option: a lobster roll sandwich, which has chunks of lobster meat.",
+        "A photo of a delicious food option: a lobster roll sandwich, which mayonnaise or butter dressing.",
+        "A photo of a delicious food option: a lobster roll sandwich, which has lettuce or celery.",
+        "A photo of a delicious food option: a lobster roll sandwich, which has lemon wedge or parsley garnish.",
+        "A photo of a delicious food option: a lobster roll sandwich, which has served on a plate or in a basket.",
+        "A photo of a delicious food option: a lobster roll sandwich, which has side of fries or coleslaw."
+    ],
+    "macaroni and cheese": [
+        "A photo of a delicious food option: a macaroni and cheese, which has pasta noodles.",
+        "A photo of a delicious food option: a macaroni and cheese, which has cheesy sauce.",
+        "A photo of a delicious food option: a macaroni and cheese, which has yellow or orange color.",
+        "A photo of a delicious food option: a macaroni and cheese, which has baked or creamy texture.",
+        "A photo of a delicious food option: a macaroni and cheese, which has possibly topped with breadcrumbs or parsley.",
+        "A photo of a delicious food option: a macaroni and cheese, which has served in a dish or bowl."
+    ],
+    "macarons": [
+        "A photo of a delicious food option: a macarons, which has small, round, colorful confections.",
+        "A photo of a delicious food option: a macarons, which has smooth, shiny outer shell.",
+        "A photo of a delicious food option: a macarons, which has sandwiched together with a creamy filling.",
+        "A photo of a delicious food option: a macarons, which often decorated with patterns or designs on top.",
+        "A photo of a delicious food option: a macarons, which typically presented on a tray or plate.",
+        "A photo of a delicious food option: a macarons, which may be dusted with powdered sugar or edible glitter.",
+        "A photo of a delicious food option: a macarons, which has delicate and light in texture."
+    ],
+    "miso soup": [
+        "A photo of a delicious food option: a miso soup, which is a bowl of soup.",
+        "A photo of a delicious food option: a miso soup, which is a clear broth.",
+        "A photo of a delicious food option: a miso soup, which has floating pieces of tofu.",
+        "A photo of a delicious food option: a miso soup, which has sliced green onions.",
+        "A photo of a delicious food option: a miso soup, which has seaweed.",
+        "A photo of a delicious food option: a miso soup, which has miso paste dissolved in the soup.",
+        "A photo of a delicious food option: a miso soup, which has chopsticks or a spoon next to the bowl."
+    ],
+    "mussels": [
+        "A photo of a delicious food option: a mussels, which has bivalve shell.",
+        "A photo of a delicious food option: a mussels, which has elongated shape.",
+        "A photo of a delicious food option: a mussels, which has dark or light colored shell.",
+        "A photo of a delicious food option: a mussels, which has visible hinge where the two shell halves meet.",
+        "A photo of a delicious food option: a mussels, which has visible adductor muscles holding the shell closed.",
+        "A photo of a delicious food option: a mussels, which often found in clusters or attached to rocks or other surfaces.",
+        "A photo of a delicious food option: a mussels, which may have a beard-like structure called a byssus for attaching to surfaces."
+    ],
+    "nachos": [
+        "A photo of a delicious food option: a nachos, which has triangular corn chips.",
+        "A photo of a delicious food option: a nachos, which has melted cheese.",
+        "A photo of a delicious food option: a nachos, which has toppings such as salsa, guacamole, sour cream, and jalapenos.",
+        "A photo of a delicious food option: a nachos, which is a plate or tray.",
+        "A photo of a delicious food option: a nachos, which is a crispy texture.",
+        "A photo of a delicious food option: a nachos, which is a savory aroma."
+    ],
+    "omelette": [
+        "A photo of a delicious food option: a omelette, which is a cooked egg dish.",
+        "A photo of a delicious food option: a omelette, which has yellow or white in color.",
+        "A photo of a delicious food option: a omelette, which has folded or rolled shape.",
+        "A photo of a delicious food option: a omelette, which may contain ingredients such as cheese, vegetables, or meat.",
+        "A photo of a delicious food option: a omelette, which has cooked in a pan.",
+        "A photo of a delicious food option: a omelette, which has fluffy texture.",
+        "A photo of a delicious food option: a omelette, which may have a garnish on top, such as herbs or grated cheese."
+    ],
+    "onion rings": [
+        "A photo of a delicious food option: a onion rings, which has circular shape.",
+        "A photo of a delicious food option: a onion rings, which has golden brown color.",
+        "A photo of a delicious food option: a onion rings, which has crispy texture.",
+        "A photo of a delicious food option: a onion rings, which has multiple rings stacked on top of each other.",
+        "A photo of a delicious food option: a onion rings, which has greasy appearance.",
+        "A photo of a delicious food option: a onion rings, which often served as a side dish or appetizer.",
+        "A photo of a delicious food option: a onion rings, which may be accompanied by dipping sauce."
+    ],
+    "oysters": [
+        "A photo of a delicious food option: a oysters, which has hard and rough shell.",
+        "A photo of a delicious food option: a oysters, which has oval or elongated shape.",
+        "A photo of a delicious food option: a oysters, which has pearly or iridescent interior.",
+        "A photo of a delicious food option: a oysters, which has rough, uneven texture on the outside of the shell.",
+        "A photo of a delicious food option: a oysters, which may be open to reveal the mollusk inside.",
+        "A photo of a delicious food option: a oysters, which may be clustered together in groups.",
+        "A photo of a delicious food option: a oysters, which may have a briny or oceanic smell.",
+        "A photo of a delicious food option: a oysters, which may have remnants of sand or debris on the shell."
+    ],
+    "pad thai": [
+        "A photo of a delicious food option: a pad thai, which has noodle dish.",
+        "A photo of a delicious food option: a pad thai, which has flat rice noodles.",
+        "A photo of a delicious food option: a pad thai, which has stir-fried with eggs, tofu, shrimp, or chicken.",
+        "A photo of a delicious food option: a pad thai, which has garnished with bean sprouts, peanuts, lime, and cilantro.",
+        "A photo of a delicious food option: a pad thai, which has seasoned with tamarind sauce, fish sauce, and chili flakes.",
+        "A photo of a delicious food option: a pad thai, which often served with a lime wedge and crushed peanuts on the side."
+    ],
+    "paella": [
+        "A photo of a delicious food option: a paella, which is a shallow, wide pan.",
+        "A photo of a delicious food option: a paella, which has yellow rice.",
+        "A photo of a delicious food option: a paella, which is a variety of seafood, such as shrimp, mussels, and squid.",
+        "A photo of a delicious food option: a paella, which has vegetables, such as bell peppers, peas, and onions.",
+        "A photo of a delicious food option: a paella, which has saffron for coloring and flavor.",
+        "A photo of a delicious food option: a paella, which has garnishes like lemon wedges and parsley.",
+        "A photo of a delicious food option: a paella, which is a crispy bottom layer called socarrat."
+    ],
+    "pancakes": [
+        "A photo of a delicious food option: a pancakes, which has golden brown color.",
+        "A photo of a delicious food option: a pancakes, which has fluffy texture.",
+        "A photo of a delicious food option: a pancakes, which has stacked on a plate.",
+        "A photo of a delicious food option: a pancakes, which has topped with butter, syrup, or fruit.",
+        "A photo of a delicious food option: a pancakes, which has circular shape with visible bubbles or air pockets.",
+        "A photo of a delicious food option: a pancakes, which has served with a utensil like a fork or knife."
+    ],
+    "panna cotta": [
+        "A photo of a delicious food option: a panna cotta, which has creamy, smooth texture.",
+        "A photo of a delicious food option: a panna cotta, which has custard-like consistency.",
+        "A photo of a delicious food option: a panna cotta, which typically served in a small, round dish or cup.",
+        "A photo of a delicious food option: a panna cotta, which has topped with a sauce or fruit compote.",
+        "A photo of a delicious food option: a panna cotta, which may be garnished with mint leaves or grated chocolate.",
+        "A photo of a delicious food option: a panna cotta, which has white or light-colored in appearance.",
+        "A photo of a delicious food option: a panna cotta, which has jiggly or wobbly when shaken.",
+        "A photo of a delicious food option: a panna cotta, which may have a decorative design or pattern on top."
+    ],
+    "peking duck": [
+        "A photo of a delicious food option: a peking duck, which has medium-sized duck with a long body.",
+        "A photo of a delicious food option: a peking duck, which has white feathers with orange beak and legs.",
+        "A photo of a delicious food option: a peking duck, which has distinctive black markings around the eyes and on the back of the head.",
+        "A photo of a delicious food option: a peking duck, which has wide, flat bill.",
+        "A photo of a delicious food option: a peking duck, which has webbed feet.",
+        "A photo of a delicious food option: a peking duck, which often seen in water or near water sources.",
+        "A photo of a delicious food option: a peking duck, which often seen in groups or pairs.",
+        "A photo of a delicious food option: a peking duck, which has known for their delicious and crispy skin when cooked in Peking duck dishes."
+    ],
+    "pho": [
+        "A photo of a delicious food option: a pho, which is a bowl of broth.",
+        "A photo of a delicious food option: a pho, which has noodles.",
+        "A photo of a delicious food option: a pho, which has slices of beef or chicken.",
+        "A photo of a delicious food option: a pho, which has bean sprouts.",
+        "A photo of a delicious food option: a pho, which has herbs and spices.",
+        "A photo of a delicious food option: a pho, which has lime wedges.",
+        "A photo of a delicious food option: a pho, which has hoisin sauce and sriracha.",
+        "A photo of a delicious food option: a pho, which has chopsticks or a spoon.",
+        "A photo of a delicious food option: a pho, which is a garnish of cilantro or green onions."
+    ],
+    "pizza": [
+        "A photo of a delicious food option: a pizza, which has round or rectangular shape.",
+        "A photo of a delicious food option: a pizza, which has crust.",
+        "A photo of a delicious food option: a pizza, which has cheese.",
+        "A photo of a delicious food option: a pizza, which has tomato sauce.",
+        "A photo of a delicious food option: a pizza, which has toppings such as pepperoni, mushrooms, peppers, etc..",
+        "A photo of a delicious food option: a pizza, which has melted cheese.",
+        "A photo of a delicious food option: a pizza, which has sliced into triangular pieces.",
+        "A photo of a delicious food option: a pizza, which often served on a round plate or pizza box."
+    ],
+    "pork chop": [
+        "A photo of a delicious food option: a pork chop, which is a piece of meat.",
+        "A photo of a delicious food option: a pork chop, which has usually pink or light brown in color.",
+        "A photo of a delicious food option: a pork chop, which has bone attached or boneless.",
+        "A photo of a delicious food option: a pork chop, which has visible marbling of fat.",
+        "A photo of a delicious food option: a pork chop, which may have seasoning or grill marks.",
+        "A photo of a delicious food option: a pork chop, which typically rectangular or oval in shape."
+    ],
+    "poutine": [
+        "A photo of a delicious food option: a poutine, which is a dish consisting of French fries topped with cheese curds and gravy.",
+        "A photo of a delicious food option: a poutine, which has golden brown French fries.",
+        "A photo of a delicious food option: a poutine, which has white cheese curds.",
+        "A photo of a delicious food option: a poutine, which has brown gravy.",
+        "A photo of a delicious food option: a poutine, which is a bowl or plate serving as the container for the dish.",
+        "A photo of a delicious food option: a poutine, which has possible additional toppings such as bacon, pulled pork, or green onions."
+    ],
+    "prime rib": [
+        "A photo of a delicious food option: a prime rib, which has large cut of beef.",
+        "A photo of a delicious food option: a prime rib, which has bone-in or boneless.",
+        "A photo of a delicious food option: a prime rib, which has marbled with fat.",
+        "A photo of a delicious food option: a prime rib, which has pink or red in color.",
+        "A photo of a delicious food option: a prime rib, which has juicy and tender texture.",
+        "A photo of a delicious food option: a prime rib, which often served with a side of vegetables or potatoes.",
+        "A photo of a delicious food option: a prime rib, which may have a crust or seasoning on the outside."
+    ],
+    "pulled pork sandwich": [
+        "A photo of a delicious food option: a pulled pork sandwich, which is a bun or bread, typically toasted or grilled.",
+        "A photo of a delicious food option: a pulled pork sandwich, which has shredded or pulled pork meat.",
+        "A photo of a delicious food option: a pulled pork sandwich, which has barbecue sauce or other condiments.",
+        "A photo of a delicious food option: a pulled pork sandwich, which has coleslaw or pickles as toppings.",
+        "A photo of a delicious food option: a pulled pork sandwich, which is a side of fries or chips.",
+        "A photo of a delicious food option: a pulled pork sandwich, which is a napkin or plate.",
+        "A photo of a delicious food option: a pulled pork sandwich, which is a sandwich wrapper or parchment paper."
+    ],
+    "ramen": [
+        "A photo of a delicious food option: a ramen, which is a bowl of soup with noodles.",
+        "A photo of a delicious food option: a ramen, which has broth, often clear or creamy.",
+        "A photo of a delicious food option: a ramen, which has toppings such as sliced pork, boiled egg, seaweed, green onions, and bamboo shoots.",
+        "A photo of a delicious food option: a ramen, which has chopsticks or a spoon.",
+        "A photo of a delicious food option: a ramen, which has steam rising from the bowl.",
+        "A photo of a delicious food option: a ramen, which is a traditional Japanese or Asian bowl or dish.",
+        "A photo of a delicious food option: a ramen, which is a side of condiments like soy sauce, chili oil, or vinegar."
+    ],
+    "ravioli": [
+        "A photo of a delicious food option: a ravioli, which has filled with cheese, meat, or vegetables.",
+        "A photo of a delicious food option: a ravioli, which has usually boiled or baked.",
+        "A photo of a delicious food option: a ravioli, which often served with sauce or in broth.",
+        "A photo of a delicious food option: a ravioli, which has ridged edges.",
+        "A photo of a delicious food option: a ravioli, which has soft texture.",
+        "A photo of a delicious food option: a ravioli, which can be homemade or store-bought."
+    ],
+    "red velvet cake": [
+        "A photo of a delicious food option: a red velvet cake, which has rich red color.",
+        "A photo of a delicious food option: a red velvet cake, which has layered cake with cream cheese frosting.",
+        "A photo of a delicious food option: a red velvet cake, which has moist texture.",
+        "A photo of a delicious food option: a red velvet cake, which has possibly topped with red velvet cake crumbs or chocolate shavings.",
+        "A photo of a delicious food option: a red velvet cake, which has possibly garnished with fresh berries or chocolate drizzle.",
+        "A photo of a delicious food option: a red velvet cake, which may have a red velvet cake slice next to it to show the inside of the cake."
+    ],
+    "risotto": [
+        "A photo of a delicious food option: a risotto, which has creamy texture.",
+        "A photo of a delicious food option: a risotto, which has rice grains cooked to al dente.",
+        "A photo of a delicious food option: a risotto, which has mixture of vegetables, herbs, and/or protein mixed in.",
+        "A photo of a delicious food option: a risotto, which typically served in a shallow bowl or plate.",
+        "A photo of a delicious food option: a risotto, which may be garnished with grated cheese or herbs.",
+        "A photo of a delicious food option: a risotto, which has usually a slightly soupy consistency.",
+        "A photo of a delicious food option: a risotto, which often a vibrant color from ingredients such as tomatoes, saffron, or spinach."
+    ],
+    "samosa": [
+        "A photo of a delicious food option: a samosa, which has triangular shape.",
+        "A photo of a delicious food option: a samosa, which has crispy, fried outer layer.",
+        "A photo of a delicious food option: a samosa, which has filling of spiced potatoes, peas, lentils, or meat.",
+        "A photo of a delicious food option: a samosa, which has golden brown color.",
+        "A photo of a delicious food option: a samosa, which often served with chutney or dipping sauce.",
+        "A photo of a delicious food option: a samosa, which may have visible spices or herbs on the surface.",
+        "A photo of a delicious food option: a samosa, which may have a flaky texture when bitten into."
+    ],
+    "sashimi": [
+        "A photo of a delicious food option: a sashimi, which has raw fish or seafood slices.",
+        "A photo of a delicious food option: a sashimi, which has usually served on a plate or platter.",
+        "A photo of a delicious food option: a sashimi, which often accompanied by soy sauce, wasabi, and pickled ginger.",
+        "A photo of a delicious food option: a sashimi, which may be garnished with sesame seeds, seaweed, or radish slices.",
+        "A photo of a delicious food option: a sashimi, which typically served at room temperature or chilled.",
+        "A photo of a delicious food option: a sashimi, which has clean and fresh appearance.",
+        "A photo of a delicious food option: a sashimi, which may be arranged in a visually appealing manner on the plate or platter."
+    ],
+    "scallops": [
+        "A photo of a delicious food option: a scallops, which has circular or oval-shaped shell.",
+        "A photo of a delicious food option: a scallops, which has ridged or scalloped edges.",
+        "A photo of a delicious food option: a scallops, which has creamy white or pinkish color.",
+        "A photo of a delicious food option: a scallops, which is adductor muscle visible inside shell.",
+        "A photo of a delicious food option: a scallops, which has sometimes still attached to the shell.",
+        "A photo of a delicious food option: a scallops, which has sometimes served with a garnish or sauce.",
+        "A photo of a delicious food option: a scallops, which often displayed on a bed of ice or in a dish with other seafood."
+    ],
+    "seaweed salad": [
+        "A photo of a delicious food option: a seaweed salad, which has green or brown in color.",
+        "A photo of a delicious food option: a seaweed salad, which has various types of seaweed (such as wakame or hijiki).",
+        "A photo of a delicious food option: a seaweed salad, which has possibly mixed with other ingredients like sesame seeds, cucumbers, or carrots.",
+        "A photo of a delicious food option: a seaweed salad, which has served in a bowl or on a plate.",
+        "A photo of a delicious food option: a seaweed salad, which may be dressed with a vinaigrette or soy sauce.",
+        "A photo of a delicious food option: a seaweed salad, which typically has a slimy or crunchy texture.",
+        "A photo of a delicious food option: a seaweed salad, which may be garnished with sesame seeds or seaweed flakes."
+    ],
+    "shrimp and grits": [
+        "A photo of a delicious food option: a shrimp and grits, which is a plate or bowl containing a mixture of cooked shrimp and grits.",
+        "A photo of a delicious food option: a shrimp and grits, which has the shrimp may be pink or orange in color, with a curled shape.",
+        "A photo of a delicious food option: a shrimp and grits, which has the grits are a creamy, corn-based dish that may appear white or yellow.",
+        "A photo of a delicious food option: a shrimp and grits, which is additional ingredients such as herbs, spices, and sauces may be visible.",
+        "A photo of a delicious food option: a shrimp and grits, which has the dish may be garnished with parsley, green onions, or lemon wedges."
+    ],
+    "spaghetti bolognese": [
+        "A photo of a delicious food option: a spaghetti bolognese, which has pasta noodles.",
+        "A photo of a delicious food option: a spaghetti bolognese, which has ground meat (usually beef).",
+        "A photo of a delicious food option: a spaghetti bolognese, which has tomato-based sauce.",
+        "A photo of a delicious food option: a spaghetti bolognese, which has grated Parmesan cheese.",
+        "A photo of a delicious food option: a spaghetti bolognese, which has chopped herbs (such as parsley or basil).",
+        "A photo of a delicious food option: a spaghetti bolognese, which has possibly visible vegetables (such as onions, carrots, or bell peppers).",
+        "A photo of a delicious food option: a spaghetti bolognese, which has served in a bowl or plate."
+    ],
+    "spaghetti carbonara": [
+        "A photo of a delicious food option: a spaghetti carbonara, which has pasta noodles (spaghetti).",
+        "A photo of a delicious food option: a spaghetti carbonara, which has creamy sauce.",
+        "A photo of a delicious food option: a spaghetti carbonara, which has bacon or pancetta.",
+        "A photo of a delicious food option: a spaghetti carbonara, which has grated cheese (usually Parmesan or Pecorino).",
+        "A photo of a delicious food option: a spaghetti carbonara, which has cracked black pepper.",
+        "A photo of a delicious food option: a spaghetti carbonara, which has possibly garnished with parsley or additional cheese.",
+        "A photo of a delicious food option: a spaghetti carbonara, which has served in a bowl or on a plate."
+    ],
+    "spring rolls": [
+        "A photo of a delicious food option: a spring rolls, which has Thin, crispy outer wrapper.",
+        "A photo of a delicious food option: a spring rolls, which has Transparent or translucent appearance.",
+        "A photo of a delicious food option: a spring rolls, which has Filling visible inside the wrapper (such as vegetables, shrimp, pork, or tofu).",
+        "A photo of a delicious food option: a spring rolls, which has Served with dipping sauce.",
+        "A photo of a delicious food option: a spring rolls, which has Garnished with sesame seeds, herbs, or other toppings."
+    ],
+    "steak": [
+        "A photo of a delicious food option: a steak, which has cooked meat.",
+        "A photo of a delicious food option: a steak, which has browned exterior.",
+        "A photo of a delicious food option: a steak, which has juicy interior.",
+        "A photo of a delicious food option: a steak, which has grill marks.",
+        "A photo of a delicious food option: a steak, which has marbling of fat.",
+        "A photo of a delicious food option: a steak, which has distinct muscle fibers.",
+        "A photo of a delicious food option: a steak, which has possibly seasoned or garnished.",
+        "A photo of a delicious food option: a steak, which has possibly served with vegetables or sides."
+    ],
+    "strawberry shortcake": [
+        "A photo of a delicious food option: a strawberry shortcake, which is a round cake base.",
+        "A photo of a delicious food option: a strawberry shortcake, which has layers of sponge cake and whipped cream.",
+        "A photo of a delicious food option: a strawberry shortcake, which has fresh strawberries on top.",
+        "A photo of a delicious food option: a strawberry shortcake, which has strawberry glaze or syrup drizzled over the cake.",
+        "A photo of a delicious food option: a strawberry shortcake, which has garnished with additional whipped cream or mint leaves.",
+        "A photo of a delicious food option: a strawberry shortcake, which has served on a plate or cake stand."
+    ],
+    "sushi": [
+        "A photo of a delicious food option: a sushi, which has small bite-sized pieces of rice topped with various ingredients such as fish, vegetables, or seaweed.",
+        "A photo of a delicious food option: a sushi, which often served with soy sauce, wasabi, and pickled ginger.",
+        "A photo of a delicious food option: a sushi, which typically served on a plate or wooden board.",
+        "A photo of a delicious food option: a sushi, which can be arranged in a visually appealing manner, such as a sushi platter or sushi roll.",
+        "A photo of a delicious food option: a sushi, which may include garnishes like sesame seeds or edible flowers."
+    ],
+    "tacos": [
+        "A photo of a delicious food option: a tacos, which has folded or rolled tortilla filled with various ingredients such as meat, cheese, lettuce, salsa, and sour cream.",
+        "A photo of a delicious food option: a tacos, which has toppings such as cilantro, onions, and avocado.",
+        "A photo of a delicious food option: a tacos, which often served on a plate or in a basket.",
+        "A photo of a delicious food option: a tacos, which may be accompanied by rice, beans, and salsa.",
+        "A photo of a delicious food option: a tacos, which may be garnished with lime wedges and radishes.",
+        "A photo of a delicious food option: a tacos, which may be served with a side of guacamole and/or salsa."
+    ],
+    "takoyaki": [
+        "A photo of a delicious food option: a takoyaki, which has round shape.",
+        "A photo of a delicious food option: a takoyaki, which has golden brown color.",
+        "A photo of a delicious food option: a takoyaki, which has crispy exterior.",
+        "A photo of a delicious food option: a takoyaki, which has octopus filling inside.",
+        "A photo of a delicious food option: a takoyaki, which has drizzled with takoyaki sauce and mayonnaise.",
+        "A photo of a delicious food option: a takoyaki, which has garnished with bonito flakes and seaweed.",
+        "A photo of a delicious food option: a takoyaki, which typically served in a wooden boat-shaped container."
+    ],
+    "tiramisu": [
+        "A photo of a delicious food option: a tiramisu, which has layered dessert.",
+        "A photo of a delicious food option: a tiramisu, which typically served in a square or rectangular dish.",
+        "A photo of a delicious food option: a tiramisu, which has layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+        "A photo of a delicious food option: a tiramisu, which has creamy and light texture.",
+        "A photo of a delicious food option: a tiramisu, which has dusted with cocoa powder or chocolate shavings on top.",
+        "A photo of a delicious food option: a tiramisu, which may have decorative chocolate or coffee beans on top.",
+        "A photo of a delicious food option: a tiramisu, which has served chilled or at room temperature."
+    ],
+    "tuna tartare": [
+        "A photo of a delicious food option: a tuna tartare, which has raw tuna fish, finely diced.",
+        "A photo of a delicious food option: a tuna tartare, which has mixed with ingredients such as soy sauce, sesame oil, avocado, green onions, and sesame seeds.",
+        "A photo of a delicious food option: a tuna tartare, which has served in a round shape or molded into a square shape.",
+        "A photo of a delicious food option: a tuna tartare, which has garnished with additional toppings such as tobiko (flying fish roe), microgreens, or crispy shallots.",
+        "A photo of a delicious food option: a tuna tartare, which typically served on a plate or in a bowl.",
+        "A photo of a delicious food option: a tuna tartare, which has bright red or pink color of the tuna fish.",
+        "A photo of a delicious food option: a tuna tartare, which has smooth and creamy texture."
+    ],
+    "waffles": [
+        "A photo of a delicious food option: a waffles, which has circular or square shape with a grid pattern.",
+        "A photo of a delicious food option: a waffles, which has golden brown color.",
+        "A photo of a delicious food option: a waffles, which has fluffy interior texture.",
+        "A photo of a delicious food option: a waffles, which has served with toppings such as syrup, butter, fruit, or whipped cream.",
+        "A photo of a delicious food option: a waffles, which may have visible steam rising from the waffle.",
+        "A photo of a delicious food option: a waffles, which may be on a plate or in a waffle iron.",
+        "A photo of a delicious food option: a waffles, which may have indentations for holding toppings.",
+        "A photo of a delicious food option: a waffles, which may have a crispy exterior."
+    ]
+}

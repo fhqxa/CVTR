@@ -1,0 +1,407 @@
+{
+    "banded": [
+        "A photo of a patterns or texture: a banded, which has narrow, striped or patterned markings on its body.",
+        "A photo of a patterns or texture: a banded, which has small size.",
+        "A photo of a patterns or texture: a banded, which has long, thin body shape.",
+        "A photo of a patterns or texture: a banded, which has scales covering its body.",
+        "A photo of a patterns or texture: a banded, which has slithers on the ground.",
+        "A photo of a patterns or texture: a banded, which has forked tongue.",
+        "A photo of a patterns or texture: a banded, which has round eyes and no eyelids."
+    ],
+    "blotchy": [
+        "A photo of a patterns or texture: a blotchy, which has irregular, uneven shapes or patterns.",
+        "A photo of a patterns or texture: a blotchy, which has varying shades of colors within the blotchiness.",
+        "A photo of a patterns or texture: a blotchy, which has lack of defined edges or boundaries.",
+        "A photo of a patterns or texture: a blotchy, which has random distribution of blotches throughout the image.",
+        "A photo of a patterns or texture: a blotchy, which may appear fluid or organic in nature."
+    ],
+    "braided": [
+        "A photo of a patterns or texture: a braided, which has intricate weaving or twisting of strands or fibers.",
+        "A photo of a patterns or texture: a braided, which has different colors or patterns in the braids.",
+        "A photo of a patterns or texture: a braided, which has hair or fabric being braided.",
+        "A photo of a patterns or texture: a braided, which has overlapping or interlocking of strands.",
+        "A photo of a patterns or texture: a braided, which has uniform thickness or width of the braids.",
+        "A photo of a patterns or texture: a braided, which has visible start and end points of the braid.",
+        "A photo of a patterns or texture: a braided, which has different types of braids such as French braid, fishtail braid, or cornrow braids.."
+    ],
+    "bubbly": [
+        "A photo of a patterns or texture: a bubbly, which has carbonated beverage.",
+        "A photo of a patterns or texture: a bubbly, which has clear or colored liquid.",
+        "A photo of a patterns or texture: a bubbly, which has bubbles or fizz visible in the liquid.",
+        "A photo of a patterns or texture: a bubbly, which typically served in a glass or bottle.",
+        "A photo of a patterns or texture: a bubbly, which may have a label or logo on the container.",
+        "A photo of a patterns or texture: a bubbly, which may have condensation on the outside of the container.",
+        "A photo of a patterns or texture: a bubbly, which may have a straw or garnish in the drink."
+    ],
+    "bumpy": [
+        "A photo of a patterns or texture: a bumpy, which has green, yellow, orange, or red in color.",
+        "A photo of a patterns or texture: a bumpy, which has bumpy or textured outer skin.",
+        "A photo of a patterns or texture: a bumpy, which typically smaller in size than other fruits.",
+        "A photo of a patterns or texture: a bumpy, which may have a stem attached.",
+        "A photo of a patterns or texture: a bumpy, which has juicy and sweet flesh inside.",
+        "A photo of a patterns or texture: a bumpy, which has seeds or pits inside.",
+        "A photo of a patterns or texture: a bumpy, which may have a distinct smell or taste."
+    ],
+    "chequered": [
+        "A photo of a patterns or texture: a chequered, which has pattern of alternating squares in two different colors (usually black and white).",
+        "A photo of a patterns or texture: a chequered, which has geometric design.",
+        "A photo of a patterns or texture: a chequered, which typically used in clothing, textiles, or flooring.",
+        "A photo of a patterns or texture: a chequered, which has symmetrical pattern.",
+        "A photo of a patterns or texture: a chequered, which has grid-like appearance.",
+        "A photo of a patterns or texture: a chequered, which has visually striking and eye-catching."
+    ],
+    "cobwebbed": [
+        "A photo of a patterns or texture: a cobwebbed, which has intricate, delicate web structure.",
+        "A photo of a patterns or texture: a cobwebbed, which has dusty or dirty appearance.",
+        "A photo of a patterns or texture: a cobwebbed, which has presence of trapped insects or debris.",
+        "A photo of a patterns or texture: a cobwebbed, which typically found in corners or unused spaces.",
+        "A photo of a patterns or texture: a cobwebbed, which typically made by spiders.",
+        "A photo of a patterns or texture: a cobwebbed, which can vary in size and shape.",
+        "A photo of a patterns or texture: a cobwebbed, which may have a sticky or dewy appearance."
+    ],
+    "cracked": [
+        "A photo of a patterns or texture: a cracked, which is a rough texture on the surface.",
+        "A photo of a patterns or texture: a cracked, which has visible lines or fractures running through the object.",
+        "A photo of a patterns or texture: a cracked, which is a jagged or uneven edge where the crack begins and ends.",
+        "A photo of a patterns or texture: a cracked, which has potential debris or dust collecting in the crack.",
+        "A photo of a patterns or texture: a cracked, which has discoloration or changes in color along the crack.",
+        "A photo of a patterns or texture: a cracked, which is a visible gap or separation in the material where the crack is located."
+    ],
+    "crosshatched": [
+        "A photo of a patterns or texture: a crosshatched, which is a pattern of intersecting lines or strokes forming a grid or lattice.",
+        "A photo of a patterns or texture: a crosshatched, which is a series of parallel lines that intersect at right angles.",
+        "A photo of a patterns or texture: a crosshatched, which is a textured or shaded effect created by drawing closely spaced lines.",
+        "A photo of a patterns or texture: a crosshatched, which is a hand-drawn or digital artistic technique used for shading or creating depth.",
+        "A photo of a patterns or texture: a crosshatched, which is a geometric or abstract design made up of intersecting lines.",
+        "A photo of a patterns or texture: a crosshatched, which is a technique used in printmaking, engraving, or drawing to create texture or shadow."
+    ],
+    "crystalline": [
+        "A photo of a patterns or texture: a crystalline, which has geometric shape with flat, smooth surfaces.",
+        "A photo of a patterns or texture: a crystalline, which has transparent or translucent appearance.",
+        "A photo of a patterns or texture: a crystalline, which has reflective surfaces.",
+        "A photo of a patterns or texture: a crystalline, which has colorful or iridescent hues.",
+        "A photo of a patterns or texture: a crystalline, which has sharp edges and points.",
+        "A photo of a patterns or texture: a crystalline, which may appear as a cluster or single crystal.",
+        "A photo of a patterns or texture: a crystalline, which may have a distinct pattern or structure within the crystal."
+    ],
+    "dotted": [
+        "A photo of a patterns or texture: a dotted, which has short legs.",
+        "A photo of a patterns or texture: a dotted, which has long ears.",
+        "A photo of a patterns or texture: a dotted, which has pointed snout.",
+        "A photo of a patterns or texture: a dotted, which has fur with spots or markings.",
+        "A photo of a patterns or texture: a dotted, which has bushy tail.",
+        "A photo of a patterns or texture: a dotted, which has sharp teeth.",
+        "A photo of a patterns or texture: a dotted, which has nocturnal behavior.",
+        "A photo of a patterns or texture: a dotted, which is agile and quick movements."
+    ],
+    "fibrous": [
+        "A photo of a patterns or texture: a fibrous, which has long, thin strands or fibers.",
+        "A photo of a patterns or texture: a fibrous, which has various colors such as white, brown, black, or grey.",
+        "A photo of a patterns or texture: a fibrous, which is a tangled or twisted appearance.",
+        "A photo of a patterns or texture: a fibrous, which is a shiny or glossy texture.",
+        "A photo of a patterns or texture: a fibrous, which has flexibility and elasticity.",
+        "A photo of a patterns or texture: a fibrous, which is a soft or rough feel.",
+        "A photo of a patterns or texture: a fibrous, which may be intertwined with other materials or objects."
+    ],
+    "flecked": [
+        "A photo of a patterns or texture: a flecked, which has six legs.",
+        "A photo of a patterns or texture: a flecked, which is antenna.",
+        "A photo of a patterns or texture: a flecked, which has wings (in some species).",
+        "A photo of a patterns or texture: a flecked, which has black or brown body.",
+        "A photo of a patterns or texture: a flecked, which has small size.",
+        "A photo of a patterns or texture: a flecked, which has usually found in grassy or wooded areas.",
+        "A photo of a patterns or texture: a flecked, which may have a distinct pattern or coloration on their body."
+    ],
+    "freckled": [
+        "A photo of a patterns or texture: a freckled, which has small, flat, circular spots on the skin.",
+        "A photo of a patterns or texture: a freckled, which typically light brown or red in color.",
+        "A photo of a patterns or texture: a freckled, which often appear on areas of skin exposed to the sun.",
+        "A photo of a patterns or texture: a freckled, which has more common in fair-skinned individuals.",
+        "A photo of a patterns or texture: a freckled, which can vary in size and number.",
+        "A photo of a patterns or texture: a freckled, which has usually permanent, but can fade over time with sun protection and skin care."
+    ],
+    "frilly": [
+        "A photo of a patterns or texture: a frilly, which has small lizard.",
+        "A photo of a patterns or texture: a frilly, which has colorful scale patterns.",
+        "A photo of a patterns or texture: a frilly, which has fringed skin flaps around the neck and body.",
+        "A photo of a patterns or texture: a frilly, which has long tail.",
+        "A photo of a patterns or texture: a frilly, which has small head with distinct eyes and mouth.",
+        "A photo of a patterns or texture: a frilly, which is agile movements.",
+        "A photo of a patterns or texture: a frilly, which typically found in tropical or subtropical regions."
+    ],
+    "gauzy": [
+        "A photo of a patterns or texture: a gauzy, which has thin, translucent fabric.",
+        "A photo of a patterns or texture: a gauzy, which has draped or hanging in a flowing manner.",
+        "A photo of a patterns or texture: a gauzy, which has light and airy texture.",
+        "A photo of a patterns or texture: a gauzy, which may have intricate or delicate patterns.",
+        "A photo of a patterns or texture: a gauzy, which may be used as a decorative element or clothing accessory."
+    ],
+    "grid": [
+        "A photo of a patterns or texture: a grid, which is a pattern of intersecting horizontal and vertical lines.",
+        "A photo of a patterns or texture: a grid, which has evenly spaced lines or squares.",
+        "A photo of a patterns or texture: a grid, which is used for organizing or measuring objects within the frame.",
+        "A photo of a patterns or texture: a grid, which can be made of metal, wood, or other materials.",
+        "A photo of a patterns or texture: a grid, which may have numbers or labels on each line or square to indicate specific points or measurements."
+    ],
+    "grooved": [
+        "A photo of a patterns or texture: a grooved, which has long, slender body.",
+        "A photo of a patterns or texture: a grooved, which has scales or ridges along the body.",
+        "A photo of a patterns or texture: a grooved, which has elongated snout.",
+        "A photo of a patterns or texture: a grooved, which has sharp teeth.",
+        "A photo of a patterns or texture: a grooved, which has forked tongue.",
+        "A photo of a patterns or texture: a grooved, which has four legs.",
+        "A photo of a patterns or texture: a grooved, which has tail, sometimes with a rattle.",
+        "A photo of a patterns or texture: a grooved, which typically green, brown, or grey in color."
+    ],
+    "honeycombed": [
+        "A photo of a patterns or texture: a honeycombed, which has hexagonal pattern.",
+        "A photo of a patterns or texture: a honeycombed, which has golden or amber color.",
+        "A photo of a patterns or texture: a honeycombed, which has small compartments filled with honey.",
+        "A photo of a patterns or texture: a honeycombed, which has waxy texture.",
+        "A photo of a patterns or texture: a honeycombed, which has sticky or viscous appearance.",
+        "A photo of a patterns or texture: a honeycombed, which typically found in a hive or nest.",
+        "A photo of a patterns or texture: a honeycombed, which may have bees or other insects present."
+    ],
+    "interlaced": [
+        "A photo of a patterns or texture: a interlaced, which has distinctive black and white stripes or bands on the body.",
+        "A photo of a patterns or texture: a interlaced, which has long, slender body.",
+        "A photo of a patterns or texture: a interlaced, which has pointed snout.",
+        "A photo of a patterns or texture: a interlaced, which has long tail.",
+        "A photo of a patterns or texture: a interlaced, which has small ears.",
+        "A photo of a patterns or texture: a interlaced, which has sharp claws.",
+        "A photo of a patterns or texture: a interlaced, which is agile and fast movements.",
+        "A photo of a patterns or texture: a interlaced, which has nocturnal behavior.",
+        "A photo of a patterns or texture: a interlaced, which has solitary or social behavior depending on the species."
+    ],
+    "knitted": [
+        "A photo of a patterns or texture: a knitted, which has intricate patterns or designs.",
+        "A photo of a patterns or texture: a knitted, which has yarn or thread texture.",
+        "A photo of a patterns or texture: a knitted, which has visible knitting needles or crochet hooks.",
+        "A photo of a patterns or texture: a knitted, which has various colors or color gradients.",
+        "A photo of a patterns or texture: a knitted, which has loops or stitches.",
+        "A photo of a patterns or texture: a knitted, which has finished edges or seams.",
+        "A photo of a patterns or texture: a knitted, which has handmade appearance."
+    ],
+    "lacelike": [
+        "A photo of a patterns or texture: a lacelike, which has fine, thread-like material.",
+        "A photo of a patterns or texture: a lacelike, which often white or cream in color.",
+        "A photo of a patterns or texture: a lacelike, which may have floral or geometric designs.",
+        "A photo of a patterns or texture: a lacelike, which typically used for decorative or ornamental purposes.",
+        "A photo of a patterns or texture: a lacelike, which may be seen on clothing, curtains, or home decor items."
+    ],
+    "lined": [
+        "A photo of a patterns or texture: a lined, which is a long, slender body with scales.",
+        "A photo of a patterns or texture: a lined, which has four legs.",
+        "A photo of a patterns or texture: a lined, which is a forked tongue.",
+        "A photo of a patterns or texture: a lined, which is a tail.",
+        "A photo of a patterns or texture: a lined, which often green, brown, or patterned coloring.",
+        "A photo of a patterns or texture: a lined, which has scales covering the body.",
+        "A photo of a patterns or texture: a lined, which has slit-like eyes.",
+        "A photo of a patterns or texture: a lined, which has flickering tongue.",
+        "A photo of a patterns or texture: a lined, which may have a rattle on the tail (in the case of a rattlesnake)."
+    ],
+    "marbled": [
+        "A photo of a patterns or texture: a marbled, which is a small, colorful, and intricately patterned freshwater fish.",
+        "A photo of a patterns or texture: a marbled, which has elongated body.",
+        "A photo of a patterns or texture: a marbled, which has dorsal fin with spines.",
+        "A photo of a patterns or texture: a marbled, which has bright colors such as orange, black, white, and blue.",
+        "A photo of a patterns or texture: a marbled, which has distinctive marbled or striped patterning on the body.",
+        "A photo of a patterns or texture: a marbled, which has small mouth with pointed teeth.",
+        "A photo of a patterns or texture: a marbled, which has fins on the top and bottom of the body.",
+        "A photo of a patterns or texture: a marbled, which has scales covering the body."
+    ],
+    "matted": [
+        "A photo of a patterns or texture: a matted, which is a thick, rigid border around the photo.",
+        "A photo of a patterns or texture: a matted, which is a textured surface.",
+        "A photo of a patterns or texture: a matted, which is a frame or backing to hold the photo in place.",
+        "A photo of a patterns or texture: a matted, which is a contrasting color or material from the photo itself.",
+        "A photo of a patterns or texture: a matted, which has visible wear or damage from age or use."
+    ],
+    "meshed": [
+        "A photo of a patterns or texture: a meshed, which is a grid-like pattern.",
+        "A photo of a patterns or texture: a meshed, which has made of metal or plastic.",
+        "A photo of a patterns or texture: a meshed, which is used for fencing or filtering.",
+        "A photo of a patterns or texture: a meshed, which typically see-through or translucent.",
+        "A photo of a patterns or texture: a meshed, which can be found in various colors.",
+        "A photo of a patterns or texture: a meshed, which may have a shiny or reflective surface.",
+        "A photo of a patterns or texture: a meshed, which may have sharp edges or corners."
+    ],
+    "paisley": [
+        "A photo of a patterns or texture: a paisley, which has intricate teardrop or kidney-shaped design.",
+        "A photo of a patterns or texture: a paisley, which has curved, abstract pattern.",
+        "A photo of a patterns or texture: a paisley, which typically in a single color or multiple colors.",
+        "A photo of a patterns or texture: a paisley, which often found in textiles such as clothing or home decor.",
+        "A photo of a patterns or texture: a paisley, which often seen in traditional Indian or Persian designs.",
+        "A photo of a patterns or texture: a paisley, which may have a floral or botanical motif.",
+        "A photo of a patterns or texture: a paisley, which may have a paisley shape repeated in a pattern."
+    ],
+    "perforated": [
+        "A photo of a patterns or texture: a perforated, which has metal or plastic material.",
+        "A photo of a patterns or texture: a perforated, which has lightweight and rigid.",
+        "A photo of a patterns or texture: a perforated, which may have a raised edge or border.",
+        "A photo of a patterns or texture: a perforated, which often used for ventilation or decorative purposes."
+    ],
+    "pitted": [
+        "A photo of a patterns or texture: a pitted, which has round or oval shape.",
+        "A photo of a patterns or texture: a pitted, which has hard outer shell.",
+        "A photo of a patterns or texture: a pitted, which has soft inner flesh.",
+        "A photo of a patterns or texture: a pitted, which has small indentations or \"pits\" on the surface.",
+        "A photo of a patterns or texture: a pitted, which has various colors such as green, black, or brown.",
+        "A photo of a patterns or texture: a pitted, which typically found on trees or in bowls of fruit.",
+        "A photo of a patterns or texture: a pitted, which may have a stem attached.",
+        "A photo of a patterns or texture: a pitted, which may have a stone or pit inside."
+    ],
+    "pleated": [
+        "A photo of a patterns or texture: a pleated, which is a type of fabric with evenly spaced creases or folds.",
+        "A photo of a patterns or texture: a pleated, which typically used in clothing, curtains, or other decorative items.",
+        "A photo of a patterns or texture: a pleated, which can be made from various materials such as cotton, silk, or polyester.",
+        "A photo of a patterns or texture: a pleated, which may have a shimmering or textured appearance.",
+        "A photo of a patterns or texture: a pleated, which can be easily identified by its distinctive pleats or folds in the fabric."
+    ],
+    "polka-dotted": [
+        "A photo of a patterns or texture: a polka-dotted, which has circular or oval shapes of various sizes.",
+        "A photo of a patterns or texture: a polka-dotted, which has evenly spaced dots or spots.",
+        "A photo of a patterns or texture: a polka-dotted, which has contrasting colors between the dots and the background.",
+        "A photo of a patterns or texture: a polka-dotted, which is a repeated pattern of dots across a surface.",
+        "A photo of a patterns or texture: a polka-dotted, which is a fun and whimsical aesthetic."
+    ],
+    "porous": [
+        "A photo of a patterns or texture: a porous, which has spongy texture.",
+        "A photo of a patterns or texture: a porous, which has multiple openings or pores.",
+        "A photo of a patterns or texture: a porous, which typically made of ceramic, stone, or other porous material.",
+        "A photo of a patterns or texture: a porous, which may be used for filtering liquids or gases.",
+        "A photo of a patterns or texture: a porous, which may be cylindrical or irregular in shape.",
+        "A photo of a patterns or texture: a porous, which may have a handle for easy gripping.",
+        "A photo of a patterns or texture: a porous, which may be used for cooking or cleaning purposes."
+    ],
+    "potholed": [
+        "A photo of a patterns or texture: a potholed, which is a hole or depression in the road surface.",
+        "A photo of a patterns or texture: a potholed, which often filled with water or debris.",
+        "A photo of a patterns or texture: a potholed, which has irregular shape.",
+        "A photo of a patterns or texture: a potholed, which has surrounded by cracked or damaged pavement.",
+        "A photo of a patterns or texture: a potholed, which typically located on roads or parking lots.",
+        "A photo of a patterns or texture: a potholed, which may have warning signs or cones nearby.",
+        "A photo of a patterns or texture: a potholed, which may have tire tracks or debris around the edges."
+    ],
+    "scaly": [
+        "A photo of a patterns or texture: a scaly, which has reptile.",
+        "A photo of a patterns or texture: a scaly, which has covered in scales.",
+        "A photo of a patterns or texture: a scaly, which has elongated body.",
+        "A photo of a patterns or texture: a scaly, which has four legs.",
+        "A photo of a patterns or texture: a scaly, which has claws.",
+        "A photo of a patterns or texture: a scaly, which has tail.",
+        "A photo of a patterns or texture: a scaly, which often have a distinctive head shape (e.g. triangular for snakes, rounded for turtles).",
+        "A photo of a patterns or texture: a scaly, which often have a forked or pointed tongue.",
+        "A photo of a patterns or texture: a scaly, which may have patterns or colors on their scales for camouflage."
+    ],
+    "smeared": [
+        "A photo of a patterns or texture: a smeared, which is a small, insect-eating mammal.",
+        "A photo of a patterns or texture: a smeared, which has grey or brown fur.",
+        "A photo of a patterns or texture: a smeared, which has long snout.",
+        "A photo of a patterns or texture: a smeared, which has small, sharp teeth.",
+        "A photo of a patterns or texture: a smeared, which has long, sticky tongue for catching insects.",
+        "A photo of a patterns or texture: a smeared, which has small ears.",
+        "A photo of a patterns or texture: a smeared, which has sharp claws for climbing.",
+        "A photo of a patterns or texture: a smeared, which has nocturnal behavior."
+    ],
+    "spiralled": [
+        "A photo of a patterns or texture: a spiralled, which is a spiral shape or pattern.",
+        "A photo of a patterns or texture: a spiralled, which is a curved, winding structure.",
+        "A photo of a patterns or texture: a spiralled, which is a repetitive, coiled design.",
+        "A photo of a patterns or texture: a spiralled, which often found in nature or in man-made objects such as springs or shells.",
+        "A photo of a patterns or texture: a spiralled, which can be clockwise or counterclockwise.",
+        "A photo of a patterns or texture: a spiralled, which may be tight and compact or loose and flowing."
+    ],
+    "sprinkled": [
+        "A photo of a patterns or texture: a sprinkled, which has watering device.",
+        "A photo of a patterns or texture: a sprinkled, which typically made of metal or plastic.",
+        "A photo of a patterns or texture: a sprinkled, which has long handle for holding.",
+        "A photo of a patterns or texture: a sprinkled, which has perforated head for dispersing water.",
+        "A photo of a patterns or texture: a sprinkled, which may have adjustable settings for different water flow.",
+        "A photo of a patterns or texture: a sprinkled, which may have a trigger or button for controlling water flow.",
+        "A photo of a patterns or texture: a sprinkled, which may have a rotating head for even water distribution."
+    ],
+    "stained": [
+        "A photo of a patterns or texture: a stained, which has wooden or metal structure.",
+        "A photo of a patterns or texture: a stained, which has flat surface for ironing clothes.",
+        "A photo of a patterns or texture: a stained, which is a steam iron or traditional iron.",
+        "A photo of a patterns or texture: a stained, which has ironing board cover.",
+        "A photo of a patterns or texture: a stained, which is adjustable height settings.",
+        "A photo of a patterns or texture: a stained, which has foldable for easy storage.",
+        "A photo of a patterns or texture: a stained, which has iron rest for placing the iron when not in use."
+    ],
+    "stratified": [
+        "A photo of a patterns or texture: a stratified, which has visible sedimentary structures such as bedding planes, cross-bedding, or ripple marks.",
+        "A photo of a patterns or texture: a stratified, which has different types of rock or sediment in each layer.",
+        "A photo of a patterns or texture: a stratified, which has clear boundaries between layers.",
+        "A photo of a patterns or texture: a stratified, which has possibly fossils or other evidence of past environments within the layers."
+    ],
+    "striped": [
+        "A photo of a patterns or texture: a striped, which has long, slender body.",
+        "A photo of a patterns or texture: a striped, which has stripes of varying colors (black, white, brown, orange, etc.).",
+        "A photo of a patterns or texture: a striped, which has pointed ears.",
+        "A photo of a patterns or texture: a striped, which has whiskers.",
+        "A photo of a patterns or texture: a striped, which has sharp teeth.",
+        "A photo of a patterns or texture: a striped, which has tail with stripes.",
+        "A photo of a patterns or texture: a striped, which has four legs with claws.",
+        "A photo of a patterns or texture: a striped, which has whiskers.",
+        "A photo of a patterns or texture: a striped, which has eyes with vertical pupils."
+    ],
+    "studded": [
+        "A photo of a patterns or texture: a studded, which has four-legged animal.",
+        "A photo of a patterns or texture: a studded, which typically large, muscular build.",
+        "A photo of a patterns or texture: a studded, which has solid color coat (often black, brown, or white).",
+        "A photo of a patterns or texture: a studded, which has pointed ears.",
+        "A photo of a patterns or texture: a studded, which has sharp teeth.",
+        "A photo of a patterns or texture: a studded, which has long tail.",
+        "A photo of a patterns or texture: a studded, which has strong, powerful stance and presence."
+    ],
+    "swirly": [
+        "A photo of a patterns or texture: a swirly, which has varying colors or shades.",
+        "A photo of a patterns or texture: a swirly, which is a sense of motion or fluidity.",
+        "A photo of a patterns or texture: a swirly, which is a whimsical or artistic appearance.",
+        "A photo of a patterns or texture: a swirly, which is a mesmerizing or hypnotic effect."
+    ],
+    "veined": [
+        "A photo of a patterns or texture: a veined, which has green or purple leaves with visible veins.",
+        "A photo of a patterns or texture: a veined, which has small or medium-sized plant.",
+        "A photo of a patterns or texture: a veined, which typically found in tropical or subtropical regions.",
+        "A photo of a patterns or texture: a veined, which may have flowers or fruit.",
+        "A photo of a patterns or texture: a veined, which may have a trailing or climbing growth habit.",
+        "A photo of a patterns or texture: a veined, which may have a distinctive smell or taste.",
+        "A photo of a patterns or texture: a veined, which may be used for medicinal or culinary purposes."
+    ],
+    "waffled": [
+        "A photo of a patterns or texture: a waffled, which has grid pattern on the surface of the waffle.",
+        "A photo of a patterns or texture: a waffled, which has golden brown color.",
+        "A photo of a patterns or texture: a waffled, which has circular or square shape.",
+        "A photo of a patterns or texture: a waffled, which has fluffy texture.",
+        "A photo of a patterns or texture: a waffled, which has toppings such as syrup, butter, fruit, or whipped cream.",
+        "A photo of a patterns or texture: a waffled, which has ridges around the edges of the waffle.",
+        "A photo of a patterns or texture: a waffled, which often served on a plate or in a stack with other waffles."
+    ],
+    "woven": [
+        "A photo of a patterns or texture: a woven, which has intricate patterns or designs.",
+        "A photo of a patterns or texture: a woven, which has various colors or shades.",
+        "A photo of a patterns or texture: a woven, which has different textures.",
+        "A photo of a patterns or texture: a woven, which has visible weaving techniques such as twill, plain weave, or basket weave.",
+        "A photo of a patterns or texture: a woven, which has fringes or tassels.",
+        "A photo of a patterns or texture: a woven, which has symmetry or asymmetry in the design.",
+        "A photo of a patterns or texture: a woven, which has size and shape of the woven item (e.g. rug, blanket, basket)."
+    ],
+    "wrinkled": [
+        "A photo of a patterns or texture: a wrinkled, which has wrinkled skin.",
+        "A photo of a patterns or texture: a wrinkled, which has folds and creases in the skin.",
+        "A photo of a patterns or texture: a wrinkled, which has texture of the skin appears rough or uneven.",
+        "A photo of a patterns or texture: a wrinkled, which typically found in areas where the skin naturally creases or folds, such as around the eyes, mouth, and neck.",
+        "A photo of a patterns or texture: a wrinkled, which may appear more pronounced with age.",
+        "A photo of a patterns or texture: a wrinkled, which may be more visible in certain lighting conditions or angles."
+    ],
+    "zigzagged": [
+        "A photo of a patterns or texture: a zigzagged, which is a pattern of sharp, angular lines that form a continuous series of connected zigzags.",
+        "A photo of a patterns or texture: a zigzagged, which is alternating colors or shades within the zigzag pattern.",
+        "A photo of a patterns or texture: a zigzagged, which has distinct, repeated peaks and valleys in the pattern.",
+        "A photo of a patterns or texture: a zigzagged, which is a consistent direction or orientation of the zigzag lines.",
+        "A photo of a patterns or texture: a zigzagged, which is a regular or irregular spacing between the zigzag lines."
+    ]
+}
