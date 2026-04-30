@@ -82,7 +82,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 
 ## Result
 <p align="center">
-  <img src="figs/avg_result.png" width="600"/>
+  <img src="avg_result.png" width="600"/>
 </p>
 *Figure: Comparison of average accuracy across 11 datasets.*
 
