@@ -3,7 +3,7 @@
 
 
 ## Introduction
-This paper proposes a novel Co-Fusion CLIP via Visual-Text Rectification (CVTR) framework to address semantic-shift-induced visual bias and high-uncertainty predictions for CLIP-based few-shot classification. Specifically, our CVTR utilizes Image-Guided Text Refinement (IGTR) to mitigate semantic shift via visual guidance, and Instance-Guided Visual Enhancement (IGVE)  to support textual refinement during training and reduces prediction uncertainty via patch-level optimal matching during inference. Finally, a coordinate fusion strategy (FSCF) balances the rectified visual and textual logits at the loss level. The experiments are conducted on eleven benchmark datasets, and the results show CVTR outperforms representative methods under zero-shot and few-shot settings while exhibiting robust cross-domain generalization.
+This paper proposes a novel Co-Fusion CLIP via Visual-Text Rectification (CVTR) framework to address semantic-shift-induced visual bias and high-uncertainty predictions for CLIP-based few-shot classification. Specifically, our CVTR utilizes Visual-Anchored Text Calibration (VATC) to mitigate semantic shift via visual guidance, and Instance-Anchored Visual Calibration (IAVC)  to support textual refinement during training and reduces prediction uncertainty via patch-level optimal matching during inference. Finally, a coordinate fusion strategy (FSCF) balances the rectified visual and textual logits at the loss level. The experiments are conducted on eleven benchmark datasets, and the results show CVTR outperforms representative methods under zero-shot and few-shot settings while exhibiting robust cross-domain generalization.
 <div align="center">
   <img src="framework.png"/>
 </div>
@@ -82,7 +82,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 
 ## Result
 <p align="center">
-  <img src="avg_result.png" width="600"/>
+  <img src="figs/avg_result.png" width="600"/>
 </p>
 *Figure: Comparison of average accuracy across 11 datasets.*
 
